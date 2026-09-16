@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 18,
-  "updatedAt": "2026-09-16T01:55:26.663Z",
+  "totalPulls": 19,
+  "updatedAt": "2026-09-16T01:56:14.650Z",
   "lastPull": {
-    "id": 907,
-    "name": "floragato",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+    "id": 1012,
+    "name": "poltchageist",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
     "types": [
-      "grass"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:55:26.663Z"
+    "totalStats": 308,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:56:14.650Z"
   },
   "pulls": [
+    {
+      "id": 1012,
+      "name": "poltchageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:56:14.650Z"
+    },
     {
       "id": 907,
       "name": "floragato",
@@ -117,18 +130,6 @@
       "totalStats": 521,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:49:37.072Z"
-    },
-    {
-      "id": 806,
-      "name": "blacephalon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
-      "types": [
-        "fire",
-        "ghost"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T01:47:54.038Z"
     }
   ],
   "pokemon": {
@@ -412,6 +413,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:30:14.168Z",
       "lastPulledAt": "2026-09-16T01:30:14.168Z"
+    },
+    "1012": {
+      "id": 1012,
+      "name": "poltchageist",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:56:14.650Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:56:14.650Z",
+      "lastPulledAt": "2026-09-16T01:56:14.650Z"
     }
   },
   "typeTotals": {
