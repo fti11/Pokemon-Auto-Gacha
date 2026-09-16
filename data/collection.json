@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 19,
-  "updatedAt": "2026-09-16T01:56:14.650Z",
+  "totalPulls": 20,
+  "updatedAt": "2026-09-16T01:57:06.086Z",
   "lastPull": {
-    "id": 1012,
-    "name": "poltchageist",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+    "id": 513,
+    "name": "pansear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
     "types": [
-      "grass",
-      "ghost"
+      "fire"
     ],
-    "totalStats": 308,
+    "totalStats": 316,
     "grade": "N",
-    "pulledAt": "2026-09-16T01:56:14.650Z"
+    "pulledAt": "2026-09-16T01:57:06.086Z"
   },
   "pulls": [
+    {
+      "id": 513,
+      "name": "pansear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:57:06.086Z"
+    },
     {
       "id": 1012,
       "name": "poltchageist",
@@ -118,18 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-16T01:50:36.703Z"
-    },
-    {
-      "id": 699,
-      "name": "aurorus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
-      "types": [
-        "rock",
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T01:49:37.072Z"
     }
   ],
   "pokemon": {
@@ -258,6 +256,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:35:41.947Z",
       "lastPulledAt": "2026-09-16T01:35:41.947Z"
+    },
+    "513": {
+      "id": 513,
+      "name": "pansear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:57:06.086Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:57:06.086Z",
+      "lastPulledAt": "2026-09-16T01:57:06.086Z"
     },
     "699": {
       "id": 699,
