@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-16T01:30:14.168Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-16T01:35:41.947Z",
   "lastPull": {
-    "id": 980,
-    "name": "clodsire",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+    "id": 494,
+    "name": "victini",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
     "types": [
-      "poison",
-      "ground"
+      "psychic",
+      "fire"
     ],
-    "totalStats": 430,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:30:14.168Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-16T01:35:41.947Z"
   },
   "pulls": [
+    {
+      "id": 494,
+      "name": "victini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+      "types": [
+        "psychic",
+        "fire"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T01:35:41.947Z"
+    },
     {
       "id": 980,
       "name": "clodsire",
@@ -29,6 +41,22 @@
     }
   ],
   "pokemon": {
+    "494": {
+      "id": 494,
+      "name": "victini",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+      "types": [
+        "psychic",
+        "fire"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T01:35:41.947Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:35:41.947Z",
+      "lastPulledAt": "2026-09-16T01:35:41.947Z"
+    },
     "980": {
       "id": 980,
       "name": "clodsire",
