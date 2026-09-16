@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-16T01:58:41.901Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-16T02:00:06.514Z",
   "lastPull": {
-    "id": 576,
-    "name": "gothitelle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png",
+    "id": 929,
+    "name": "dolliv",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
     "types": [
-      "psychic"
+      "grass",
+      "normal"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:58:41.901Z"
+    "totalStats": 354,
+    "grade": "N",
+    "pulledAt": "2026-09-16T02:00:06.514Z"
   },
   "pulls": [
+    {
+      "id": 929,
+      "name": "dolliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 354,
+      "grade": "N",
+      "pulledAt": "2026-09-16T02:00:06.514Z"
+    },
     {
       "id": 576,
       "name": "gothitelle",
@@ -116,18 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:52:36.439Z"
-    },
-    {
-      "id": 343,
-      "name": "baltoy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
-      "types": [
-        "ground",
-        "psychic"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:51:52.821Z"
     }
   ],
   "pokemon": {
@@ -395,6 +396,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:55:26.663Z",
       "lastPulledAt": "2026-09-16T01:55:26.663Z"
+    },
+    "929": {
+      "id": 929,
+      "name": "dolliv",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+      "types": [
+        "grass",
+        "normal"
+      ],
+      "totalStats": 354,
+      "grade": "N",
+      "pulledAt": "2026-09-16T02:00:06.514Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T02:00:06.514Z",
+      "lastPulledAt": "2026-09-16T02:00:06.514Z"
     },
     "961": {
       "id": 961,
