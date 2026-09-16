@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-16T01:40:36.393Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-16T01:42:01.857Z",
   "lastPull": {
-    "id": 414,
-    "name": "mothim",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "id": 158,
+    "name": "totodile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
     "types": [
-      "bug",
-      "flying"
+      "water"
     ],
-    "totalStats": 424,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:40:36.393Z"
+    "totalStats": 314,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:42:01.857Z"
   },
   "pulls": [
+    {
+      "id": 158,
+      "name": "totodile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:42:01.857Z"
+    },
     {
       "id": 414,
       "name": "mothim",
@@ -64,6 +74,21 @@
     }
   ],
   "pokemon": {
+    "158": {
+      "id": 158,
+      "name": "totodile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 314,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:42:01.857Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:42:01.857Z",
+      "lastPulledAt": "2026-09-16T01:42:01.857Z"
+    },
     "414": {
       "id": 414,
       "name": "mothim",
