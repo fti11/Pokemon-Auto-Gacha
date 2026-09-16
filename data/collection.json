@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 9,
-  "updatedAt": "2026-09-16T01:47:54.038Z",
+  "totalPulls": 10,
+  "updatedAt": "2026-09-16T01:49:37.072Z",
   "lastPull": {
-    "id": 806,
-    "name": "blacephalon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+    "id": 699,
+    "name": "aurorus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
     "types": [
-      "fire",
-      "ghost"
+      "rock",
+      "ice"
     ],
-    "totalStats": 570,
+    "totalStats": 521,
     "grade": "SR",
-    "pulledAt": "2026-09-16T01:47:54.038Z"
+    "pulledAt": "2026-09-16T01:49:37.072Z"
   },
   "pulls": [
+    {
+      "id": 699,
+      "name": "aurorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:49:37.072Z"
+    },
     {
       "id": 806,
       "name": "blacephalon",
@@ -184,6 +196,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:35:41.947Z",
       "lastPulledAt": "2026-09-16T01:35:41.947Z"
+    },
+    "699": {
+      "id": 699,
+      "name": "aurorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:49:37.072Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:49:37.072Z",
+      "lastPulledAt": "2026-09-16T01:49:37.072Z"
     },
     "806": {
       "id": 806,
