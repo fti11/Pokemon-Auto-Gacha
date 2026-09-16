@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 12,
-  "updatedAt": "2026-09-16T01:51:20.856Z",
+  "totalPulls": 13,
+  "updatedAt": "2026-09-16T01:51:52.821Z",
   "lastPull": {
-    "id": 843,
-    "name": "silicobra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+    "id": 343,
+    "name": "baltoy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
     "types": [
-      "ground"
+      "ground",
+      "psychic"
     ],
-    "totalStats": 315,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-09-16T01:51:20.856Z"
+    "pulledAt": "2026-09-16T01:51:52.821Z"
   },
   "pulls": [
+    {
+      "id": 343,
+      "name": "baltoy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:51:52.821Z"
+    },
     {
       "id": 843,
       "name": "silicobra",
@@ -118,17 +131,6 @@
       "totalStats": 424,
       "grade": "R",
       "pulledAt": "2026-09-16T01:40:36.393Z"
-    },
-    {
-      "id": 821,
-      "name": "rookidee",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
-      "types": [
-        "flying"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:39:28.228Z"
     }
   ],
   "pokemon": {
@@ -162,6 +164,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:36.489Z",
       "lastPulledAt": "2026-09-16T01:43:36.489Z"
+    },
+    "343": {
+      "id": 343,
+      "name": "baltoy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:51:52.821Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:51:52.821Z",
+      "lastPulledAt": "2026-09-16T01:51:52.821Z"
     },
     "414": {
       "id": 414,
