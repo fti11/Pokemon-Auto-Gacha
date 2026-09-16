@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 14,
-  "updatedAt": "2026-09-16T01:52:36.439Z",
+  "totalPulls": 15,
+  "updatedAt": "2026-09-16T01:53:27.192Z",
   "lastPull": {
-    "id": 973,
-    "name": "flamigo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+    "id": 961,
+    "name": "wugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
     "types": [
-      "flying",
-      "fighting"
+      "water"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T01:52:36.439Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-09-16T01:53:27.192Z"
   },
   "pulls": [
+    {
+      "id": 961,
+      "name": "wugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:53:27.192Z"
+    },
     {
       "id": 973,
       "name": "flamigo",
@@ -120,17 +130,6 @@
       "totalStats": 468,
       "grade": "R",
       "pulledAt": "2026-09-16T01:43:36.489Z"
-    },
-    {
-      "id": 158,
-      "name": "totodile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:42:01.857Z"
     }
   ],
   "pokemon": {
@@ -306,6 +305,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:44:56.566Z",
       "lastPulledAt": "2026-09-16T01:44:56.566Z"
+    },
+    "961": {
+      "id": 961,
+      "name": "wugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:53:27.192Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:53:27.192Z",
+      "lastPulledAt": "2026-09-16T01:53:27.192Z"
     },
     "968": {
       "id": 968,
