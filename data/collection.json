@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 8,
-  "updatedAt": "2026-09-16T01:46:31.063Z",
+  "totalPulls": 9,
+  "updatedAt": "2026-09-16T01:47:54.038Z",
   "lastPull": {
-    "id": 968,
-    "name": "orthworm",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+    "id": 806,
+    "name": "blacephalon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
     "types": [
-      "steel"
+      "fire",
+      "ghost"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:46:31.063Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T01:47:54.038Z"
   },
   "pulls": [
+    {
+      "id": 806,
+      "name": "blacephalon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:47:54.038Z"
+    },
     {
       "id": 968,
       "name": "orthworm",
@@ -171,6 +184,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:35:41.947Z",
       "lastPulledAt": "2026-09-16T01:35:41.947Z"
+    },
+    "806": {
+      "id": 806,
+      "name": "blacephalon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/806.png",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T01:47:54.038Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:47:54.038Z",
+      "lastPulledAt": "2026-09-16T01:47:54.038Z"
     },
     "821": {
       "id": 821,
