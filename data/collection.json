@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 24,
-  "updatedAt": "2026-09-16T06:13:53.400Z",
+  "totalPulls": 25,
+  "updatedAt": "2026-09-16T11:36:02.508Z",
   "lastPull": {
-    "id": 836,
-    "name": "boltund",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+    "id": 633,
+    "name": "deino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
     "types": [
-      "electric"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-16T06:13:53.400Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-16T11:36:02.508Z"
   },
   "pulls": [
+    {
+      "id": 633,
+      "name": "deino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-16T11:36:02.508Z"
+    },
     {
       "id": 836,
       "name": "boltund",
@@ -116,17 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-16T01:54:11.142Z"
-    },
-    {
-      "id": 961,
-      "name": "wugtrio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:53:27.192Z"
     }
   ],
   "pokemon": {
@@ -301,6 +303,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:58:41.901Z",
       "lastPulledAt": "2026-09-16T01:58:41.901Z"
+    },
+    "633": {
+      "id": 633,
+      "name": "deino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-16T11:36:02.508Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T11:36:02.508Z",
+      "lastPulledAt": "2026-09-16T11:36:02.508Z"
     },
     "699": {
       "id": 699,
