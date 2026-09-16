@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 17,
-  "updatedAt": "2026-09-16T01:54:49.180Z",
+  "totalPulls": 18,
+  "updatedAt": "2026-09-16T01:55:26.663Z",
   "lastPull": {
-    "id": 221,
-    "name": "piloswine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+    "id": 907,
+    "name": "floragato",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
     "types": [
-      "ice",
-      "ground"
+      "grass"
     ],
-    "totalStats": 450,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-09-16T01:54:49.180Z"
+    "pulledAt": "2026-09-16T01:55:26.663Z"
   },
   "pulls": [
+    {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:55:26.663Z"
+    },
     {
       "id": 221,
       "name": "piloswine",
@@ -119,17 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-16T01:47:54.038Z"
-    },
-    {
-      "id": 968,
-      "name": "orthworm",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-16T01:46:31.063Z"
     }
   ],
   "pokemon": {
@@ -336,6 +335,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:44:56.566Z",
       "lastPulledAt": "2026-09-16T01:44:56.566Z"
+    },
+    "907": {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:55:26.663Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:55:26.663Z",
+      "lastPulledAt": "2026-09-16T01:55:26.663Z"
     },
     "961": {
       "id": 961,
