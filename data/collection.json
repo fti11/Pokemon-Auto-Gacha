@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 16,
-  "updatedAt": "2026-09-16T01:54:11.142Z",
+  "totalPulls": 17,
+  "updatedAt": "2026-09-16T01:54:49.180Z",
   "lastPull": {
-    "id": 491,
-    "name": "darkrai",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
+    "id": 221,
+    "name": "piloswine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
     "types": [
-      "dark"
+      "ice",
+      "ground"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-16T01:54:11.142Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-09-16T01:54:49.180Z"
   },
   "pulls": [
+    {
+      "id": 221,
+      "name": "piloswine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:54:49.180Z"
+    },
     {
       "id": 491,
       "name": "darkrai",
@@ -117,18 +130,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-09-16T01:46:31.063Z"
-    },
-    {
-      "id": 887,
-      "name": "dragapult",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
-      "types": [
-        "dragon",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-16T01:44:56.566Z"
     }
   ],
   "pokemon": {
@@ -146,6 +147,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:01.857Z",
       "lastPulledAt": "2026-09-16T01:42:01.857Z"
+    },
+    "221": {
+      "id": 221,
+      "name": "piloswine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:54:49.180Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:54:49.180Z",
+      "lastPulledAt": "2026-09-16T01:54:49.180Z"
     },
     "342": {
       "id": 342,
