@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 6,
-  "updatedAt": "2026-09-16T01:43:36.489Z",
+  "totalPulls": 7,
+  "updatedAt": "2026-09-16T01:44:56.566Z",
   "lastPull": {
-    "id": 342,
-    "name": "crawdaunt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+    "id": 887,
+    "name": "dragapult",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
     "types": [
-      "water",
-      "dark"
+      "dragon",
+      "ghost"
     ],
-    "totalStats": 468,
-    "grade": "R",
-    "pulledAt": "2026-09-16T01:43:36.489Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-16T01:44:56.566Z"
   },
   "pulls": [
+    {
+      "id": 887,
+      "name": "dragapult",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T01:44:56.566Z"
+    },
     {
       "id": 342,
       "name": "crawdaunt",
@@ -164,6 +176,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:28.228Z",
       "lastPulledAt": "2026-09-16T01:39:28.228Z"
+    },
+    "887": {
+      "id": 887,
+      "name": "dragapult",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-16T01:44:56.566Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:44:56.566Z",
+      "lastPulledAt": "2026-09-16T01:44:56.566Z"
     },
     "980": {
       "id": 980,
