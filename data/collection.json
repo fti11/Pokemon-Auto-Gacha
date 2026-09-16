@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 25,
-  "updatedAt": "2026-09-16T11:36:02.508Z",
+  "totalPulls": 26,
+  "updatedAt": "2026-09-16T14:13:43.186Z",
   "lastPull": {
-    "id": 633,
-    "name": "deino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+    "id": 65,
+    "name": "alakazam",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
     "types": [
-      "dark",
-      "dragon"
+      "psychic"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-16T11:36:02.508Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-16T14:13:43.186Z"
   },
   "pulls": [
+    {
+      "id": 65,
+      "name": "alakazam",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T14:13:43.186Z"
+    },
     {
       "id": 633,
       "name": "deino",
@@ -118,20 +128,24 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-16T01:54:49.180Z"
-    },
-    {
-      "id": 491,
-      "name": "darkrai",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-16T01:54:11.142Z"
     }
   ],
   "pokemon": {
+    "65": {
+      "id": 65,
+      "name": "alakazam",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-16T14:13:43.186Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T14:13:43.186Z",
+      "lastPulledAt": "2026-09-16T14:13:43.186Z"
+    },
     "158": {
       "id": 158,
       "name": "totodile",
