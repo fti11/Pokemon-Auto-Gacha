@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 7,
-  "updatedAt": "2026-09-16T01:44:56.566Z",
+  "totalPulls": 8,
+  "updatedAt": "2026-09-16T01:46:31.063Z",
   "lastPull": {
-    "id": 887,
-    "name": "dragapult",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/887.png",
+    "id": 968,
+    "name": "orthworm",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
     "types": [
-      "dragon",
-      "ghost"
+      "steel"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-16T01:44:56.566Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-09-16T01:46:31.063Z"
   },
   "pulls": [
+    {
+      "id": 968,
+      "name": "orthworm",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:46:31.063Z"
+    },
     {
       "id": 887,
       "name": "dragapult",
@@ -192,6 +202,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:44:56.566Z",
       "lastPulledAt": "2026-09-16T01:44:56.566Z"
+    },
+    "968": {
+      "id": 968,
+      "name": "orthworm",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-09-16T01:46:31.063Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:46:31.063Z",
+      "lastPulledAt": "2026-09-16T01:46:31.063Z"
     },
     "980": {
       "id": 980,
