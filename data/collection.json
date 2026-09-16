@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 2,
-  "updatedAt": "2026-09-16T01:35:41.947Z",
+  "totalPulls": 3,
+  "updatedAt": "2026-09-16T01:39:28.228Z",
   "lastPull": {
-    "id": 494,
-    "name": "victini",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/494.png",
+    "id": 821,
+    "name": "rookidee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
     "types": [
-      "psychic",
-      "fire"
+      "flying"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-16T01:35:41.947Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-09-16T01:39:28.228Z"
   },
   "pulls": [
+    {
+      "id": 821,
+      "name": "rookidee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:39:28.228Z"
+    },
     {
       "id": 494,
       "name": "victini",
@@ -56,6 +66,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:35:41.947Z",
       "lastPulledAt": "2026-09-16T01:35:41.947Z"
+    },
+    "821": {
+      "id": 821,
+      "name": "rookidee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png",
+      "types": [
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:39:28.228Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:39:28.228Z",
+      "lastPulledAt": "2026-09-16T01:39:28.228Z"
     },
     "980": {
       "id": 980,
