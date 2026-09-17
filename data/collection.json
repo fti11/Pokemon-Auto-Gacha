@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 29,
-  "updatedAt": "2026-09-16T22:03:55.433Z",
+  "totalPulls": 30,
+  "updatedAt": "2026-09-17T00:20:21.097Z",
   "lastPull": {
-    "id": 520,
-    "name": "tranquill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+    "id": 397,
+    "name": "staravia",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
     "types": [
       "normal",
       "flying"
     ],
-    "totalStats": 358,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-09-16T22:03:55.433Z"
+    "pulledAt": "2026-09-17T00:20:21.097Z"
   },
   "pulls": [
+    {
+      "id": 397,
+      "name": "staravia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-17T00:20:21.097Z"
+    },
     {
       "id": 520,
       "name": "tranquill",
@@ -117,17 +129,6 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-09-16T01:58:08.115Z"
-    },
-    {
-      "id": 513,
-      "name": "pansear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 316,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:57:06.086Z"
     }
   ],
   "pokemon": {
@@ -208,6 +209,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:52.821Z",
       "lastPulledAt": "2026-09-16T01:51:52.821Z"
+    },
+    "397": {
+      "id": 397,
+      "name": "staravia",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/397.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-17T00:20:21.097Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T00:20:21.097Z",
+      "lastPulledAt": "2026-09-17T00:20:21.097Z"
     },
     "414": {
       "id": 414,
