@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 42,
-  "updatedAt": "2026-09-18T20:59:07.908Z",
+  "totalPulls": 43,
+  "updatedAt": "2026-09-18T23:01:42.944Z",
   "lastPull": {
-    "id": 914,
-    "name": "quaquaval",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+    "id": 431,
+    "name": "glameow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
     "types": [
-      "water",
-      "fighting"
+      "normal"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-09-18T20:59:07.908Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-09-18T23:01:42.944Z"
   },
   "pulls": [
+    {
+      "id": 431,
+      "name": "glameow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-18T23:01:42.944Z"
+    },
     {
       "id": 914,
       "name": "quaquaval",
@@ -115,18 +125,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-17T18:30:07.106Z"
-    },
-    {
-      "id": 1015,
-      "name": "munkidori",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
-      "types": [
-        "poison",
-        "psychic"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T14:34:01.588Z"
     }
   ],
   "pokemon": {
@@ -314,6 +312,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:40:36.393Z",
       "lastPulledAt": "2026-09-16T01:40:36.393Z"
+    },
+    "431": {
+      "id": 431,
+      "name": "glameow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-09-18T23:01:42.944Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T23:01:42.944Z",
+      "lastPulledAt": "2026-09-18T23:01:42.944Z"
     },
     "441": {
       "id": 441,
