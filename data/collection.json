@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 38,
-  "updatedAt": "2026-09-18T06:11:15.991Z",
+  "totalPulls": 39,
+  "updatedAt": "2026-09-18T11:16:43.733Z",
   "lastPull": {
-    "id": 829,
-    "name": "gossifleur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
+    "id": 11,
+    "name": "metapod",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
     "types": [
-      "grass"
+      "bug"
     ],
-    "totalStats": 250,
+    "totalStats": 205,
     "grade": "N",
-    "pulledAt": "2026-09-18T06:11:15.991Z"
+    "pulledAt": "2026-09-18T11:16:43.733Z"
   },
   "pulls": [
+    {
+      "id": 11,
+      "name": "metapod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-09-18T11:16:43.733Z"
+    },
     {
       "id": 829,
       "name": "gossifleur",
@@ -115,21 +126,24 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-09-17T00:20:21.097Z"
-    },
-    {
-      "id": 520,
-      "name": "tranquill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 358,
-      "grade": "N",
-      "pulledAt": "2026-09-16T22:03:55.433Z"
     }
   ],
   "pokemon": {
+    "11": {
+      "id": 11,
+      "name": "metapod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-09-18T11:16:43.733Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T11:16:43.733Z",
+      "lastPulledAt": "2026-09-18T11:16:43.733Z"
+    },
     "65": {
       "id": 65,
       "name": "alakazam",
