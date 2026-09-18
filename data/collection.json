@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 37,
-  "updatedAt": "2026-09-18T01:26:45.476Z",
+  "totalPulls": 38,
+  "updatedAt": "2026-09-18T06:11:15.991Z",
   "lastPull": {
-    "id": 301,
-    "name": "delcatty",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+    "id": 829,
+    "name": "gossifleur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-09-18T01:26:45.476Z"
+    "totalStats": 250,
+    "grade": "N",
+    "pulledAt": "2026-09-18T06:11:15.991Z"
   },
   "pulls": [
+    {
+      "id": 829,
+      "name": "gossifleur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-18T06:11:15.991Z"
+    },
     {
       "id": 301,
       "name": "delcatty",
@@ -116,17 +127,6 @@
       "totalStats": 358,
       "grade": "N",
       "pulledAt": "2026-09-16T22:03:55.433Z"
-    },
-    {
-      "id": 963,
-      "name": "finizen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-09-16T19:02:25.462Z"
     }
   ],
   "pokemon": {
@@ -471,6 +471,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:39:28.228Z",
       "lastPulledAt": "2026-09-16T01:39:28.228Z"
+    },
+    "829": {
+      "id": 829,
+      "name": "gossifleur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-09-18T06:11:15.991Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T06:11:15.991Z",
+      "lastPulledAt": "2026-09-18T06:11:15.991Z"
     },
     "836": {
       "id": 836,
