@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 41,
-  "updatedAt": "2026-09-18T18:19:57.897Z",
+  "totalPulls": 42,
+  "updatedAt": "2026-09-18T20:59:07.908Z",
   "lastPull": {
-    "id": 38,
-    "name": "ninetales",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "id": 914,
+    "name": "quaquaval",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
     "types": [
-      "fire"
+      "water",
+      "fighting"
     ],
-    "totalStats": 505,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-09-18T18:19:57.897Z"
+    "pulledAt": "2026-09-18T20:59:07.908Z"
   },
   "pulls": [
+    {
+      "id": 914,
+      "name": "quaquaval",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T20:59:07.908Z"
+    },
     {
       "id": 38,
       "name": "ninetales",
@@ -114,17 +127,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-09-17T14:34:01.588Z"
-    },
-    {
-      "id": 99,
-      "name": "kingler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-09-17T09:56:43.882Z"
     }
   ],
   "pokemon": {
@@ -605,6 +607,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:55:26.663Z",
       "lastPulledAt": "2026-09-16T01:55:26.663Z"
+    },
+    "914": {
+      "id": 914,
+      "name": "quaquaval",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T20:59:07.908Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T20:59:07.908Z",
+      "lastPulledAt": "2026-09-18T20:59:07.908Z"
     },
     "929": {
       "id": 929,
