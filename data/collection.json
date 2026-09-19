@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 47,
-  "updatedAt": "2026-09-19T13:26:37.792Z",
+  "totalPulls": 48,
+  "updatedAt": "2026-09-19T16:37:25.856Z",
   "lastPull": {
-    "id": 290,
-    "name": "nincada",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+    "id": 513,
+    "name": "pansear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
     "types": [
-      "bug",
-      "ground"
+      "fire"
     ],
-    "totalStats": 266,
+    "totalStats": 316,
     "grade": "N",
-    "pulledAt": "2026-09-19T13:26:37.792Z"
+    "pulledAt": "2026-09-19T16:37:25.856Z"
   },
   "pulls": [
+    {
+      "id": 513,
+      "name": "pansear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/513.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 316,
+      "grade": "N",
+      "pulledAt": "2026-09-19T16:37:25.856Z"
+    },
     {
       "id": 290,
       "name": "nincada",
@@ -116,17 +126,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-09-18T11:16:43.733Z"
-    },
-    {
-      "id": 829,
-      "name": "gossifleur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-09-18T06:11:15.991Z"
     }
   ],
   "pokemon": {
@@ -419,10 +418,10 @@
       "totalStats": 316,
       "grade": "N",
       "pulledAt": "2026-09-16T01:57:06.086Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:57:06.086Z",
-      "lastPulledAt": "2026-09-16T01:57:06.086Z"
+      "lastPulledAt": "2026-09-19T16:37:25.856Z"
     },
     "514": {
       "id": 514,
