@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 46,
-  "updatedAt": "2026-09-19T09:43:54.733Z",
+  "totalPulls": 47,
+  "updatedAt": "2026-09-19T13:26:37.792Z",
   "lastPull": {
-    "id": 1014,
-    "name": "okidogi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+    "id": 290,
+    "name": "nincada",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
     "types": [
-      "poison",
-      "fighting"
+      "bug",
+      "ground"
     ],
-    "totalStats": 555,
-    "grade": "SR",
-    "pulledAt": "2026-09-19T09:43:54.733Z"
+    "totalStats": 266,
+    "grade": "N",
+    "pulledAt": "2026-09-19T13:26:37.792Z"
   },
   "pulls": [
+    {
+      "id": 290,
+      "name": "nincada",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "totalStats": 266,
+      "grade": "N",
+      "pulledAt": "2026-09-19T13:26:37.792Z"
+    },
     {
       "id": 1014,
       "name": "okidogi",
@@ -115,17 +127,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-09-18T06:11:15.991Z"
-    },
-    {
-      "id": 301,
-      "name": "delcatty",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-09-18T01:26:45.476Z"
     }
   ],
   "pokemon": {
@@ -234,6 +235,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:54:49.180Z",
       "lastPulledAt": "2026-09-16T01:54:49.180Z"
+    },
+    "290": {
+      "id": 290,
+      "name": "nincada",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "totalStats": 266,
+      "grade": "N",
+      "pulledAt": "2026-09-19T13:26:37.792Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T13:26:37.792Z",
+      "lastPulledAt": "2026-09-19T13:26:37.792Z"
     },
     "301": {
       "id": 301,
