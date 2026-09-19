@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 44,
-  "updatedAt": "2026-09-19T01:07:16.614Z",
+  "totalPulls": 45,
+  "updatedAt": "2026-09-19T05:46:11.742Z",
   "lastPull": {
-    "id": 913,
-    "name": "quaxwell",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+    "id": 514,
+    "name": "simisear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
     "types": [
-      "water"
+      "fire"
     ],
-    "totalStats": 410,
+    "totalStats": 498,
     "grade": "R",
-    "pulledAt": "2026-09-19T01:07:16.614Z"
+    "pulledAt": "2026-09-19T05:46:11.742Z"
   },
   "pulls": [
+    {
+      "id": 514,
+      "name": "simisear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-09-19T05:46:11.742Z"
+    },
     {
       "id": 913,
       "name": "quaxwell",
@@ -114,17 +125,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-17T23:38:47.966Z"
-    },
-    {
-      "id": 934,
-      "name": "garganacl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T21:36:44.462Z"
     }
   ],
   "pokemon": {
@@ -405,6 +405,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:57:06.086Z",
       "lastPulledAt": "2026-09-16T01:57:06.086Z"
+    },
+    "514": {
+      "id": 514,
+      "name": "simisear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 498,
+      "grade": "R",
+      "pulledAt": "2026-09-19T05:46:11.742Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T05:46:11.742Z",
+      "lastPulledAt": "2026-09-19T05:46:11.742Z"
     },
     "520": {
       "id": 520,
