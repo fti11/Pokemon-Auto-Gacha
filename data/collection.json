@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 43,
-  "updatedAt": "2026-09-18T23:01:42.944Z",
+  "totalPulls": 44,
+  "updatedAt": "2026-09-19T01:07:16.614Z",
   "lastPull": {
-    "id": 431,
-    "name": "glameow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
+    "id": 913,
+    "name": "quaxwell",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-09-18T23:01:42.944Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-09-19T01:07:16.614Z"
   },
   "pulls": [
+    {
+      "id": 913,
+      "name": "quaxwell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-19T01:07:16.614Z"
+    },
     {
       "id": 431,
       "name": "glameow",
@@ -114,17 +125,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-17T21:36:44.462Z"
-    },
-    {
-      "id": 127,
-      "name": "pinsir",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T18:30:07.106Z"
     }
   ],
   "pokemon": {
@@ -620,6 +620,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:55:26.663Z",
       "lastPulledAt": "2026-09-16T01:55:26.663Z"
+    },
+    "913": {
+      "id": 913,
+      "name": "quaxwell",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-19T01:07:16.614Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T01:07:16.614Z",
+      "lastPulledAt": "2026-09-19T01:07:16.614Z"
     },
     "914": {
       "id": 914,
