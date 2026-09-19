@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 49,
-  "updatedAt": "2026-09-19T18:50:20.045Z",
+  "totalPulls": 50,
+  "updatedAt": "2026-09-19T21:09:28.615Z",
   "lastPull": {
-    "id": 663,
-    "name": "talonflame",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
+    "id": 963,
+    "name": "finizen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
     "types": [
-      "fire",
-      "flying"
+      "water"
     ],
-    "totalStats": 499,
-    "grade": "R",
-    "pulledAt": "2026-09-19T18:50:20.045Z"
+    "totalStats": 315,
+    "grade": "N",
+    "pulledAt": "2026-09-19T21:09:28.615Z"
   },
   "pulls": [
+    {
+      "id": 963,
+      "name": "finizen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-09-19T21:09:28.615Z"
+    },
     {
       "id": 663,
       "name": "talonflame",
@@ -117,17 +127,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-18T18:19:57.897Z"
-    },
-    {
-      "id": 619,
-      "name": "mienfoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-09-18T15:00:20.140Z"
     }
   ],
   "pokemon": {
@@ -774,10 +773,10 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-09-16T19:02:25.462Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T19:02:25.462Z",
-      "lastPulledAt": "2026-09-16T19:02:25.462Z"
+      "lastPulledAt": "2026-09-19T21:09:28.615Z"
     },
     "968": {
       "id": 968,
