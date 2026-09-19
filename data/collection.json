@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-19T05:46:11.742Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-19T09:43:54.733Z",
   "lastPull": {
-    "id": 514,
-    "name": "simisear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
+    "id": 1014,
+    "name": "okidogi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
     "types": [
-      "fire"
+      "poison",
+      "fighting"
     ],
-    "totalStats": 498,
-    "grade": "R",
-    "pulledAt": "2026-09-19T05:46:11.742Z"
+    "totalStats": 555,
+    "grade": "SR",
+    "pulledAt": "2026-09-19T09:43:54.733Z"
   },
   "pulls": [
+    {
+      "id": 1014,
+      "name": "okidogi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T09:43:54.733Z"
+    },
     {
       "id": 514,
       "name": "simisear",
@@ -113,18 +126,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-18T01:26:45.476Z"
-    },
-    {
-      "id": 937,
-      "name": "ceruledge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
-      "types": [
-        "fire",
-        "ghost"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-09-17T23:38:47.966Z"
     }
   ],
   "pokemon": {
@@ -806,6 +807,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:56:14.650Z",
       "lastPulledAt": "2026-09-16T01:56:14.650Z"
+    },
+    "1014": {
+      "id": 1014,
+      "name": "okidogi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-09-19T09:43:54.733Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T09:43:54.733Z",
+      "lastPulledAt": "2026-09-19T09:43:54.733Z"
     },
     "1015": {
       "id": 1015,
