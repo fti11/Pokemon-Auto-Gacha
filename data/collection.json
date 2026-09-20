@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 54,
-  "updatedAt": "2026-09-20T09:53:36.389Z",
+  "totalPulls": 55,
+  "updatedAt": "2026-09-20T13:46:49.957Z",
   "lastPull": {
-    "id": 1017,
-    "name": "ogerpon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+    "id": 406,
+    "name": "budew",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
     "types": [
-      "grass"
+      "grass",
+      "poison"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-09-20T09:53:36.389Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-09-20T13:46:49.957Z"
   },
   "pulls": [
+    {
+      "id": 406,
+      "name": "budew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-20T13:46:49.957Z"
+    },
     {
       "id": 1017,
       "name": "ogerpon",
@@ -117,17 +130,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-09-19T09:43:54.733Z"
-    },
-    {
-      "id": 514,
-      "name": "simisear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/514.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 498,
-      "grade": "R",
-      "pulledAt": "2026-09-19T05:46:11.742Z"
     }
   ],
   "pokemon": {
@@ -331,6 +333,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T00:20:21.097Z",
       "lastPulledAt": "2026-09-17T00:20:21.097Z"
+    },
+    "406": {
+      "id": 406,
+      "name": "budew",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-20T13:46:49.957Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T13:46:49.957Z",
+      "lastPulledAt": "2026-09-20T13:46:49.957Z"
     },
     "414": {
       "id": 414,
