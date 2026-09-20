@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 58,
-  "updatedAt": "2026-09-20T21:40:38.070Z",
+  "totalPulls": 59,
+  "updatedAt": "2026-09-20T23:32:57.991Z",
   "lastPull": {
-    "id": 1024,
-    "name": "terapagos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+    "id": 635,
+    "name": "hydreigon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
     "types": [
-      "normal"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 450,
-    "grade": "R",
-    "pulledAt": "2026-09-20T21:40:38.070Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-20T23:32:57.991Z"
   },
   "pulls": [
+    {
+      "id": 635,
+      "name": "hydreigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T23:32:57.991Z"
+    },
     {
       "id": 1024,
       "name": "terapagos",
@@ -117,18 +130,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-09-19T21:09:28.615Z"
-    },
-    {
-      "id": 663,
-      "name": "talonflame",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/663.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 499,
-      "grade": "R",
-      "pulledAt": "2026-09-19T18:50:20.045Z"
     }
   ],
   "pokemon": {
@@ -596,6 +597,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T22:57:50.744Z",
       "lastPulledAt": "2026-09-19T22:57:50.744Z"
+    },
+    "635": {
+      "id": 635,
+      "name": "hydreigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T23:32:57.991Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T23:32:57.991Z",
+      "lastPulledAt": "2026-09-20T23:32:57.991Z"
     },
     "663": {
       "id": 663,
