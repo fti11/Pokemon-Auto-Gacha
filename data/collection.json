@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 56,
-  "updatedAt": "2026-09-20T17:00:54.516Z",
+  "totalPulls": 57,
+  "updatedAt": "2026-09-20T19:21:32.709Z",
   "lastPull": {
-    "id": 798,
-    "name": "kartana",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+    "id": 219,
+    "name": "magcargo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
     "types": [
-      "grass",
-      "steel"
+      "fire",
+      "rock"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-20T17:00:54.516Z"
+    "totalStats": 430,
+    "grade": "R",
+    "pulledAt": "2026-09-20T19:21:32.709Z"
   },
   "pulls": [
+    {
+      "id": 219,
+      "name": "magcargo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-20T19:21:32.709Z"
+    },
     {
       "id": 798,
       "name": "kartana",
@@ -118,18 +130,6 @@
       "totalStats": 316,
       "grade": "N",
       "pulledAt": "2026-09-19T16:37:25.856Z"
-    },
-    {
-      "id": 290,
-      "name": "nincada",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
-      "types": [
-        "bug",
-        "ground"
-      ],
-      "totalStats": 266,
-      "grade": "N",
-      "pulledAt": "2026-09-19T13:26:37.792Z"
     }
   ],
   "pokemon": {
@@ -238,6 +238,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T00:35:55.454Z",
       "lastPulledAt": "2026-09-20T00:35:55.454Z"
+    },
+    "219": {
+      "id": 219,
+      "name": "magcargo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-09-20T19:21:32.709Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T19:21:32.709Z",
+      "lastPulledAt": "2026-09-20T19:21:32.709Z"
     },
     "221": {
       "id": 221,
