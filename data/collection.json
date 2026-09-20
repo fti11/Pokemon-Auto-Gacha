@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 51,
-  "updatedAt": "2026-09-19T22:57:50.744Z",
+  "totalPulls": 52,
+  "updatedAt": "2026-09-20T00:35:55.454Z",
   "lastPull": {
-    "id": 634,
-    "name": "zweilous",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
+    "id": 211,
+    "name": "qwilfish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
     "types": [
-      "dark",
-      "dragon"
+      "water",
+      "poison"
     ],
-    "totalStats": 420,
+    "totalStats": 440,
     "grade": "R",
-    "pulledAt": "2026-09-19T22:57:50.744Z"
+    "pulledAt": "2026-09-20T00:35:55.454Z"
   },
   "pulls": [
+    {
+      "id": 211,
+      "name": "qwilfish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-09-20T00:35:55.454Z"
+    },
     {
       "id": 634,
       "name": "zweilous",
@@ -117,18 +129,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-09-18T23:01:42.944Z"
-    },
-    {
-      "id": 914,
-      "name": "quaquaval",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T20:59:07.908Z"
     }
   ],
   "pokemon": {
@@ -221,6 +221,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:01.857Z",
       "lastPulledAt": "2026-09-16T01:42:01.857Z"
+    },
+    "211": {
+      "id": 211,
+      "name": "qwilfish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-09-20T00:35:55.454Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T00:35:55.454Z",
+      "lastPulledAt": "2026-09-20T00:35:55.454Z"
     },
     "221": {
       "id": 221,
