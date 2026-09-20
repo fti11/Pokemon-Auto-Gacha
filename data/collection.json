@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 53,
-  "updatedAt": "2026-09-20T05:20:31.082Z",
+  "totalPulls": 54,
+  "updatedAt": "2026-09-20T09:53:36.389Z",
   "lastPull": {
-    "id": 599,
-    "name": "klink",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "id": 1017,
+    "name": "ogerpon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
     "types": [
-      "steel"
+      "grass"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-09-20T05:20:31.082Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-09-20T09:53:36.389Z"
   },
   "pulls": [
+    {
+      "id": 1017,
+      "name": "ogerpon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T09:53:36.389Z"
+    },
     {
       "id": 599,
       "name": "klink",
@@ -117,17 +128,6 @@
       "totalStats": 498,
       "grade": "R",
       "pulledAt": "2026-09-19T05:46:11.742Z"
-    },
-    {
-      "id": 913,
-      "name": "quaxwell",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-09-19T01:07:16.614Z"
     }
   ],
   "pokemon": {
@@ -920,6 +920,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T14:34:01.588Z",
       "lastPulledAt": "2026-09-17T14:34:01.588Z"
+    },
+    "1017": {
+      "id": 1017,
+      "name": "ogerpon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T09:53:36.389Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T09:53:36.389Z",
+      "lastPulledAt": "2026-09-20T09:53:36.389Z"
     }
   },
   "typeTotals": {
