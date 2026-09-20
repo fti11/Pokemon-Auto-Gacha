@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-20T00:35:55.454Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-20T05:20:31.082Z",
   "lastPull": {
-    "id": 211,
-    "name": "qwilfish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+    "id": 599,
+    "name": "klink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
     "types": [
-      "water",
-      "poison"
+      "steel"
     ],
-    "totalStats": 440,
-    "grade": "R",
-    "pulledAt": "2026-09-20T00:35:55.454Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-09-20T05:20:31.082Z"
   },
   "pulls": [
+    {
+      "id": 599,
+      "name": "klink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-20T05:20:31.082Z"
+    },
     {
       "id": 211,
       "name": "qwilfish",
@@ -118,17 +128,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-09-19T01:07:16.614Z"
-    },
-    {
-      "id": 431,
-      "name": "glameow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/431.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-09-18T23:01:42.944Z"
     }
   ],
   "pokemon": {
@@ -502,6 +501,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:58:41.901Z",
       "lastPulledAt": "2026-09-16T01:58:41.901Z"
+    },
+    "599": {
+      "id": 599,
+      "name": "klink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-20T05:20:31.082Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T05:20:31.082Z",
+      "lastPulledAt": "2026-09-20T05:20:31.082Z"
     },
     "619": {
       "id": 619,
