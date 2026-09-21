@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 62,
-  "updatedAt": "2026-09-21T13:57:22.693Z",
+  "totalPulls": 63,
+  "updatedAt": "2026-09-21T19:00:21.529Z",
   "lastPull": {
-    "id": 126,
-    "name": "magmar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "id": 106,
+    "name": "hitmonlee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
     "types": [
-      "fire"
+      "fighting"
     ],
-    "totalStats": 495,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-09-21T13:57:22.693Z"
+    "pulledAt": "2026-09-21T19:00:21.529Z"
   },
   "pulls": [
+    {
+      "id": 106,
+      "name": "hitmonlee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-21T19:00:21.529Z"
+    },
     {
       "id": 126,
       "name": "magmar",
@@ -118,17 +129,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-09-20T09:53:36.389Z"
-    },
-    {
-      "id": 599,
-      "name": "klink",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-20T05:20:31.082Z"
     }
   ],
   "pokemon": {
@@ -191,6 +191,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T09:56:43.882Z",
       "lastPulledAt": "2026-09-17T09:56:43.882Z"
+    },
+    "106": {
+      "id": 106,
+      "name": "hitmonlee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-09-21T19:00:21.529Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T19:00:21.529Z",
+      "lastPulledAt": "2026-09-21T19:00:21.529Z"
     },
     "126": {
       "id": 126,
