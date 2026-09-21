@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 60,
-  "updatedAt": "2026-09-21T01:33:21.146Z",
+  "totalPulls": 61,
+  "updatedAt": "2026-09-21T07:01:50.824Z",
   "lastPull": {
-    "id": 691,
-    "name": "dragalge",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/691.png",
+    "id": 637,
+    "name": "volcarona",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
     "types": [
-      "poison",
-      "dragon"
+      "bug",
+      "fire"
     ],
-    "totalStats": 494,
-    "grade": "R",
-    "pulledAt": "2026-09-21T01:33:21.146Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-09-21T07:01:50.824Z"
   },
   "pulls": [
+    {
+      "id": 637,
+      "name": "volcarona",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T07:01:50.824Z"
+    },
     {
       "id": 691,
       "name": "dragalge",
@@ -119,18 +131,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-09-20T00:35:55.454Z"
-    },
-    {
-      "id": 634,
-      "name": "zweilous",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
-      "types": [
-        "dark",
-        "dragon"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-19T22:57:50.744Z"
     }
   ],
   "pokemon": {
@@ -614,6 +614,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:32:57.991Z",
       "lastPulledAt": "2026-09-20T23:32:57.991Z"
+    },
+    "637": {
+      "id": 637,
+      "name": "volcarona",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-09-21T07:01:50.824Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T07:01:50.824Z",
+      "lastPulledAt": "2026-09-21T07:01:50.824Z"
     },
     "663": {
       "id": 663,
