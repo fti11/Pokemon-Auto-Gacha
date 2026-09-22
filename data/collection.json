@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 67,
-  "updatedAt": "2026-09-22T11:27:13.696Z",
+  "totalPulls": 68,
+  "updatedAt": "2026-09-22T15:34:25.383Z",
   "lastPull": {
-    "id": 702,
-    "name": "dedenne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+    "id": 486,
+    "name": "regigigas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
     "types": [
-      "electric",
-      "fairy"
+      "normal"
     ],
-    "totalStats": 431,
-    "grade": "R",
-    "pulledAt": "2026-09-22T11:27:13.696Z"
+    "totalStats": 670,
+    "grade": "SSR",
+    "pulledAt": "2026-09-22T15:34:25.383Z"
   },
   "pulls": [
+    {
+      "id": 486,
+      "name": "regigigas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-09-22T15:34:25.383Z"
+    },
     {
       "id": 702,
       "name": "dedenne",
@@ -118,17 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-20T23:32:57.991Z"
-    },
-    {
-      "id": 1024,
-      "name": "terapagos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-09-20T21:40:38.070Z"
     }
   ],
   "pokemon": {
@@ -473,6 +472,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:50:36.703Z",
       "lastPulledAt": "2026-09-16T01:50:36.703Z"
+    },
+    "486": {
+      "id": 486,
+      "name": "regigigas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 670,
+      "grade": "SSR",
+      "pulledAt": "2026-09-22T15:34:25.383Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T15:34:25.383Z",
+      "lastPulledAt": "2026-09-22T15:34:25.383Z"
     },
     "491": {
       "id": 491,
