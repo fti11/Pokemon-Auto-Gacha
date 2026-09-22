@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 64,
-  "updatedAt": "2026-09-21T22:33:27.566Z",
+  "totalPulls": 65,
+  "updatedAt": "2026-09-22T01:05:50.218Z",
   "lastPull": {
-    "id": 492,
-    "name": "shaymin-land",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+    "id": 683,
+    "name": "aromatisse",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
     "types": [
-      "grass"
+      "fairy"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-21T22:33:27.566Z"
+    "totalStats": 462,
+    "grade": "R",
+    "pulledAt": "2026-09-22T01:05:50.218Z"
   },
   "pulls": [
+    {
+      "id": 683,
+      "name": "aromatisse",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 462,
+      "grade": "R",
+      "pulledAt": "2026-09-22T01:05:50.218Z"
+    },
     {
       "id": 492,
       "name": "shaymin-land",
@@ -117,18 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-20T17:00:54.516Z"
-    },
-    {
-      "id": 406,
-      "name": "budew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-09-20T13:46:49.957Z"
     }
   ],
   "pokemon": {
@@ -689,6 +688,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:50:20.045Z",
       "lastPulledAt": "2026-09-19T18:50:20.045Z"
+    },
+    "683": {
+      "id": 683,
+      "name": "aromatisse",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 462,
+      "grade": "R",
+      "pulledAt": "2026-09-22T01:05:50.218Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T01:05:50.218Z",
+      "lastPulledAt": "2026-09-22T01:05:50.218Z"
     },
     "691": {
       "id": 691,
