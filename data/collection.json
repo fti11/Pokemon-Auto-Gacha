@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 66,
-  "updatedAt": "2026-09-22T06:04:50.410Z",
+  "totalPulls": 67,
+  "updatedAt": "2026-09-22T11:27:13.696Z",
   "lastPull": {
-    "id": 39,
-    "name": "jigglypuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "id": 702,
+    "name": "dedenne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
     "types": [
-      "normal",
+      "electric",
       "fairy"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-09-22T06:04:50.410Z"
+    "totalStats": 431,
+    "grade": "R",
+    "pulledAt": "2026-09-22T11:27:13.696Z"
   },
   "pulls": [
+    {
+      "id": 702,
+      "name": "dedenne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 431,
+      "grade": "R",
+      "pulledAt": "2026-09-22T11:27:13.696Z"
+    },
     {
       "id": 39,
       "name": "jigglypuff",
@@ -117,18 +129,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-20T21:40:38.070Z"
-    },
-    {
-      "id": 219,
-      "name": "magcargo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
-      "types": [
-        "fire",
-        "rock"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-09-20T19:21:32.709Z"
     }
   ],
   "pokemon": {
@@ -752,6 +752,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:49:37.072Z",
       "lastPulledAt": "2026-09-16T01:49:37.072Z"
+    },
+    "702": {
+      "id": 702,
+      "name": "dedenne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "totalStats": 431,
+      "grade": "R",
+      "pulledAt": "2026-09-22T11:27:13.696Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T11:27:13.696Z",
+      "lastPulledAt": "2026-09-22T11:27:13.696Z"
     },
     "798": {
       "id": 798,
