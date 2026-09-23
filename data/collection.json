@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 70,
-  "updatedAt": "2026-09-22T21:59:28.107Z",
+  "totalPulls": 71,
+  "updatedAt": "2026-09-23T00:02:15.304Z",
   "lastPull": {
-    "id": 180,
-    "name": "flaaffy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
+    "id": 556,
+    "name": "maractus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
     "types": [
-      "electric"
+      "grass"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-09-22T21:59:28.107Z"
+    "totalStats": 461,
+    "grade": "R",
+    "pulledAt": "2026-09-23T00:02:15.304Z"
   },
   "pulls": [
+    {
+      "id": 556,
+      "name": "maractus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 461,
+      "grade": "R",
+      "pulledAt": "2026-09-23T00:02:15.304Z"
+    },
     {
       "id": 180,
       "name": "flaaffy",
@@ -114,18 +125,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-21T13:57:22.693Z"
-    },
-    {
-      "id": 637,
-      "name": "volcarona",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/637.png",
-      "types": [
-        "bug",
-        "fire"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-09-21T07:01:50.824Z"
     }
   ],
   "pokemon": {
@@ -607,6 +606,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:03:55.433Z",
       "lastPulledAt": "2026-09-16T22:03:55.433Z"
+    },
+    "556": {
+      "id": 556,
+      "name": "maractus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 461,
+      "grade": "R",
+      "pulledAt": "2026-09-23T00:02:15.304Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T00:02:15.304Z",
+      "lastPulledAt": "2026-09-23T00:02:15.304Z"
     },
     "563": {
       "id": 563,
