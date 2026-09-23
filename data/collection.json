@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 71,
-  "updatedAt": "2026-09-23T00:02:15.304Z",
+  "totalPulls": 72,
+  "updatedAt": "2026-09-23T04:36:46.891Z",
   "lastPull": {
-    "id": 556,
-    "name": "maractus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
+    "id": 842,
+    "name": "appletun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
     "types": [
-      "grass"
+      "grass",
+      "dragon"
     ],
-    "totalStats": 461,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-09-23T00:02:15.304Z"
+    "pulledAt": "2026-09-23T04:36:46.891Z"
   },
   "pulls": [
+    {
+      "id": 842,
+      "name": "appletun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-23T04:36:46.891Z"
+    },
     {
       "id": 556,
       "name": "maractus",
@@ -114,17 +127,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-09-21T19:00:21.529Z"
-    },
-    {
-      "id": 126,
-      "name": "magmar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-21T13:57:22.693Z"
     }
   ],
   "pokemon": {
@@ -901,6 +903,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:13:53.400Z",
       "lastPulledAt": "2026-09-16T06:13:53.400Z"
+    },
+    "842": {
+      "id": 842,
+      "name": "appletun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-23T04:36:46.891Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T04:36:46.891Z",
+      "lastPulledAt": "2026-09-23T04:36:46.891Z"
     },
     "843": {
       "id": 843,
