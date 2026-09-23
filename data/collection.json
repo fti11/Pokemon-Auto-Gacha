@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 74,
-  "updatedAt": "2026-09-23T14:22:46.487Z",
+  "totalPulls": 75,
+  "updatedAt": "2026-09-23T18:28:23.580Z",
   "lastPull": {
-    "id": 964,
-    "name": "palafin-zero",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+    "id": 9,
+    "name": "blastoise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
     "types": [
       "water"
     ],
-    "totalStats": 457,
-    "grade": "R",
-    "pulledAt": "2026-09-23T14:22:46.487Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-23T18:28:23.580Z"
   },
   "pulls": [
+    {
+      "id": 9,
+      "name": "blastoise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T18:28:23.580Z"
+    },
     {
       "id": 964,
       "name": "palafin-zero",
@@ -116,20 +127,24 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-09-22T06:04:50.410Z"
-    },
-    {
-      "id": 683,
-      "name": "aromatisse",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/683.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 462,
-      "grade": "R",
-      "pulledAt": "2026-09-22T01:05:50.218Z"
     }
   ],
   "pokemon": {
+    "9": {
+      "id": 9,
+      "name": "blastoise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-23T18:28:23.580Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T18:28:23.580Z",
+      "lastPulledAt": "2026-09-23T18:28:23.580Z"
+    },
     "11": {
       "id": 11,
       "name": "metapod",
