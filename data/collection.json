@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 79,
-  "updatedAt": "2026-09-24T07:36:53.024Z",
+  "totalPulls": 80,
+  "updatedAt": "2026-09-24T12:52:34.107Z",
   "lastPull": {
-    "id": 748,
-    "name": "toxapex",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+    "id": 569,
+    "name": "garbodor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
     "types": [
-      "poison",
-      "water"
+      "poison"
     ],
-    "totalStats": 495,
+    "totalStats": 474,
     "grade": "R",
-    "pulledAt": "2026-09-24T07:36:53.024Z"
+    "pulledAt": "2026-09-24T12:52:34.107Z"
   },
   "pulls": [
+    {
+      "id": 569,
+      "name": "garbodor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-09-24T12:52:34.107Z"
+    },
     {
       "id": 748,
       "name": "toxapex",
@@ -118,17 +128,6 @@
       "totalStats": 461,
       "grade": "R",
       "pulledAt": "2026-09-23T00:02:15.304Z"
-    },
-    {
-      "id": 180,
-      "name": "flaaffy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-09-22T21:59:28.107Z"
     }
   ],
   "pokemon": {
@@ -687,6 +686,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T05:02:26.651Z",
       "lastPulledAt": "2026-09-17T05:02:26.651Z"
+    },
+    "569": {
+      "id": 569,
+      "name": "garbodor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-09-24T12:52:34.107Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T12:52:34.107Z",
+      "lastPulledAt": "2026-09-24T12:52:34.107Z"
     },
     "576": {
       "id": 576,
