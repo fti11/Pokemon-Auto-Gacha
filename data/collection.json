@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 82,
-  "updatedAt": "2026-09-24T20:44:52.107Z",
+  "totalPulls": 83,
+  "updatedAt": "2026-09-24T23:29:23.622Z",
   "lastPull": {
-    "id": 984,
-    "name": "great-tusk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+    "id": 697,
+    "name": "tyrantrum",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
     "types": [
-      "ground",
-      "fighting"
+      "rock",
+      "dragon"
     ],
-    "totalStats": 570,
+    "totalStats": 521,
     "grade": "SR",
-    "pulledAt": "2026-09-24T20:44:52.107Z"
+    "pulledAt": "2026-09-24T23:29:23.622Z"
   },
   "pulls": [
+    {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T23:29:23.622Z"
+    },
     {
       "id": 984,
       "name": "great-tusk",
@@ -118,18 +130,6 @@
       "totalStats": 457,
       "grade": "R",
       "pulledAt": "2026-09-23T14:22:46.487Z"
-    },
-    {
-      "id": 905,
-      "name": "enamorus-incarnate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
-      "types": [
-        "fairy",
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-09-23T09:30:12.469Z"
     }
   ],
   "pokemon": {
@@ -859,6 +859,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T01:33:21.146Z",
       "lastPulledAt": "2026-09-21T01:33:21.146Z"
+    },
+    "697": {
+      "id": 697,
+      "name": "tyrantrum",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T23:29:23.622Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T23:29:23.622Z",
+      "lastPulledAt": "2026-09-24T23:29:23.622Z"
     },
     "699": {
       "id": 699,
