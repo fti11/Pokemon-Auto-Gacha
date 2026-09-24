@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 80,
-  "updatedAt": "2026-09-24T12:52:34.107Z",
+  "totalPulls": 81,
+  "updatedAt": "2026-09-24T17:37:06.998Z",
   "lastPull": {
-    "id": 569,
-    "name": "garbodor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
+    "id": 708,
+    "name": "phantump",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
     "types": [
-      "poison"
+      "ghost",
+      "grass"
     ],
-    "totalStats": 474,
-    "grade": "R",
-    "pulledAt": "2026-09-24T12:52:34.107Z"
+    "totalStats": 309,
+    "grade": "N",
+    "pulledAt": "2026-09-24T17:37:06.998Z"
   },
   "pulls": [
+    {
+      "id": 708,
+      "name": "phantump",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-09-24T17:37:06.998Z"
+    },
     {
       "id": 569,
       "name": "garbodor",
@@ -117,17 +130,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-23T04:36:46.891Z"
-    },
-    {
-      "id": 556,
-      "name": "maractus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/556.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 461,
-      "grade": "R",
-      "pulledAt": "2026-09-23T00:02:15.304Z"
     }
   ],
   "pokemon": {
@@ -889,6 +891,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T11:27:13.696Z",
       "lastPulledAt": "2026-09-22T11:27:13.696Z"
+    },
+    "708": {
+      "id": 708,
+      "name": "phantump",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-09-24T17:37:06.998Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T17:37:06.998Z",
+      "lastPulledAt": "2026-09-24T17:37:06.998Z"
     },
     "748": {
       "id": 748,
