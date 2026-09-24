@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 78,
-  "updatedAt": "2026-09-24T02:15:27.414Z",
+  "totalPulls": 79,
+  "updatedAt": "2026-09-24T07:36:53.024Z",
   "lastPull": {
-    "id": 93,
-    "name": "haunter",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "id": 748,
+    "name": "toxapex",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
     "types": [
-      "ghost",
-      "poison"
+      "poison",
+      "water"
     ],
-    "totalStats": 405,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-09-24T02:15:27.414Z"
+    "pulledAt": "2026-09-24T07:36:53.024Z"
   },
   "pulls": [
+    {
+      "id": 748,
+      "name": "toxapex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-24T07:36:53.024Z"
+    },
     {
       "id": 93,
       "name": "haunter",
@@ -117,17 +129,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-09-22T21:59:28.107Z"
-    },
-    {
-      "id": 160,
-      "name": "feraligatr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T19:04:42.954Z"
     }
   ],
   "pokemon": {
@@ -874,6 +875,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T11:27:13.696Z",
       "lastPulledAt": "2026-09-22T11:27:13.696Z"
+    },
+    "748": {
+      "id": 748,
+      "name": "toxapex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-09-24T07:36:53.024Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T07:36:53.024Z",
+      "lastPulledAt": "2026-09-24T07:36:53.024Z"
     },
     "798": {
       "id": 798,
