@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 81,
-  "updatedAt": "2026-09-24T17:37:06.998Z",
+  "totalPulls": 82,
+  "updatedAt": "2026-09-24T20:44:52.107Z",
   "lastPull": {
-    "id": 708,
-    "name": "phantump",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
+    "id": 984,
+    "name": "great-tusk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
     "types": [
-      "ghost",
-      "grass"
+      "ground",
+      "fighting"
     ],
-    "totalStats": 309,
-    "grade": "N",
-    "pulledAt": "2026-09-24T17:37:06.998Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-24T20:44:52.107Z"
   },
   "pulls": [
+    {
+      "id": 984,
+      "name": "great-tusk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+      "types": [
+        "ground",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T20:44:52.107Z"
+    },
     {
       "id": 708,
       "name": "phantump",
@@ -118,18 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-23T09:30:12.469Z"
-    },
-    {
-      "id": 842,
-      "name": "appletun",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-23T04:36:46.891Z"
     }
   ],
   "pokemon": {
@@ -1278,6 +1278,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:30:14.168Z",
       "lastPulledAt": "2026-09-16T01:30:14.168Z"
+    },
+    "984": {
+      "id": 984,
+      "name": "great-tusk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+      "types": [
+        "ground",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-24T20:44:52.107Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T20:44:52.107Z",
+      "lastPulledAt": "2026-09-24T20:44:52.107Z"
     },
     "1012": {
       "id": 1012,
