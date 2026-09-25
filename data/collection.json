@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 88,
-  "updatedAt": "2026-09-25T20:30:04.748Z",
+  "totalPulls": 89,
+  "updatedAt": "2026-09-25T23:25:01.967Z",
   "lastPull": {
-    "id": 115,
-    "name": "kangaskhan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "id": 376,
+    "name": "metagross",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
     "types": [
-      "normal"
+      "steel",
+      "psychic"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-09-25T20:30:04.748Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-25T23:25:01.967Z"
   },
   "pulls": [
+    {
+      "id": 376,
+      "name": "metagross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-25T23:25:01.967Z"
+    },
     {
       "id": 115,
       "name": "kangaskhan",
@@ -117,18 +130,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-09-24T12:52:34.107Z"
-    },
-    {
-      "id": 748,
-      "name": "toxapex",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/748.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-24T07:36:53.024Z"
     }
   ],
   "pokemon": {
@@ -486,6 +487,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:52.821Z",
       "lastPulledAt": "2026-09-16T01:51:52.821Z"
+    },
+    "376": {
+      "id": 376,
+      "name": "metagross",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-25T23:25:01.967Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T23:25:01.967Z",
+      "lastPulledAt": "2026-09-25T23:25:01.967Z"
     },
     "397": {
       "id": 397,
