@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 85,
-  "updatedAt": "2026-09-25T06:39:08.651Z",
+  "totalPulls": 86,
+  "updatedAt": "2026-09-25T12:10:40.221Z",
   "lastPull": {
-    "id": 868,
-    "name": "milcery",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
+    "id": 597,
+    "name": "ferroseed",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
     "types": [
-      "fairy"
+      "grass",
+      "steel"
     ],
-    "totalStats": 270,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-09-25T06:39:08.651Z"
+    "pulledAt": "2026-09-25T12:10:40.221Z"
   },
   "pulls": [
+    {
+      "id": 597,
+      "name": "ferroseed",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-25T12:10:40.221Z"
+    },
     {
       "id": 868,
       "name": "milcery",
@@ -117,18 +130,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-23T23:55:56.792Z"
-    },
-    {
-      "id": 228,
-      "name": "houndour",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png",
-      "types": [
-        "dark",
-        "fire"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-09-23T21:38:57.958Z"
     }
   ],
   "pokemon": {
@@ -717,6 +718,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:58:41.901Z",
       "lastPulledAt": "2026-09-16T01:58:41.901Z"
+    },
+    "597": {
+      "id": 597,
+      "name": "ferroseed",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-25T12:10:40.221Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T12:10:40.221Z",
+      "lastPulledAt": "2026-09-25T12:10:40.221Z"
     },
     "599": {
       "id": 599,
