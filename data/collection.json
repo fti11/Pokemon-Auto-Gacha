@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 83,
-  "updatedAt": "2026-09-24T23:29:23.622Z",
+  "totalPulls": 84,
+  "updatedAt": "2026-09-25T01:44:02.032Z",
   "lastPull": {
-    "id": 697,
-    "name": "tyrantrum",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/697.png",
+    "id": 692,
+    "name": "clauncher",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
     "types": [
-      "rock",
-      "dragon"
+      "water"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-09-24T23:29:23.622Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-09-25T01:44:02.032Z"
   },
   "pulls": [
+    {
+      "id": 692,
+      "name": "clauncher",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-25T01:44:02.032Z"
+    },
     {
       "id": 697,
       "name": "tyrantrum",
@@ -119,17 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-23T18:28:23.580Z"
-    },
-    {
-      "id": 964,
-      "name": "palafin-zero",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 457,
-      "grade": "R",
-      "pulledAt": "2026-09-23T14:22:46.487Z"
     }
   ],
   "pokemon": {
@@ -859,6 +858,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T01:33:21.146Z",
       "lastPulledAt": "2026-09-21T01:33:21.146Z"
+    },
+    "692": {
+      "id": 692,
+      "name": "clauncher",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-25T01:44:02.032Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T01:44:02.032Z",
+      "lastPulledAt": "2026-09-25T01:44:02.032Z"
     },
     "697": {
       "id": 697,
