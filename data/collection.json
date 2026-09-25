@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 86,
-  "updatedAt": "2026-09-25T12:10:40.221Z",
+  "totalPulls": 87,
+  "updatedAt": "2026-09-25T17:12:45.259Z",
   "lastPull": {
-    "id": 597,
-    "name": "ferroseed",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "id": 94,
+    "name": "gengar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
     "types": [
-      "grass",
-      "steel"
+      "ghost",
+      "poison"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-25T12:10:40.221Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-25T17:12:45.259Z"
   },
   "pulls": [
+    {
+      "id": 94,
+      "name": "gengar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T17:12:45.259Z"
+    },
     {
       "id": 597,
       "name": "ferroseed",
@@ -119,17 +131,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-24T02:15:27.414Z"
-    },
-    {
-      "id": 819,
-      "name": "skwovet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-09-23T23:55:56.792Z"
     }
   ],
   "pokemon": {
@@ -224,6 +225,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T02:15:27.414Z",
       "lastPulledAt": "2026-09-24T02:15:27.414Z"
+    },
+    "94": {
+      "id": 94,
+      "name": "gengar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T17:12:45.259Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T17:12:45.259Z",
+      "lastPulledAt": "2026-09-25T17:12:45.259Z"
     },
     "99": {
       "id": 99,
