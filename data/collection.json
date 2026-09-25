@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 87,
-  "updatedAt": "2026-09-25T17:12:45.259Z",
+  "totalPulls": 88,
+  "updatedAt": "2026-09-25T20:30:04.748Z",
   "lastPull": {
-    "id": 94,
-    "name": "gengar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "id": 115,
+    "name": "kangaskhan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
     "types": [
-      "ghost",
-      "poison"
+      "normal"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-25T17:12:45.259Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-09-25T20:30:04.748Z"
   },
   "pulls": [
+    {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-25T20:30:04.748Z"
+    },
     {
       "id": 94,
       "name": "gengar",
@@ -119,18 +129,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-09-24T07:36:53.024Z"
-    },
-    {
-      "id": 93,
-      "name": "haunter",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-24T02:15:27.414Z"
     }
   ],
   "pokemon": {
@@ -271,6 +269,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T19:00:21.529Z",
       "lastPulledAt": "2026-09-21T19:00:21.529Z"
+    },
+    "115": {
+      "id": 115,
+      "name": "kangaskhan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-25T20:30:04.748Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T20:30:04.748Z",
+      "lastPulledAt": "2026-09-25T20:30:04.748Z"
     },
     "126": {
       "id": 126,
