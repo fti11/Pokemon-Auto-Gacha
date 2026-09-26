@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 93,
-  "updatedAt": "2026-09-26T15:06:39.832Z",
+  "totalPulls": 94,
+  "updatedAt": "2026-09-26T18:31:38.460Z",
   "lastPull": {
-    "id": 87,
-    "name": "dewgong",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "id": 726,
+    "name": "torracat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
     "types": [
-      "water",
-      "ice"
+      "fire"
     ],
-    "totalStats": 475,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-09-26T15:06:39.832Z"
+    "pulledAt": "2026-09-26T18:31:38.460Z"
   },
   "pulls": [
+    {
+      "id": 726,
+      "name": "torracat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-26T18:31:38.460Z"
+    },
     {
       "id": 87,
       "name": "dewgong",
@@ -119,17 +129,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-09-25T06:39:08.651Z"
-    },
-    {
-      "id": 692,
-      "name": "clauncher",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/692.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-09-25T01:44:02.032Z"
     }
   ],
   "pokemon": {
@@ -1048,6 +1047,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:37:06.998Z",
       "lastPulledAt": "2026-09-24T17:37:06.998Z"
+    },
+    "726": {
+      "id": 726,
+      "name": "torracat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-26T18:31:38.460Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T18:31:38.460Z",
+      "lastPulledAt": "2026-09-26T18:31:38.460Z"
     },
     "748": {
       "id": 748,
