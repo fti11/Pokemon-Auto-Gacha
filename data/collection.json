@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 90,
-  "updatedAt": "2026-09-26T01:44:00.041Z",
+  "totalPulls": 91,
+  "updatedAt": "2026-09-26T06:38:40.349Z",
   "lastPull": {
-    "id": 680,
-    "name": "doublade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+    "id": 957,
+    "name": "tinkatink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
     "types": [
-      "steel",
-      "ghost"
+      "fairy",
+      "steel"
     ],
-    "totalStats": 448,
-    "grade": "R",
-    "pulledAt": "2026-09-26T01:44:00.041Z"
+    "totalStats": 297,
+    "grade": "N",
+    "pulledAt": "2026-09-26T06:38:40.349Z"
   },
   "pulls": [
+    {
+      "id": 957,
+      "name": "tinkatink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 297,
+      "grade": "N",
+      "pulledAt": "2026-09-26T06:38:40.349Z"
+    },
     {
       "id": 680,
       "name": "doublade",
@@ -119,18 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-24T20:44:52.107Z"
-    },
-    {
-      "id": 708,
-      "name": "phantump",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
-      "types": [
-        "ghost",
-        "grass"
-      ],
-      "totalStats": 309,
-      "grade": "N",
-      "pulledAt": "2026-09-24T17:37:06.998Z"
     }
   ],
   "pokemon": {
@@ -1312,6 +1312,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T23:38:47.966Z",
       "lastPulledAt": "2026-09-17T23:38:47.966Z"
+    },
+    "957": {
+      "id": 957,
+      "name": "tinkatink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "totalStats": 297,
+      "grade": "N",
+      "pulledAt": "2026-09-26T06:38:40.349Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T06:38:40.349Z",
+      "lastPulledAt": "2026-09-26T06:38:40.349Z"
     },
     "961": {
       "id": 961,
