@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 95,
-  "updatedAt": "2026-09-26T21:28:27.802Z",
+  "totalPulls": 96,
+  "updatedAt": "2026-09-26T23:44:30.972Z",
   "lastPull": {
-    "id": 707,
-    "name": "klefki",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+    "id": 93,
+    "name": "haunter",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
     "types": [
-      "steel",
-      "fairy"
+      "ghost",
+      "poison"
     ],
-    "totalStats": 470,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-09-26T21:28:27.802Z"
+    "pulledAt": "2026-09-26T23:44:30.972Z"
   },
   "pulls": [
+    {
+      "id": 93,
+      "name": "haunter",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-09-26T23:44:30.972Z"
+    },
     {
       "id": 707,
       "name": "klefki",
@@ -119,18 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-25T17:12:45.259Z"
-    },
-    {
-      "id": 597,
-      "name": "ferroseed",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
-      "types": [
-        "grass",
-        "steel"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-25T12:10:40.221Z"
     }
   ],
   "pokemon": {
@@ -237,10 +237,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-24T02:15:27.414Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T02:15:27.414Z",
-      "lastPulledAt": "2026-09-24T02:15:27.414Z"
+      "lastPulledAt": "2026-09-26T23:44:30.972Z"
     },
     "94": {
       "id": 94,
