@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 94,
-  "updatedAt": "2026-09-26T18:31:38.460Z",
+  "totalPulls": 95,
+  "updatedAt": "2026-09-26T21:28:27.802Z",
   "lastPull": {
-    "id": 726,
-    "name": "torracat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
+    "id": 707,
+    "name": "klefki",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
     "types": [
-      "fire"
+      "steel",
+      "fairy"
     ],
-    "totalStats": 420,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-09-26T18:31:38.460Z"
+    "pulledAt": "2026-09-26T21:28:27.802Z"
   },
   "pulls": [
+    {
+      "id": 707,
+      "name": "klefki",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-26T21:28:27.802Z"
+    },
     {
       "id": 726,
       "name": "torracat",
@@ -118,17 +131,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-25T12:10:40.221Z"
-    },
-    {
-      "id": 868,
-      "name": "milcery",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/868.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-09-25T06:39:08.651Z"
     }
   ],
   "pokemon": {
@@ -1031,6 +1033,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T11:27:13.696Z",
       "lastPulledAt": "2026-09-22T11:27:13.696Z"
+    },
+    "707": {
+      "id": 707,
+      "name": "klefki",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-09-26T21:28:27.802Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T21:28:27.802Z",
+      "lastPulledAt": "2026-09-26T21:28:27.802Z"
     },
     "708": {
       "id": 708,
