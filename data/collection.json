@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 91,
-  "updatedAt": "2026-09-26T06:38:40.349Z",
+  "totalPulls": 92,
+  "updatedAt": "2026-09-26T11:44:23.840Z",
   "lastPull": {
-    "id": 957,
-    "name": "tinkatink",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+    "id": 236,
+    "name": "tyrogue",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
     "types": [
-      "fairy",
-      "steel"
+      "fighting"
     ],
-    "totalStats": 297,
+    "totalStats": 210,
     "grade": "N",
-    "pulledAt": "2026-09-26T06:38:40.349Z"
+    "pulledAt": "2026-09-26T11:44:23.840Z"
   },
   "pulls": [
+    {
+      "id": 236,
+      "name": "tyrogue",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-09-26T11:44:23.840Z"
+    },
     {
       "id": 957,
       "name": "tinkatink",
@@ -119,18 +129,6 @@
       "totalStats": 521,
       "grade": "SR",
       "pulledAt": "2026-09-24T23:29:23.622Z"
-    },
-    {
-      "id": 984,
-      "name": "great-tusk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
-      "types": [
-        "ground",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-24T20:44:52.107Z"
     }
   ],
   "pokemon": {
@@ -425,6 +423,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T21:38:57.958Z",
       "lastPulledAt": "2026-09-23T21:38:57.958Z"
+    },
+    "236": {
+      "id": 236,
+      "name": "tyrogue",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-09-26T11:44:23.840Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T11:44:23.840Z",
+      "lastPulledAt": "2026-09-26T11:44:23.840Z"
     },
     "290": {
       "id": 290,
