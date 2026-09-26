@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 89,
-  "updatedAt": "2026-09-25T23:25:01.967Z",
+  "totalPulls": 90,
+  "updatedAt": "2026-09-26T01:44:00.041Z",
   "lastPull": {
-    "id": 376,
-    "name": "metagross",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
+    "id": 680,
+    "name": "doublade",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
     "types": [
       "steel",
-      "psychic"
+      "ghost"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-25T23:25:01.967Z"
+    "totalStats": 448,
+    "grade": "R",
+    "pulledAt": "2026-09-26T01:44:00.041Z"
   },
   "pulls": [
+    {
+      "id": 680,
+      "name": "doublade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-09-26T01:44:00.041Z"
+    },
     {
       "id": 376,
       "name": "metagross",
@@ -119,17 +131,6 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-09-24T17:37:06.998Z"
-    },
-    {
-      "id": 569,
-      "name": "garbodor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/569.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-09-24T12:52:34.107Z"
     }
   ],
   "pokemon": {
@@ -891,6 +892,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:50:20.045Z",
       "lastPulledAt": "2026-09-19T18:50:20.045Z"
+    },
+    "680": {
+      "id": 680,
+      "name": "doublade",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "totalStats": 448,
+      "grade": "R",
+      "pulledAt": "2026-09-26T01:44:00.041Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T01:44:00.041Z",
+      "lastPulledAt": "2026-09-26T01:44:00.041Z"
     },
     "683": {
       "id": 683,
