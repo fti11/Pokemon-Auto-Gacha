@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 98,
-  "updatedAt": "2026-09-27T07:10:26.908Z",
+  "totalPulls": 99,
+  "updatedAt": "2026-09-27T13:02:42.603Z",
   "lastPull": {
-    "id": 633,
-    "name": "deino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+    "id": 265,
+    "name": "wurmple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
     "types": [
-      "dark",
-      "dragon"
+      "bug"
     ],
-    "totalStats": 300,
+    "totalStats": 195,
     "grade": "N",
-    "pulledAt": "2026-09-27T07:10:26.908Z"
+    "pulledAt": "2026-09-27T13:02:42.603Z"
   },
   "pulls": [
+    {
+      "id": 265,
+      "name": "wurmple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-27T13:02:42.603Z"
+    },
     {
       "id": 633,
       "name": "deino",
@@ -120,18 +130,6 @@
       "totalStats": 448,
       "grade": "R",
       "pulledAt": "2026-09-26T01:44:00.041Z"
-    },
-    {
-      "id": 376,
-      "name": "metagross",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png",
-      "types": [
-        "steel",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-25T23:25:01.967Z"
     }
   ],
   "pokemon": {
@@ -473,6 +471,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T11:44:23.840Z",
       "lastPulledAt": "2026-09-26T11:44:23.840Z"
+    },
+    "265": {
+      "id": 265,
+      "name": "wurmple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-09-27T13:02:42.603Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T13:02:42.603Z",
+      "lastPulledAt": "2026-09-27T13:02:42.603Z"
     },
     "290": {
       "id": 290,
