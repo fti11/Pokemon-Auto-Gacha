@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 100,
-  "updatedAt": "2026-09-27T17:40:41.054Z",
+  "totalPulls": 101,
+  "updatedAt": "2026-09-27T20:24:58.433Z",
   "lastPull": {
-    "id": 170,
-    "name": "chinchou",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+    "id": 713,
+    "name": "avalugg",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
     "types": [
-      "water",
-      "electric"
+      "ice"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-09-27T17:40:41.054Z"
+    "totalStats": 514,
+    "grade": "SR",
+    "pulledAt": "2026-09-27T20:24:58.433Z"
   },
   "pulls": [
+    {
+      "id": 713,
+      "name": "avalugg",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 514,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T20:24:58.433Z"
+    },
     {
       "id": 170,
       "name": "chinchou",
@@ -119,18 +129,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-09-26T11:44:23.840Z"
-    },
-    {
-      "id": 957,
-      "name": "tinkatink",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 297,
-      "grade": "N",
-      "pulledAt": "2026-09-26T06:38:40.349Z"
     }
   ],
   "pokemon": {
@@ -1112,6 +1110,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:37:06.998Z",
       "lastPulledAt": "2026-09-24T17:37:06.998Z"
+    },
+    "713": {
+      "id": 713,
+      "name": "avalugg",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 514,
+      "grade": "SR",
+      "pulledAt": "2026-09-27T20:24:58.433Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T20:24:58.433Z",
+      "lastPulledAt": "2026-09-27T20:24:58.433Z"
     },
     "726": {
       "id": 726,
