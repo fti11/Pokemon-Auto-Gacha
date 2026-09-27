@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 99,
-  "updatedAt": "2026-09-27T13:02:42.603Z",
+  "totalPulls": 100,
+  "updatedAt": "2026-09-27T17:40:41.054Z",
   "lastPull": {
-    "id": 265,
-    "name": "wurmple",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "id": 170,
+    "name": "chinchou",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
     "types": [
-      "bug"
+      "water",
+      "electric"
     ],
-    "totalStats": 195,
+    "totalStats": 330,
     "grade": "N",
-    "pulledAt": "2026-09-27T13:02:42.603Z"
+    "pulledAt": "2026-09-27T17:40:41.054Z"
   },
   "pulls": [
+    {
+      "id": 170,
+      "name": "chinchou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-27T17:40:41.054Z"
+    },
     {
       "id": 265,
       "name": "wurmple",
@@ -118,18 +131,6 @@
       "totalStats": 297,
       "grade": "N",
       "pulledAt": "2026-09-26T06:38:40.349Z"
-    },
-    {
-      "id": 680,
-      "name": "doublade",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/680.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 448,
-      "grade": "R",
-      "pulledAt": "2026-09-26T01:44:00.041Z"
     }
   ],
   "pokemon": {
@@ -377,6 +378,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T19:04:42.954Z",
       "lastPulledAt": "2026-09-22T19:04:42.954Z"
+    },
+    "170": {
+      "id": 170,
+      "name": "chinchou",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-09-27T17:40:41.054Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T17:40:41.054Z",
+      "lastPulledAt": "2026-09-27T17:40:41.054Z"
     },
     "180": {
       "id": 180,
