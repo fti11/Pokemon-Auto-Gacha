@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 96,
-  "updatedAt": "2026-09-26T23:44:30.972Z",
+  "totalPulls": 97,
+  "updatedAt": "2026-09-27T01:49:49.877Z",
   "lastPull": {
-    "id": 93,
-    "name": "haunter",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "id": 21,
+    "name": "spearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
     "types": [
-      "ghost",
-      "poison"
+      "normal",
+      "flying"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-26T23:44:30.972Z"
+    "totalStats": 262,
+    "grade": "N",
+    "pulledAt": "2026-09-27T01:49:49.877Z"
   },
   "pulls": [
+    {
+      "id": 21,
+      "name": "spearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 262,
+      "grade": "N",
+      "pulledAt": "2026-09-27T01:49:49.877Z"
+    },
     {
       "id": 93,
       "name": "haunter",
@@ -119,18 +131,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-25T20:30:04.748Z"
-    },
-    {
-      "id": 94,
-      "name": "gengar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T17:12:45.259Z"
     }
   ],
   "pokemon": {
@@ -163,6 +163,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T11:16:43.733Z",
       "lastPulledAt": "2026-09-18T11:16:43.733Z"
+    },
+    "21": {
+      "id": 21,
+      "name": "spearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 262,
+      "grade": "N",
+      "pulledAt": "2026-09-27T01:49:49.877Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T01:49:49.877Z",
+      "lastPulledAt": "2026-09-27T01:49:49.877Z"
     },
     "38": {
       "id": 38,
