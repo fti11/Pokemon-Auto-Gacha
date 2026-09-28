@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 105,
-  "updatedAt": "2026-09-28T15:56:06.344Z",
+  "totalPulls": 106,
+  "updatedAt": "2026-09-28T21:28:35.143Z",
   "lastPull": {
-    "id": 837,
-    "name": "rolycoly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "id": 188,
+    "name": "skiploom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
     "types": [
-      "rock"
+      "grass",
+      "flying"
     ],
-    "totalStats": 240,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-09-28T15:56:06.344Z"
+    "pulledAt": "2026-09-28T21:28:35.143Z"
   },
   "pulls": [
+    {
+      "id": 188,
+      "name": "skiploom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-28T21:28:35.143Z"
+    },
     {
       "id": 837,
       "name": "rolycoly",
@@ -116,18 +129,6 @@
       "totalStats": 262,
       "grade": "N",
       "pulledAt": "2026-09-27T01:49:49.877Z"
-    },
-    {
-      "id": 93,
-      "name": "haunter",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-26T23:44:30.972Z"
     }
   ],
   "pokemon": {
@@ -406,6 +407,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T21:59:28.107Z",
       "lastPulledAt": "2026-09-22T21:59:28.107Z"
+    },
+    "188": {
+      "id": 188,
+      "name": "skiploom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-28T21:28:35.143Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T21:28:35.143Z",
+      "lastPulledAt": "2026-09-28T21:28:35.143Z"
     },
     "196": {
       "id": 196,
