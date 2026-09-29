@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 108,
-  "updatedAt": "2026-09-29T06:50:13.423Z",
+  "totalPulls": 109,
+  "updatedAt": "2026-09-29T13:31:26.748Z",
   "lastPull": {
-    "id": 284,
-    "name": "masquerain",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/284.png",
+    "id": 802,
+    "name": "marshadow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
     "types": [
-      "bug",
-      "flying"
+      "fighting",
+      "ghost"
     ],
-    "totalStats": 454,
-    "grade": "R",
-    "pulledAt": "2026-09-29T06:50:13.423Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-29T13:31:26.748Z"
   },
   "pulls": [
+    {
+      "id": 802,
+      "name": "marshadow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-29T13:31:26.748Z"
+    },
     {
       "id": 284,
       "name": "masquerain",
@@ -117,17 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-09-27T17:40:41.054Z"
-    },
-    {
-      "id": 265,
-      "name": "wurmple",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-09-27T13:02:42.603Z"
     }
   ],
   "pokemon": {
@@ -1233,6 +1234,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:00:54.516Z",
       "lastPulledAt": "2026-09-20T17:00:54.516Z"
+    },
+    "802": {
+      "id": 802,
+      "name": "marshadow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-29T13:31:26.748Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T13:31:26.748Z",
+      "lastPulledAt": "2026-09-29T13:31:26.748Z"
     },
     "806": {
       "id": 806,
