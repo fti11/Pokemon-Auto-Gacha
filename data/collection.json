@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 109,
-  "updatedAt": "2026-09-29T13:31:26.748Z",
+  "totalPulls": 110,
+  "updatedAt": "2026-09-29T18:50:30.846Z",
   "lastPull": {
-    "id": 802,
-    "name": "marshadow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
+    "id": 52,
+    "name": "meowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
     "types": [
-      "fighting",
-      "ghost"
+      "normal"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-29T13:31:26.748Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-09-29T18:50:30.846Z"
   },
   "pulls": [
+    {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-29T18:50:30.846Z"
+    },
     {
       "id": 802,
       "name": "marshadow",
@@ -117,18 +127,6 @@
       "totalStats": 514,
       "grade": "SR",
       "pulledAt": "2026-09-27T20:24:58.433Z"
-    },
-    {
-      "id": 170,
-      "name": "chinchou",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/170.png",
-      "types": [
-        "water",
-        "electric"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-09-27T17:40:41.054Z"
     }
   ],
   "pokemon": {
@@ -208,6 +206,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:04:50.410Z",
       "lastPulledAt": "2026-09-22T06:04:50.410Z"
+    },
+    "52": {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-09-29T18:50:30.846Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T18:50:30.846Z",
+      "lastPulledAt": "2026-09-29T18:50:30.846Z"
     },
     "65": {
       "id": 65,
