@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 110,
-  "updatedAt": "2026-09-29T18:50:30.846Z",
+  "totalPulls": 111,
+  "updatedAt": "2026-09-29T22:44:19.427Z",
   "lastPull": {
-    "id": 52,
-    "name": "meowth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "id": 611,
+    "name": "fraxure",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
     "types": [
-      "normal"
+      "dragon"
     ],
-    "totalStats": 290,
-    "grade": "N",
-    "pulledAt": "2026-09-29T18:50:30.846Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-09-29T22:44:19.427Z"
   },
   "pulls": [
+    {
+      "id": 611,
+      "name": "fraxure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-29T22:44:19.427Z"
+    },
     {
       "id": 52,
       "name": "meowth",
@@ -116,17 +127,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-09-27T23:10:37.007Z"
-    },
-    {
-      "id": 713,
-      "name": "avalugg",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 514,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T20:24:58.433Z"
     }
   ],
   "pokemon": {
@@ -948,6 +948,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T05:20:31.082Z",
       "lastPulledAt": "2026-09-20T05:20:31.082Z"
+    },
+    "611": {
+      "id": 611,
+      "name": "fraxure",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/611.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-09-29T22:44:19.427Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T22:44:19.427Z",
+      "lastPulledAt": "2026-09-29T22:44:19.427Z"
     },
     "619": {
       "id": 619,
