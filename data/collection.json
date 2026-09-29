@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 106,
-  "updatedAt": "2026-09-28T21:28:35.143Z",
+  "totalPulls": 107,
+  "updatedAt": "2026-09-29T01:08:31.332Z",
   "lastPull": {
-    "id": 188,
-    "name": "skiploom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
+    "id": 120,
+    "name": "staryu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
     "types": [
-      "grass",
-      "flying"
+      "water"
     ],
     "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-09-28T21:28:35.143Z"
+    "pulledAt": "2026-09-29T01:08:31.332Z"
   },
   "pulls": [
+    {
+      "id": 120,
+      "name": "staryu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-29T01:08:31.332Z"
+    },
     {
       "id": 188,
       "name": "skiploom",
@@ -117,18 +127,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-27T07:10:26.908Z"
-    },
-    {
-      "id": 21,
-      "name": "spearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 262,
-      "grade": "N",
-      "pulledAt": "2026-09-27T01:49:49.877Z"
     }
   ],
   "pokemon": {
@@ -316,6 +314,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T20:30:04.748Z",
       "lastPulledAt": "2026-09-25T20:30:04.748Z"
+    },
+    "120": {
+      "id": 120,
+      "name": "staryu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-29T01:08:31.332Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T01:08:31.332Z",
+      "lastPulledAt": "2026-09-29T01:08:31.332Z"
     },
     "126": {
       "id": 126,
