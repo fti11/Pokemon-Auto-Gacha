@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 112,
-  "updatedAt": "2026-09-30T01:37:06.717Z",
+  "totalPulls": 113,
+  "updatedAt": "2026-09-30T07:21:30.957Z",
   "lastPull": {
-    "id": 406,
-    "name": "budew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png",
+    "id": 524,
+    "name": "roggenrola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
     "types": [
-      "grass",
-      "poison"
+      "rock"
     ],
     "totalStats": 280,
     "grade": "N",
-    "pulledAt": "2026-09-30T01:37:06.717Z"
+    "pulledAt": "2026-09-30T07:21:30.957Z"
   },
   "pulls": [
+    {
+      "id": 524,
+      "name": "roggenrola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-30T07:21:30.957Z"
+    },
     {
       "id": 406,
       "name": "budew",
@@ -117,18 +127,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-09-28T07:39:59.095Z"
-    },
-    {
-      "id": 702,
-      "name": "dedenne",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/702.png",
-      "types": [
-        "electric",
-        "fairy"
-      ],
-      "totalStats": 431,
-      "grade": "R",
-      "pulledAt": "2026-09-28T01:40:26.032Z"
     }
   ],
   "pokemon": {
@@ -859,6 +857,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:03:55.433Z",
       "lastPulledAt": "2026-09-16T22:03:55.433Z"
+    },
+    "524": {
+      "id": 524,
+      "name": "roggenrola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-30T07:21:30.957Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T07:21:30.957Z",
+      "lastPulledAt": "2026-09-30T07:21:30.957Z"
     },
     "556": {
       "id": 556,
