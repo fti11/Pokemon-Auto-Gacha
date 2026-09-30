@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 115,
-  "updatedAt": "2026-09-30T18:48:38.116Z",
+  "totalPulls": 116,
+  "updatedAt": "2026-09-30T22:39:16.781Z",
   "lastPull": {
-    "id": 844,
-    "name": "sandaconda",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+    "id": 15,
+    "name": "beedrill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
     "types": [
-      "ground"
+      "bug",
+      "poison"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-09-30T18:48:38.116Z"
+    "totalStats": 395,
+    "grade": "N",
+    "pulledAt": "2026-09-30T22:39:16.781Z"
   },
   "pulls": [
+    {
+      "id": 15,
+      "name": "beedrill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-30T22:39:16.781Z"
+    },
     {
       "id": 844,
       "name": "sandaconda",
@@ -116,18 +129,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-09-29T01:08:31.332Z"
-    },
-    {
-      "id": 188,
-      "name": "skiploom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/188.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-09-28T21:28:35.143Z"
     }
   ],
   "pokemon": {
@@ -160,6 +161,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T11:16:43.733Z",
       "lastPulledAt": "2026-09-18T11:16:43.733Z"
+    },
+    "15": {
+      "id": 15,
+      "name": "beedrill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-09-30T22:39:16.781Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T22:39:16.781Z",
+      "lastPulledAt": "2026-09-30T22:39:16.781Z"
     },
     "21": {
       "id": 21,
