@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-09-30T13:58:08.729Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-09-30T18:48:38.116Z",
   "lastPull": {
-    "id": 1019,
-    "name": "hydrapple",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+    "id": 844,
+    "name": "sandaconda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
     "types": [
-      "grass",
-      "dragon"
+      "ground"
     ],
-    "totalStats": 540,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-09-30T13:58:08.729Z"
+    "pulledAt": "2026-09-30T18:48:38.116Z"
   },
   "pulls": [
+    {
+      "id": 844,
+      "name": "sandaconda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T18:48:38.116Z"
+    },
     {
       "id": 1019,
       "name": "hydrapple",
@@ -118,17 +128,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-09-28T21:28:35.143Z"
-    },
-    {
-      "id": 837,
-      "name": "rolycoly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-09-28T15:56:06.344Z"
     }
   ],
   "pokemon": {
@@ -1417,6 +1416,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:20.856Z",
       "lastPulledAt": "2026-09-16T01:51:20.856Z"
+    },
+    "844": {
+      "id": 844,
+      "name": "sandaconda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T18:48:38.116Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T18:48:38.116Z",
+      "lastPulledAt": "2026-09-30T18:48:38.116Z"
     },
     "868": {
       "id": 868,
