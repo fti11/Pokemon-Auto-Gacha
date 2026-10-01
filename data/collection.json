@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 118,
-  "updatedAt": "2026-10-01T07:43:27.662Z",
+  "totalPulls": 119,
+  "updatedAt": "2026-10-01T14:46:48.250Z",
   "lastPull": {
-    "id": 930,
-    "name": "arboliva",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+    "id": 37,
+    "name": "vulpix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
     "types": [
-      "grass",
-      "normal"
+      "fire"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-01T07:43:27.662Z"
+    "totalStats": 299,
+    "grade": "N",
+    "pulledAt": "2026-10-01T14:46:48.250Z"
   },
   "pulls": [
+    {
+      "id": 37,
+      "name": "vulpix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 299,
+      "grade": "N",
+      "pulledAt": "2026-10-01T14:46:48.250Z"
+    },
     {
       "id": 930,
       "name": "arboliva",
@@ -117,18 +127,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-29T18:50:30.846Z"
-    },
-    {
-      "id": 802,
-      "name": "marshadow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/802.png",
-      "types": [
-        "fighting",
-        "ghost"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-29T13:31:26.748Z"
     }
   ],
   "pokemon": {
@@ -193,6 +191,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T01:49:49.877Z",
       "lastPulledAt": "2026-09-27T01:49:49.877Z"
+    },
+    "37": {
+      "id": 37,
+      "name": "vulpix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 299,
+      "grade": "N",
+      "pulledAt": "2026-10-01T14:46:48.250Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T14:46:48.250Z",
+      "lastPulledAt": "2026-10-01T14:46:48.250Z"
     },
     "38": {
       "id": 38,
