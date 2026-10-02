@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 125,
-  "updatedAt": "2026-10-02T19:57:30.946Z",
+  "totalPulls": 126,
+  "updatedAt": "2026-10-02T23:30:16.727Z",
   "lastPull": {
-    "id": 631,
-    "name": "heatmor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+    "id": 735,
+    "name": "gumshoos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
     "types": [
-      "fire"
+      "normal"
     ],
-    "totalStats": 484,
+    "totalStats": 418,
     "grade": "R",
-    "pulledAt": "2026-10-02T19:57:30.946Z"
+    "pulledAt": "2026-10-02T23:30:16.727Z"
   },
   "pulls": [
+    {
+      "id": 735,
+      "name": "gumshoos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-10-02T23:30:16.727Z"
+    },
     {
       "id": 631,
       "name": "heatmor",
@@ -116,18 +127,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-01T01:32:10.781Z"
-    },
-    {
-      "id": 15,
-      "name": "beedrill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-09-30T22:39:16.781Z"
     }
   ],
   "pokemon": {
@@ -1354,6 +1353,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T18:31:38.460Z",
       "lastPulledAt": "2026-09-26T18:31:38.460Z"
+    },
+    "735": {
+      "id": 735,
+      "name": "gumshoos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 418,
+      "grade": "R",
+      "pulledAt": "2026-10-02T23:30:16.727Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T23:30:16.727Z",
+      "lastPulledAt": "2026-10-02T23:30:16.727Z"
     },
     "748": {
       "id": 748,
