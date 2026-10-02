@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 124,
-  "updatedAt": "2026-10-02T15:11:07.400Z",
+  "totalPulls": 125,
+  "updatedAt": "2026-10-02T19:57:30.946Z",
   "lastPull": {
-    "id": 624,
-    "name": "pawniard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+    "id": 631,
+    "name": "heatmor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
     "types": [
-      "dark",
-      "steel"
+      "fire"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-10-02T15:11:07.400Z"
+    "totalStats": 484,
+    "grade": "R",
+    "pulledAt": "2026-10-02T19:57:30.946Z"
   },
   "pulls": [
+    {
+      "id": 631,
+      "name": "heatmor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-10-02T19:57:30.946Z"
+    },
     {
       "id": 624,
       "name": "pawniard",
@@ -118,17 +128,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-09-30T22:39:16.781Z"
-    },
-    {
-      "id": 844,
-      "name": "sandaconda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-09-30T18:48:38.116Z"
     }
   ],
   "pokemon": {
@@ -1088,6 +1087,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T15:11:07.400Z",
       "lastPulledAt": "2026-10-02T15:11:07.400Z"
+    },
+    "631": {
+      "id": 631,
+      "name": "heatmor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-10-02T19:57:30.946Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T19:57:30.946Z",
+      "lastPulledAt": "2026-10-02T19:57:30.946Z"
     },
     "633": {
       "id": 633,
