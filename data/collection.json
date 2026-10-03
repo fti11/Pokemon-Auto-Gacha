@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 129,
-  "updatedAt": "2026-10-03T13:23:45.452Z",
+  "totalPulls": 130,
+  "updatedAt": "2026-10-03T17:27:24.014Z",
   "lastPull": {
-    "id": 578,
-    "name": "duosion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+    "id": 652,
+    "name": "chesnaught",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
     "types": [
-      "psychic"
+      "grass",
+      "fighting"
     ],
-    "totalStats": 370,
-    "grade": "N",
-    "pulledAt": "2026-10-03T13:23:45.452Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-03T17:27:24.014Z"
   },
   "pulls": [
+    {
+      "id": 652,
+      "name": "chesnaught",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T17:27:24.014Z"
+    },
     {
       "id": 578,
       "name": "duosion",
@@ -116,17 +129,6 @@
       "totalStats": 312,
       "grade": "N",
       "pulledAt": "2026-10-01T23:31:43.461Z"
-    },
-    {
-      "id": 240,
-      "name": "magby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-10-01T19:52:13.676Z"
     }
   ],
   "pokemon": {
@@ -1180,6 +1182,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T07:01:50.824Z",
       "lastPulledAt": "2026-09-21T07:01:50.824Z"
+    },
+    "652": {
+      "id": 652,
+      "name": "chesnaught",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T17:27:24.014Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T17:27:24.014Z",
+      "lastPulledAt": "2026-10-03T17:27:24.014Z"
     },
     "663": {
       "id": 663,
