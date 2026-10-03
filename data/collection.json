@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 128,
-  "updatedAt": "2026-10-03T08:10:51.134Z",
+  "totalPulls": 129,
+  "updatedAt": "2026-10-03T13:23:45.452Z",
   "lastPull": {
-    "id": 845,
-    "name": "cramorant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+    "id": 578,
+    "name": "duosion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
     "types": [
-      "flying",
-      "water"
+      "psychic"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-10-03T08:10:51.134Z"
+    "totalStats": 370,
+    "grade": "N",
+    "pulledAt": "2026-10-03T13:23:45.452Z"
   },
   "pulls": [
+    {
+      "id": 578,
+      "name": "duosion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-03T13:23:45.452Z"
+    },
     {
       "id": 845,
       "name": "cramorant",
@@ -117,17 +127,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-10-01T19:52:13.676Z"
-    },
-    {
-      "id": 37,
-      "name": "vulpix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 299,
-      "grade": "N",
-      "pulledAt": "2026-10-01T14:46:48.250Z"
     }
   ],
   "pokemon": {
@@ -1010,6 +1009,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:58:41.901Z",
       "lastPulledAt": "2026-09-16T01:58:41.901Z"
+    },
+    "578": {
+      "id": 578,
+      "name": "duosion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 370,
+      "grade": "N",
+      "pulledAt": "2026-10-03T13:23:45.452Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T13:23:45.452Z",
+      "lastPulledAt": "2026-10-03T13:23:45.452Z"
     },
     "597": {
       "id": 597,
