@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 127,
-  "updatedAt": "2026-10-03T02:16:46.212Z",
+  "totalPulls": 128,
+  "updatedAt": "2026-10-03T08:10:51.134Z",
   "lastPull": {
-    "id": 935,
-    "name": "charcadet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+    "id": 845,
+    "name": "cramorant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
     "types": [
-      "fire"
+      "flying",
+      "water"
     ],
-    "totalStats": 255,
-    "grade": "N",
-    "pulledAt": "2026-10-03T02:16:46.212Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-10-03T08:10:51.134Z"
   },
   "pulls": [
+    {
+      "id": 845,
+      "name": "cramorant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-03T08:10:51.134Z"
+    },
     {
       "id": 935,
       "name": "charcadet",
@@ -115,18 +128,6 @@
       "totalStats": 299,
       "grade": "N",
       "pulledAt": "2026-10-01T14:46:48.250Z"
-    },
-    {
-      "id": 930,
-      "name": "arboliva",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
-      "types": [
-        "grass",
-        "normal"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-01T07:43:27.662Z"
     }
   ],
   "pokemon": {
@@ -1553,6 +1554,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T18:48:38.116Z",
       "lastPulledAt": "2026-09-30T18:48:38.116Z"
+    },
+    "845": {
+      "id": 845,
+      "name": "cramorant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-03T08:10:51.134Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T08:10:51.134Z",
+      "lastPulledAt": "2026-10-03T08:10:51.134Z"
     },
     "868": {
       "id": 868,
