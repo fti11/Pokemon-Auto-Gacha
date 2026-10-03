@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-10-03T20:02:04.762Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-10-03T22:49:25.235Z",
   "lastPull": {
-    "id": 638,
-    "name": "cobalion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+    "id": 54,
+    "name": "psyduck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
     "types": [
-      "steel",
-      "fighting"
+      "water"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-03T20:02:04.762Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-10-03T22:49:25.235Z"
   },
   "pulls": [
+    {
+      "id": 54,
+      "name": "psyduck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-03T22:49:25.235Z"
+    },
     {
       "id": 638,
       "name": "cobalion",
@@ -118,18 +128,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-02T08:55:55.145Z"
-    },
-    {
-      "id": 936,
-      "name": "armarouge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
-      "types": [
-        "fire",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-02T02:32:03.671Z"
     }
   ],
   "pokemon": {
@@ -255,6 +253,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T18:50:30.846Z",
       "lastPulledAt": "2026-09-29T18:50:30.846Z"
+    },
+    "54": {
+      "id": 54,
+      "name": "psyduck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-10-03T22:49:25.235Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T22:49:25.235Z",
+      "lastPulledAt": "2026-10-03T22:49:25.235Z"
     },
     "65": {
       "id": 65,
