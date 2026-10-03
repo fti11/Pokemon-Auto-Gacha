@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 130,
-  "updatedAt": "2026-10-03T17:27:24.014Z",
+  "totalPulls": 131,
+  "updatedAt": "2026-10-03T20:02:04.762Z",
   "lastPull": {
-    "id": 652,
-    "name": "chesnaught",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+    "id": 638,
+    "name": "cobalion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
     "types": [
-      "grass",
+      "steel",
       "fighting"
     ],
-    "totalStats": 530,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-10-03T17:27:24.014Z"
+    "pulledAt": "2026-10-03T20:02:04.762Z"
   },
   "pulls": [
+    {
+      "id": 638,
+      "name": "cobalion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T20:02:04.762Z"
+    },
     {
       "id": 652,
       "name": "chesnaught",
@@ -118,17 +130,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-02T02:32:03.671Z"
-    },
-    {
-      "id": 926,
-      "name": "fidough",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 312,
-      "grade": "N",
-      "pulledAt": "2026-10-01T23:31:43.461Z"
     }
   ],
   "pokemon": {
@@ -1182,6 +1183,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T07:01:50.824Z",
       "lastPulledAt": "2026-09-21T07:01:50.824Z"
+    },
+    "638": {
+      "id": 638,
+      "name": "cobalion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-03T20:02:04.762Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T20:02:04.762Z",
+      "lastPulledAt": "2026-10-03T20:02:04.762Z"
     },
     "652": {
       "id": 652,
