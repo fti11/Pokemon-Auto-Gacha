@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 137,
-  "updatedAt": "2026-10-04T21:16:28.737Z",
+  "totalPulls": 138,
+  "updatedAt": "2026-10-04T23:57:45.898Z",
   "lastPull": {
-    "id": 303,
-    "name": "mawile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+    "id": 353,
+    "name": "shuppet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
     "types": [
-      "steel",
-      "fairy"
+      "ghost"
     ],
-    "totalStats": 380,
+    "totalStats": 295,
     "grade": "N",
-    "pulledAt": "2026-10-04T21:16:28.737Z"
+    "pulledAt": "2026-10-04T23:57:45.898Z"
   },
   "pulls": [
+    {
+      "id": 353,
+      "name": "shuppet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-04T23:57:45.898Z"
+    },
     {
       "id": 303,
       "name": "mawile",
@@ -116,18 +126,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-03T13:23:45.452Z"
-    },
-    {
-      "id": 845,
-      "name": "cramorant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/845.png",
-      "types": [
-        "flying",
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-03T08:10:51.134Z"
     }
   ],
   "pokemon": {
@@ -748,6 +746,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:51:52.821Z",
       "lastPulledAt": "2026-09-16T01:51:52.821Z"
+    },
+    "353": {
+      "id": 353,
+      "name": "shuppet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-10-04T23:57:45.898Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T23:57:45.898Z",
+      "lastPulledAt": "2026-10-04T23:57:45.898Z"
     },
     "376": {
       "id": 376,
