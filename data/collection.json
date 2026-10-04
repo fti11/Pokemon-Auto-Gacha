@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 136,
-  "updatedAt": "2026-10-04T18:06:39.545Z",
+  "totalPulls": 137,
+  "updatedAt": "2026-10-04T21:16:28.737Z",
   "lastPull": {
-    "id": 673,
-    "name": "gogoat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+    "id": 303,
+    "name": "mawile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
     "types": [
-      "grass"
+      "steel",
+      "fairy"
     ],
-    "totalStats": 531,
-    "grade": "SR",
-    "pulledAt": "2026-10-04T18:06:39.545Z"
+    "totalStats": 380,
+    "grade": "N",
+    "pulledAt": "2026-10-04T21:16:28.737Z"
   },
   "pulls": [
+    {
+      "id": 303,
+      "name": "mawile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-10-04T21:16:28.737Z"
+    },
     {
       "id": 673,
       "name": "gogoat",
@@ -115,17 +128,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-03T08:10:51.134Z"
-    },
-    {
-      "id": 935,
-      "name": "charcadet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 255,
-      "grade": "N",
-      "pulledAt": "2026-10-03T02:16:46.212Z"
     }
   ],
   "pokemon": {
@@ -683,6 +685,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T01:26:45.476Z",
       "lastPulledAt": "2026-09-18T01:26:45.476Z"
+    },
+    "303": {
+      "id": 303,
+      "name": "mawile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/303.png",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "totalStats": 380,
+      "grade": "N",
+      "pulledAt": "2026-10-04T21:16:28.737Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T21:16:28.737Z",
+      "lastPulledAt": "2026-10-04T21:16:28.737Z"
     },
     "341": {
       "id": 341,
