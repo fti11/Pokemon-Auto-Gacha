@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-04T08:20:02.625Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-04T14:08:12.825Z",
   "lastPull": {
-    "id": 449,
-    "name": "hippopotas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
+    "id": 817,
+    "name": "drizzile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png",
     "types": [
-      "ground"
+      "water"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-10-04T08:20:02.625Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-04T14:08:12.825Z"
   },
   "pulls": [
+    {
+      "id": 817,
+      "name": "drizzile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-04T14:08:12.825Z"
+    },
     {
       "id": 449,
       "name": "hippopotas",
@@ -115,17 +126,6 @@
       "totalStats": 418,
       "grade": "R",
       "pulledAt": "2026-10-02T23:30:16.727Z"
-    },
-    {
-      "id": 631,
-      "name": "heatmor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 484,
-      "grade": "R",
-      "pulledAt": "2026-10-02T19:57:30.946Z"
     }
   ],
   "pokemon": {
@@ -1523,6 +1523,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:47:54.038Z",
       "lastPulledAt": "2026-09-16T01:47:54.038Z"
+    },
+    "817": {
+      "id": 817,
+      "name": "drizzile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-04T14:08:12.825Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T14:08:12.825Z",
+      "lastPulledAt": "2026-10-04T14:08:12.825Z"
     },
     "819": {
       "id": 819,
