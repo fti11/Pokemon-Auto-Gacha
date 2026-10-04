@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 135,
-  "updatedAt": "2026-10-04T14:08:12.825Z",
+  "totalPulls": 136,
+  "updatedAt": "2026-10-04T18:06:39.545Z",
   "lastPull": {
-    "id": 817,
-    "name": "drizzile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/817.png",
+    "id": 673,
+    "name": "gogoat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
     "types": [
-      "water"
+      "grass"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-04T14:08:12.825Z"
+    "totalStats": 531,
+    "grade": "SR",
+    "pulledAt": "2026-10-04T18:06:39.545Z"
   },
   "pulls": [
+    {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T18:06:39.545Z"
+    },
     {
       "id": 817,
       "name": "drizzile",
@@ -115,17 +126,6 @@
       "totalStats": 255,
       "grade": "N",
       "pulledAt": "2026-10-03T02:16:46.212Z"
-    },
-    {
-      "id": 735,
-      "name": "gumshoos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/735.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 418,
-      "grade": "R",
-      "pulledAt": "2026-10-02T23:30:16.727Z"
     }
   ],
   "pokemon": {
@@ -1272,6 +1272,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T18:50:20.045Z",
       "lastPulledAt": "2026-09-19T18:50:20.045Z"
+    },
+    "673": {
+      "id": 673,
+      "name": "gogoat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/673.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 531,
+      "grade": "SR",
+      "pulledAt": "2026-10-04T18:06:39.545Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-04T18:06:39.545Z",
+      "lastPulledAt": "2026-10-04T18:06:39.545Z"
     },
     "680": {
       "id": 680,
