@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 140,
-  "updatedAt": "2026-10-05T10:52:05.144Z",
+  "totalPulls": 141,
+  "updatedAt": "2026-10-05T19:25:54.525Z",
   "lastPull": {
-    "id": 332,
-    "name": "cacturne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+    "id": 164,
+    "name": "noctowl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
     "types": [
-      "grass",
-      "dark"
+      "normal",
+      "flying"
     ],
-    "totalStats": 475,
+    "totalStats": 452,
     "grade": "R",
-    "pulledAt": "2026-10-05T10:52:05.144Z"
+    "pulledAt": "2026-10-05T19:25:54.525Z"
   },
   "pulls": [
+    {
+      "id": 164,
+      "name": "noctowl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-10-05T19:25:54.525Z"
+    },
     {
       "id": 332,
       "name": "cacturne",
@@ -116,18 +128,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-10-03T22:49:25.235Z"
-    },
-    {
-      "id": 638,
-      "name": "cobalion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
-      "types": [
-        "steel",
-        "fighting"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T20:02:04.762Z"
     }
   ],
   "pokemon": {
@@ -467,6 +467,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T19:04:42.954Z",
       "lastPulledAt": "2026-09-22T19:04:42.954Z"
+    },
+    "164": {
+      "id": 164,
+      "name": "noctowl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-10-05T19:25:54.525Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T19:25:54.525Z",
+      "lastPulledAt": "2026-10-05T19:25:54.525Z"
     },
     "170": {
       "id": 170,
