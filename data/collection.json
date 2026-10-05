@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 139,
-  "updatedAt": "2026-10-05T03:44:56.481Z",
+  "totalPulls": 140,
+  "updatedAt": "2026-10-05T10:52:05.144Z",
   "lastPull": {
-    "id": 720,
-    "name": "hoopa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png",
+    "id": 332,
+    "name": "cacturne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
     "types": [
-      "psychic",
-      "ghost"
+      "grass",
+      "dark"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-05T03:44:56.481Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-10-05T10:52:05.144Z"
   },
   "pulls": [
+    {
+      "id": 332,
+      "name": "cacturne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-05T10:52:05.144Z"
+    },
     {
       "id": 720,
       "name": "hoopa",
@@ -116,18 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-03T20:02:04.762Z"
-    },
-    {
-      "id": 652,
-      "name": "chesnaught",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
-      "types": [
-        "grass",
-        "fighting"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-03T17:27:24.014Z"
     }
   ],
   "pokemon": {
@@ -701,6 +701,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T21:16:28.737Z",
       "lastPulledAt": "2026-10-04T21:16:28.737Z"
+    },
+    "332": {
+      "id": 332,
+      "name": "cacturne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/332.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-05T10:52:05.144Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T10:52:05.144Z",
+      "lastPulledAt": "2026-10-05T10:52:05.144Z"
     },
     "341": {
       "id": 341,
