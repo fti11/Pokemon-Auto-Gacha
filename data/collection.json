@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 141,
-  "updatedAt": "2026-10-05T19:25:54.525Z",
+  "totalPulls": 142,
+  "updatedAt": "2026-10-06T00:53:12.579Z",
   "lastPull": {
-    "id": 164,
-    "name": "noctowl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+    "id": 653,
+    "name": "fennekin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
     "types": [
-      "normal",
-      "flying"
+      "fire"
     ],
-    "totalStats": 452,
-    "grade": "R",
-    "pulledAt": "2026-10-05T19:25:54.525Z"
+    "totalStats": 307,
+    "grade": "N",
+    "pulledAt": "2026-10-06T00:53:12.579Z"
   },
   "pulls": [
+    {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-10-06T00:53:12.579Z"
+    },
     {
       "id": 164,
       "name": "noctowl",
@@ -117,17 +127,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-10-04T02:00:57.811Z"
-    },
-    {
-      "id": 54,
-      "name": "psyduck",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-03T22:49:25.235Z"
     }
   ],
   "pokemon": {
@@ -1321,6 +1320,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T17:27:24.014Z",
       "lastPulledAt": "2026-10-03T17:27:24.014Z"
+    },
+    "653": {
+      "id": 653,
+      "name": "fennekin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 307,
+      "grade": "N",
+      "pulledAt": "2026-10-06T00:53:12.579Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T00:53:12.579Z",
+      "lastPulledAt": "2026-10-06T00:53:12.579Z"
     },
     "663": {
       "id": 663,
