@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 143,
-  "updatedAt": "2026-10-06T06:59:15.630Z",
+  "totalPulls": 144,
+  "updatedAt": "2026-10-06T13:54:57.956Z",
   "lastPull": {
-    "id": 63,
-    "name": "abra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "id": 143,
+    "name": "snorlax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
     "types": [
-      "psychic"
+      "normal"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-10-06T06:59:15.630Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-10-06T13:54:57.956Z"
   },
   "pulls": [
+    {
+      "id": 143,
+      "name": "snorlax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T13:54:57.956Z"
+    },
     {
       "id": 63,
       "name": "abra",
@@ -116,17 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-04T14:08:12.825Z"
-    },
-    {
-      "id": 449,
-      "name": "hippopotas",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/449.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-04T08:20:02.625Z"
     }
   ],
   "pokemon": {
@@ -451,6 +451,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:30:07.106Z",
       "lastPulledAt": "2026-09-17T18:30:07.106Z"
+    },
+    "143": {
+      "id": 143,
+      "name": "snorlax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T13:54:57.956Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-06T13:54:57.956Z",
+      "lastPulledAt": "2026-10-06T13:54:57.956Z"
     },
     "158": {
       "id": 158,
