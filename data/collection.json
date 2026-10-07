@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-10-07T02:15:33.406Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-10-07T08:41:21.396Z",
   "lastPull": {
-    "id": 450,
-    "name": "hippowdon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
+    "id": 932,
+    "name": "nacli",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
     "types": [
-      "ground"
+      "rock"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-07T02:15:33.406Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-10-07T08:41:21.396Z"
   },
   "pulls": [
+    {
+      "id": 932,
+      "name": "nacli",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-07T08:41:21.396Z"
+    },
     {
       "id": 450,
       "name": "hippowdon",
@@ -117,17 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-05T03:44:56.481Z"
-    },
-    {
-      "id": 353,
-      "name": "shuppet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-04T23:57:45.898Z"
     }
   ],
   "pokemon": {
@@ -2018,6 +2018,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T07:43:27.662Z",
       "lastPulledAt": "2026-10-01T07:43:27.662Z"
+    },
+    "932": {
+      "id": 932,
+      "name": "nacli",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-10-07T08:41:21.396Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T08:41:21.396Z",
+      "lastPulledAt": "2026-10-07T08:41:21.396Z"
     },
     "934": {
       "id": 934,
