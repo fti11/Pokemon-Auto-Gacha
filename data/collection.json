@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 153,
-  "updatedAt": "2026-10-08T13:46:39.734Z",
+  "totalPulls": 154,
+  "updatedAt": "2026-10-08T19:29:18.077Z",
   "lastPull": {
-    "id": 1006,
-    "name": "iron-valiant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
+    "id": 988,
+    "name": "slither-wing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
     "types": [
-      "fairy",
+      "bug",
       "fighting"
     ],
-    "totalStats": 590,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-08T13:46:39.734Z"
+    "pulledAt": "2026-10-08T19:29:18.077Z"
   },
   "pulls": [
+    {
+      "id": 988,
+      "name": "slither-wing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T19:29:18.077Z"
+    },
     {
       "id": 1006,
       "name": "iron-valiant",
@@ -118,17 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-06T19:11:21.140Z"
-    },
-    {
-      "id": 143,
-      "name": "snorlax",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-06T13:54:57.956Z"
     }
   ],
   "pokemon": {
@@ -2297,6 +2298,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T20:44:52.107Z",
       "lastPulledAt": "2026-09-24T20:44:52.107Z"
+    },
+    "988": {
+      "id": 988,
+      "name": "slither-wing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-08T19:29:18.077Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T19:29:18.077Z",
+      "lastPulledAt": "2026-10-08T19:29:18.077Z"
     },
     "1006": {
       "id": 1006,
