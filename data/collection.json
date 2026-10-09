@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 158,
-  "updatedAt": "2026-10-09T17:12:09.075Z",
+  "totalPulls": 159,
+  "updatedAt": "2026-10-09T21:41:29.164Z",
   "lastPull": {
-    "id": 165,
-    "name": "ledyba",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
+    "id": 187,
+    "name": "hoppip",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
     "types": [
-      "bug",
+      "grass",
       "flying"
     ],
-    "totalStats": 265,
+    "totalStats": 250,
     "grade": "N",
-    "pulledAt": "2026-10-09T17:12:09.075Z"
+    "pulledAt": "2026-10-09T21:41:29.164Z"
   },
   "pulls": [
+    {
+      "id": 187,
+      "name": "hoppip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-09T21:41:29.164Z"
+    },
     {
       "id": 165,
       "name": "ledyba",
@@ -119,17 +131,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-10-07T20:48:05.903Z"
-    },
-    {
-      "id": 119,
-      "name": "seaking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-10-07T15:47:16.016Z"
     }
   ],
   "pokemon": {
@@ -593,6 +594,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T21:59:28.107Z",
       "lastPulledAt": "2026-09-22T21:59:28.107Z"
+    },
+    "187": {
+      "id": 187,
+      "name": "hoppip",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/187.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-10-09T21:41:29.164Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T21:41:29.164Z",
+      "lastPulledAt": "2026-10-09T21:41:29.164Z"
     },
     "188": {
       "id": 188,
