@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 155,
-  "updatedAt": "2026-10-08T23:50:55.503Z",
+  "totalPulls": 156,
+  "updatedAt": "2026-10-09T03:25:49.211Z",
   "lastPull": {
-    "id": 814,
-    "name": "raboot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/814.png",
+    "id": 413,
+    "name": "wormadam-plant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
     "types": [
-      "fire"
+      "bug",
+      "grass"
     ],
-    "totalStats": 420,
+    "totalStats": 424,
     "grade": "R",
-    "pulledAt": "2026-10-08T23:50:55.503Z"
+    "pulledAt": "2026-10-09T03:25:49.211Z"
   },
   "pulls": [
+    {
+      "id": 413,
+      "name": "wormadam-plant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 424,
+      "grade": "R",
+      "pulledAt": "2026-10-09T03:25:49.211Z"
+    },
     {
       "id": 814,
       "name": "raboot",
@@ -116,18 +129,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-07T02:15:33.406Z"
-    },
-    {
-      "id": 785,
-      "name": "tapu-koko",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
-      "types": [
-        "electric",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-06T23:04:19.541Z"
     }
   ],
   "pokemon": {
@@ -935,6 +936,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T06:24:12.263Z",
       "lastPulledAt": "2026-10-08T06:24:12.263Z"
+    },
+    "413": {
+      "id": 413,
+      "name": "wormadam-plant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 424,
+      "grade": "R",
+      "pulledAt": "2026-10-09T03:25:49.211Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T03:25:49.211Z",
+      "lastPulledAt": "2026-10-09T03:25:49.211Z"
     },
     "414": {
       "id": 414,
