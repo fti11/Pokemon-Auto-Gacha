@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 160,
-  "updatedAt": "2026-10-10T01:17:00.448Z",
+  "totalPulls": 161,
+  "updatedAt": "2026-10-10T07:12:23.206Z",
   "lastPull": {
-    "id": 564,
-    "name": "tirtouga",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
+    "id": 34,
+    "name": "nidoking",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
     "types": [
-      "water",
-      "rock"
+      "poison",
+      "ground"
     ],
-    "totalStats": 355,
-    "grade": "N",
-    "pulledAt": "2026-10-10T01:17:00.448Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-10T07:12:23.206Z"
   },
   "pulls": [
+    {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T07:12:23.206Z"
+    },
     {
       "id": 564,
       "name": "tirtouga",
@@ -119,18 +131,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-08T06:24:12.263Z"
-    },
-    {
-      "id": 732,
-      "name": "trumbeak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-10-08T00:26:40.413Z"
     }
   ],
   "pokemon": {
@@ -195,6 +195,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T01:49:49.877Z",
       "lastPulledAt": "2026-09-27T01:49:49.877Z"
+    },
+    "34": {
+      "id": 34,
+      "name": "nidoking",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-10T07:12:23.206Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T07:12:23.206Z",
+      "lastPulledAt": "2026-10-10T07:12:23.206Z"
     },
     "37": {
       "id": 37,
