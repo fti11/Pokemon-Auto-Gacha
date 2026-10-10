@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 163,
-  "updatedAt": "2026-10-10T18:02:04.639Z",
+  "totalPulls": 164,
+  "updatedAt": "2026-10-10T21:33:34.172Z",
   "lastPull": {
-    "id": 396,
-    "name": "starly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+    "id": 371,
+    "name": "bagon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
     "types": [
-      "normal",
-      "flying"
+      "dragon"
     ],
-    "totalStats": 245,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-10-10T18:02:04.639Z"
+    "pulledAt": "2026-10-10T21:33:34.172Z"
   },
   "pulls": [
+    {
+      "id": 371,
+      "name": "bagon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-10T21:33:34.172Z"
+    },
     {
       "id": 396,
       "name": "starly",
@@ -119,18 +129,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-08T23:50:55.503Z"
-    },
-    {
-      "id": 988,
-      "name": "slither-wing",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
-      "types": [
-        "bug",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-08T19:29:18.077Z"
     }
   ],
   "pokemon": {
@@ -922,6 +920,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T23:57:45.898Z",
       "lastPulledAt": "2026-10-04T23:57:45.898Z"
+    },
+    "371": {
+      "id": 371,
+      "name": "bagon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-10T21:33:34.172Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T21:33:34.172Z",
+      "lastPulledAt": "2026-10-10T21:33:34.172Z"
     },
     "376": {
       "id": 376,
