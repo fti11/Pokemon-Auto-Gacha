@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-10-10T07:12:23.206Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-10-10T13:43:47.287Z",
   "lastPull": {
-    "id": 34,
-    "name": "nidoking",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "id": 19,
+    "name": "rattata",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
     "types": [
-      "poison",
-      "ground"
+      "normal"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-10T07:12:23.206Z"
+    "totalStats": 253,
+    "grade": "N",
+    "pulledAt": "2026-10-10T13:43:47.287Z"
   },
   "pulls": [
+    {
+      "id": 19,
+      "name": "rattata",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 253,
+      "grade": "N",
+      "pulledAt": "2026-10-10T13:43:47.287Z"
+    },
     {
       "id": 34,
       "name": "nidoking",
@@ -120,17 +130,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-10-08T13:46:39.734Z"
-    },
-    {
-      "id": 409,
-      "name": "rampardos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/409.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-08T06:24:12.263Z"
     }
   ],
   "pokemon": {
@@ -179,6 +178,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T22:39:16.781Z",
       "lastPulledAt": "2026-09-30T22:39:16.781Z"
+    },
+    "19": {
+      "id": 19,
+      "name": "rattata",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 253,
+      "grade": "N",
+      "pulledAt": "2026-10-10T13:43:47.287Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T13:43:47.287Z",
+      "lastPulledAt": "2026-10-10T13:43:47.287Z"
     },
     "21": {
       "id": 21,
