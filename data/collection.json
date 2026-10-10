@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 162,
-  "updatedAt": "2026-10-10T13:43:47.287Z",
+  "totalPulls": 163,
+  "updatedAt": "2026-10-10T18:02:04.639Z",
   "lastPull": {
-    "id": 19,
-    "name": "rattata",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "id": 396,
+    "name": "starly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
     "types": [
-      "normal"
+      "normal",
+      "flying"
     ],
-    "totalStats": 253,
+    "totalStats": 245,
     "grade": "N",
-    "pulledAt": "2026-10-10T13:43:47.287Z"
+    "pulledAt": "2026-10-10T18:02:04.639Z"
   },
   "pulls": [
+    {
+      "id": 396,
+      "name": "starly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-10T18:02:04.639Z"
+    },
     {
       "id": 19,
       "name": "rattata",
@@ -118,18 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-08T19:29:18.077Z"
-    },
-    {
-      "id": 1006,
-      "name": "iron-valiant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
-      "types": [
-        "fairy",
-        "fighting"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-10-08T13:46:39.734Z"
     }
   ],
   "pokemon": {
@@ -953,6 +954,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T19:11:21.140Z",
       "lastPulledAt": "2026-10-06T19:11:21.140Z"
+    },
+    "396": {
+      "id": 396,
+      "name": "starly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-10T18:02:04.639Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T18:02:04.639Z",
+      "lastPulledAt": "2026-10-10T18:02:04.639Z"
     },
     "397": {
       "id": 397,
