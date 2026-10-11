@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 167,
-  "updatedAt": "2026-10-11T12:38:53.283Z",
+  "totalPulls": 168,
+  "updatedAt": "2026-10-11T17:46:15.971Z",
   "lastPull": {
-    "id": 729,
-    "name": "brionne",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+    "id": 742,
+    "name": "cutiefly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
     "types": [
-      "water"
+      "bug",
+      "fairy"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-11T12:38:53.283Z"
+    "totalStats": 304,
+    "grade": "N",
+    "pulledAt": "2026-10-11T17:46:15.971Z"
   },
   "pulls": [
+    {
+      "id": 742,
+      "name": "cutiefly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-10-11T17:46:15.971Z"
+    },
     {
       "id": 729,
       "name": "brionne",
@@ -116,18 +129,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-10-09T21:41:29.164Z"
-    },
-    {
-      "id": 165,
-      "name": "ledyba",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/165.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-10-09T17:12:09.075Z"
     }
   ],
   "pokemon": {
@@ -1864,6 +1865,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T23:30:16.727Z",
       "lastPulledAt": "2026-10-02T23:30:16.727Z"
+    },
+    "742": {
+      "id": 742,
+      "name": "cutiefly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-10-11T17:46:15.971Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T17:46:15.971Z",
+      "lastPulledAt": "2026-10-11T17:46:15.971Z"
     },
     "748": {
       "id": 748,
