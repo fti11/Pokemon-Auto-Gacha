@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 165,
-  "updatedAt": "2026-10-11T00:24:39.823Z",
+  "totalPulls": 166,
+  "updatedAt": "2026-10-11T06:02:56.383Z",
   "lastPull": {
-    "id": 705,
-    "name": "sliggoo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
+    "id": 493,
+    "name": "arceus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
     "types": [
-      "dragon"
+      "normal"
     ],
-    "totalStats": 452,
-    "grade": "R",
-    "pulledAt": "2026-10-11T00:24:39.823Z"
+    "totalStats": 720,
+    "grade": "SSR",
+    "pulledAt": "2026-10-11T06:02:56.383Z"
   },
   "pulls": [
+    {
+      "id": 493,
+      "name": "arceus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 720,
+      "grade": "SSR",
+      "pulledAt": "2026-10-11T06:02:56.383Z"
+    },
     {
       "id": 705,
       "name": "sliggoo",
@@ -117,18 +128,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-10-09T10:46:08.989Z"
-    },
-    {
-      "id": 413,
-      "name": "wormadam-plant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 424,
-      "grade": "R",
-      "pulledAt": "2026-10-09T03:25:49.211Z"
     }
   ],
   "pokemon": {
@@ -1199,6 +1198,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T22:33:27.566Z",
       "lastPulledAt": "2026-09-21T22:33:27.566Z"
+    },
+    "493": {
+      "id": 493,
+      "name": "arceus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 720,
+      "grade": "SSR",
+      "pulledAt": "2026-10-11T06:02:56.383Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T06:02:56.383Z",
+      "lastPulledAt": "2026-10-11T06:02:56.383Z"
     },
     "494": {
       "id": 494,
