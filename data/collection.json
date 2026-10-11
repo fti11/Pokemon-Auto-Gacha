@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 166,
-  "updatedAt": "2026-10-11T06:02:56.383Z",
+  "totalPulls": 167,
+  "updatedAt": "2026-10-11T12:38:53.283Z",
   "lastPull": {
-    "id": 493,
-    "name": "arceus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png",
+    "id": 729,
+    "name": "brionne",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 720,
-    "grade": "SSR",
-    "pulledAt": "2026-10-11T06:02:56.383Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-11T12:38:53.283Z"
   },
   "pulls": [
+    {
+      "id": 729,
+      "name": "brionne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-11T12:38:53.283Z"
+    },
     {
       "id": 493,
       "name": "arceus",
@@ -117,17 +128,6 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-10-09T17:12:09.075Z"
-    },
-    {
-      "id": 341,
-      "name": "corphish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-10-09T10:46:08.989Z"
     }
   ],
   "pokemon": {
@@ -1818,6 +1818,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T18:31:38.460Z",
       "lastPulledAt": "2026-09-26T18:31:38.460Z"
+    },
+    "729": {
+      "id": 729,
+      "name": "brionne",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/729.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-11T12:38:53.283Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T12:38:53.283Z",
+      "lastPulledAt": "2026-10-11T12:38:53.283Z"
     },
     "732": {
       "id": 732,
