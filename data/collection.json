@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 169,
-  "updatedAt": "2026-10-11T21:04:32.560Z",
+  "totalPulls": 170,
+  "updatedAt": "2026-10-12T00:27:07.529Z",
   "lastPull": {
-    "id": 641,
-    "name": "tornadus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
+    "id": 638,
+    "name": "cobalion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
     "types": [
-      "flying"
+      "steel",
+      "fighting"
     ],
     "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-10-11T21:04:32.560Z"
+    "pulledAt": "2026-10-12T00:27:07.529Z"
   },
   "pulls": [
+    {
+      "id": 638,
+      "name": "cobalion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/638.png",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-12T00:27:07.529Z"
+    },
     {
       "id": 641,
       "name": "tornadus-incarnate",
@@ -115,18 +128,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-10T07:12:23.206Z"
-    },
-    {
-      "id": 564,
-      "name": "tirtouga",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
-      "types": [
-        "water",
-        "rock"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-10-10T01:17:00.448Z"
     }
   ],
   "pokemon": {
@@ -1548,10 +1549,10 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-03T20:02:04.762Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T20:02:04.762Z",
-      "lastPulledAt": "2026-10-03T20:02:04.762Z"
+      "lastPulledAt": "2026-10-12T00:27:07.529Z"
     },
     "641": {
       "id": 641,
