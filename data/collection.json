@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 171,
-  "updatedAt": "2026-10-12T06:15:52.670Z",
+  "totalPulls": 172,
+  "updatedAt": "2026-10-12T15:29:52.960Z",
   "lastPull": {
-    "id": 798,
-    "name": "kartana",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/798.png",
+    "id": 162,
+    "name": "furret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
     "types": [
-      "grass",
-      "steel"
+      "normal"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-12T06:15:52.670Z"
+    "totalStats": 415,
+    "grade": "R",
+    "pulledAt": "2026-10-12T15:29:52.960Z"
   },
   "pulls": [
+    {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-10-12T15:29:52.960Z"
+    },
     {
       "id": 798,
       "name": "kartana",
@@ -117,17 +127,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-10-10T18:02:04.639Z"
-    },
-    {
-      "id": 19,
-      "name": "rattata",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 253,
-      "grade": "N",
-      "pulledAt": "2026-10-10T13:43:47.287Z"
     }
   ],
   "pokemon": {
@@ -559,6 +558,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T19:04:42.954Z",
       "lastPulledAt": "2026-09-22T19:04:42.954Z"
+    },
+    "162": {
+      "id": 162,
+      "name": "furret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/162.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 415,
+      "grade": "R",
+      "pulledAt": "2026-10-12T15:29:52.960Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-12T15:29:52.960Z",
+      "lastPulledAt": "2026-10-12T15:29:52.960Z"
     },
     "164": {
       "id": 164,
