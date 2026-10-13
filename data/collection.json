@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 174,
-  "updatedAt": "2026-10-13T03:08:29.047Z",
+  "totalPulls": 175,
+  "updatedAt": "2026-10-13T10:26:53.656Z",
   "lastPull": {
-    "id": 668,
-    "name": "pyroar-male",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
+    "id": 724,
+    "name": "decidueye",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
     "types": [
-      "fire",
-      "normal"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 507,
+    "totalStats": 530,
     "grade": "SR",
-    "pulledAt": "2026-10-13T03:08:29.047Z"
+    "pulledAt": "2026-10-13T10:26:53.656Z"
   },
   "pulls": [
+    {
+      "id": 724,
+      "name": "decidueye",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T10:26:53.656Z"
+    },
     {
       "id": 668,
       "name": "pyroar-male",
@@ -117,17 +129,6 @@
       "totalStats": 720,
       "grade": "SSR",
       "pulledAt": "2026-10-11T06:02:56.383Z"
-    },
-    {
-      "id": 705,
-      "name": "sliggoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/705.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 452,
-      "grade": "R",
-      "pulledAt": "2026-10-11T00:24:39.823Z"
     }
   ],
   "pokemon": {
@@ -1864,6 +1865,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T03:44:56.481Z",
       "lastPulledAt": "2026-10-05T03:44:56.481Z"
+    },
+    "724": {
+      "id": 724,
+      "name": "decidueye",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T10:26:53.656Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T10:26:53.656Z",
+      "lastPulledAt": "2026-10-13T10:26:53.656Z"
     },
     "726": {
       "id": 726,
