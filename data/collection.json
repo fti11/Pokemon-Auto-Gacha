@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 177,
-  "updatedAt": "2026-10-13T21:57:59.283Z",
+  "totalPulls": 178,
+  "updatedAt": "2026-10-14T00:49:54.262Z",
   "lastPull": {
-    "id": 62,
-    "name": "poliwrath",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "id": 414,
+    "name": "mothim",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
     "types": [
-      "water",
-      "fighting"
+      "bug",
+      "flying"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-13T21:57:59.283Z"
+    "totalStats": 424,
+    "grade": "R",
+    "pulledAt": "2026-10-14T00:49:54.262Z"
   },
   "pulls": [
+    {
+      "id": 414,
+      "name": "mothim",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 424,
+      "grade": "R",
+      "pulledAt": "2026-10-14T00:49:54.262Z"
+    },
     {
       "id": 62,
       "name": "poliwrath",
@@ -118,18 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-11T21:04:32.560Z"
-    },
-    {
-      "id": 742,
-      "name": "cutiefly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
-      "types": [
-        "bug",
-        "fairy"
-      ],
-      "totalStats": 304,
-      "grade": "N",
-      "pulledAt": "2026-10-11T17:46:15.971Z"
     }
   ],
   "pokemon": {
@@ -1090,10 +1090,10 @@
       "totalStats": 424,
       "grade": "R",
       "pulledAt": "2026-09-16T01:40:36.393Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:40:36.393Z",
-      "lastPulledAt": "2026-09-16T01:40:36.393Z"
+      "lastPulledAt": "2026-10-14T00:49:54.262Z"
     },
     "417": {
       "id": 417,
