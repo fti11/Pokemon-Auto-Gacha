@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 178,
-  "updatedAt": "2026-10-14T00:49:54.262Z",
+  "totalPulls": 179,
+  "updatedAt": "2026-10-14T05:29:56.161Z",
   "lastPull": {
-    "id": 414,
-    "name": "mothim",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
+    "id": 714,
+    "name": "noibat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
     "types": [
-      "bug",
-      "flying"
+      "flying",
+      "dragon"
     ],
-    "totalStats": 424,
-    "grade": "R",
-    "pulledAt": "2026-10-14T00:49:54.262Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-10-14T05:29:56.161Z"
   },
   "pulls": [
+    {
+      "id": 714,
+      "name": "noibat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-14T05:29:56.161Z"
+    },
     {
       "id": 414,
       "name": "mothim",
@@ -119,17 +131,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-12T00:27:07.529Z"
-    },
-    {
-      "id": 641,
-      "name": "tornadus-incarnate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png",
-      "types": [
-        "flying"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-10-11T21:04:32.560Z"
     }
   ],
   "pokemon": {
@@ -1881,6 +1882,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T20:24:58.433Z",
       "lastPulledAt": "2026-09-27T20:24:58.433Z"
+    },
+    "714": {
+      "id": 714,
+      "name": "noibat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/714.png",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-14T05:29:56.161Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-14T05:29:56.161Z",
+      "lastPulledAt": "2026-10-14T05:29:56.161Z"
     },
     "720": {
       "id": 720,
