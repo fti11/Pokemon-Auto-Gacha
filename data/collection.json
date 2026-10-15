@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 189,
-  "updatedAt": "2026-10-15T21:43:11.681Z",
+  "totalPulls": 190,
+  "updatedAt": "2026-10-15T23:53:01.002Z",
   "lastPull": {
-    "id": 184,
-    "name": "azumarill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+    "id": 943,
+    "name": "mabosstiff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
     "types": [
-      "water",
-      "fairy"
+      "dark"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-10-15T21:43:11.681Z"
+    "totalStats": 505,
+    "grade": "SR",
+    "pulledAt": "2026-10-15T23:53:01.002Z"
   },
   "pulls": [
+    {
+      "id": 943,
+      "name": "mabosstiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T23:53:01.002Z"
+    },
     {
       "id": 184,
       "name": "azumarill",
@@ -118,18 +128,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-10-14T15:19:27.983Z"
-    },
-    {
-      "id": 13,
-      "name": "weedle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 195,
-      "grade": "N",
-      "pulledAt": "2026-10-14T10:28:04.202Z"
     }
   ],
   "pokemon": {
@@ -2641,6 +2639,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T07:39:59.095Z",
       "lastPulledAt": "2026-09-28T07:39:59.095Z"
+    },
+    "943": {
+      "id": 943,
+      "name": "mabosstiff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T23:53:01.002Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T23:53:01.002Z",
+      "lastPulledAt": "2026-10-15T23:53:01.002Z"
     },
     "957": {
       "id": 957,
