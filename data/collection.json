@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-10-15T14:37:53.256Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-10-15T18:36:46.234Z",
   "lastPull": {
-    "id": 584,
-    "name": "vanilluxe",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+    "id": 459,
+    "name": "snover",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
     "types": [
+      "grass",
       "ice"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T14:37:53.256Z"
+    "totalStats": 334,
+    "grade": "N",
+    "pulledAt": "2026-10-15T18:36:46.234Z"
   },
   "pulls": [
+    {
+      "id": 459,
+      "name": "snover",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-10-15T18:36:46.234Z"
+    },
     {
       "id": 584,
       "name": "vanilluxe",
@@ -117,18 +130,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-10-14T05:29:56.161Z"
-    },
-    {
-      "id": 414,
-      "name": "mothim",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 424,
-      "grade": "R",
-      "pulledAt": "2026-10-14T00:49:54.262Z"
     }
   ],
   "pokemon": {
@@ -1216,6 +1217,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T02:15:33.406Z",
       "lastPulledAt": "2026-10-07T02:15:33.406Z"
+    },
+    "459": {
+      "id": 459,
+      "name": "snover",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
+      "types": [
+        "grass",
+        "ice"
+      ],
+      "totalStats": 334,
+      "grade": "N",
+      "pulledAt": "2026-10-15T18:36:46.234Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T18:36:46.234Z",
+      "lastPulledAt": "2026-10-15T18:36:46.234Z"
     },
     "485": {
       "id": 485,
