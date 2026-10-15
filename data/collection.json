@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 186,
-  "updatedAt": "2026-10-15T09:57:56.359Z",
+  "totalPulls": 187,
+  "updatedAt": "2026-10-15T14:37:53.256Z",
   "lastPull": {
-    "id": 964,
-    "name": "palafin-zero",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png",
+    "id": 584,
+    "name": "vanilluxe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
     "types": [
-      "water"
+      "ice"
     ],
-    "totalStats": 457,
-    "grade": "R",
-    "pulledAt": "2026-10-15T09:57:56.359Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-15T14:37:53.256Z"
   },
   "pulls": [
+    {
+      "id": 584,
+      "name": "vanilluxe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T14:37:53.256Z"
+    },
     {
       "id": 964,
       "name": "palafin-zero",
@@ -118,18 +129,6 @@
       "totalStats": 424,
       "grade": "R",
       "pulledAt": "2026-10-14T00:49:54.262Z"
-    },
-    {
-      "id": 62,
-      "name": "poliwrath",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-13T21:57:59.283Z"
     }
   ],
   "pokemon": {
@@ -1491,6 +1490,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T13:23:45.452Z",
       "lastPulledAt": "2026-10-03T13:23:45.452Z"
+    },
+    "584": {
+      "id": 584,
+      "name": "vanilluxe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-15T14:37:53.256Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T14:37:53.256Z",
+      "lastPulledAt": "2026-10-15T14:37:53.256Z"
     },
     "586": {
       "id": 586,
