@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-10-16T06:47:02.766Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-10-16T11:56:00.505Z",
   "lastPull": {
-    "id": 960,
-    "name": "wiglett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+    "id": 669,
+    "name": "flabebe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
     "types": [
-      "water"
+      "fairy"
     ],
-    "totalStats": 245,
+    "totalStats": 303,
     "grade": "N",
-    "pulledAt": "2026-10-16T06:47:02.766Z"
+    "pulledAt": "2026-10-16T11:56:00.505Z"
   },
   "pulls": [
+    {
+      "id": 669,
+      "name": "flabebe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-10-16T11:56:00.505Z"
+    },
     {
       "id": 960,
       "name": "wiglett",
@@ -117,17 +128,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-15T00:42:54.415Z"
-    },
-    {
-      "id": 919,
-      "name": "nymble",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-10-14T22:28:23.229Z"
     }
   ],
   "pokemon": {
@@ -1818,6 +1818,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T03:08:29.047Z",
       "lastPulledAt": "2026-10-13T03:08:29.047Z"
+    },
+    "669": {
+      "id": 669,
+      "name": "flabebe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-10-16T11:56:00.505Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T11:56:00.505Z",
+      "lastPulledAt": "2026-10-16T11:56:00.505Z"
     },
     "673": {
       "id": 673,
