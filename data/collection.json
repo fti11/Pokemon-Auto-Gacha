@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 190,
-  "updatedAt": "2026-10-15T23:53:01.002Z",
+  "totalPulls": 191,
+  "updatedAt": "2026-10-16T01:59:25.187Z",
   "lastPull": {
-    "id": 943,
-    "name": "mabosstiff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+    "id": 45,
+    "name": "vileplume",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
     "types": [
-      "dark"
+      "grass",
+      "poison"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-15T23:53:01.002Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-16T01:59:25.187Z"
   },
   "pulls": [
+    {
+      "id": 45,
+      "name": "vileplume",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-16T01:59:25.187Z"
+    },
     {
       "id": 943,
       "name": "mabosstiff",
@@ -116,18 +129,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-10-14T19:28:02.978Z"
-    },
-    {
-      "id": 892,
-      "name": "urshifu-single-strike",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png",
-      "types": [
-        "fighting",
-        "dark"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-10-14T15:19:27.983Z"
     }
   ],
   "pokemon": {
@@ -301,6 +302,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T20:48:05.903Z",
       "lastPulledAt": "2026-10-07T20:48:05.903Z"
+    },
+    "45": {
+      "id": 45,
+      "name": "vileplume",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-16T01:59:25.187Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T01:59:25.187Z",
+      "lastPulledAt": "2026-10-16T01:59:25.187Z"
     },
     "52": {
       "id": 52,
