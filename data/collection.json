@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 191,
-  "updatedAt": "2026-10-16T01:59:25.187Z",
+  "totalPulls": 192,
+  "updatedAt": "2026-10-16T06:47:02.766Z",
   "lastPull": {
-    "id": 45,
-    "name": "vileplume",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "id": 960,
+    "name": "wiglett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
     "types": [
-      "grass",
-      "poison"
+      "water"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-16T01:59:25.187Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-10-16T06:47:02.766Z"
   },
   "pulls": [
+    {
+      "id": 960,
+      "name": "wiglett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-16T06:47:02.766Z"
+    },
     {
       "id": 45,
       "name": "vileplume",
@@ -118,17 +128,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-10-14T22:28:23.229Z"
-    },
-    {
-      "id": 325,
-      "name": "spoink",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/325.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-14T19:28:02.978Z"
     }
   ],
   "pokemon": {
@@ -2687,6 +2686,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T06:38:40.349Z",
       "lastPulledAt": "2026-09-26T06:38:40.349Z"
+    },
+    "960": {
+      "id": 960,
+      "name": "wiglett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-10-16T06:47:02.766Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T06:47:02.766Z",
+      "lastPulledAt": "2026-10-16T06:47:02.766Z"
     },
     "961": {
       "id": 961,
