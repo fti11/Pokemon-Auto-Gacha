@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 196,
-  "updatedAt": "2026-10-16T22:01:26.013Z",
+  "totalPulls": 197,
+  "updatedAt": "2026-10-17T00:19:56.062Z",
   "lastPull": {
-    "id": 526,
-    "name": "gigalith",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
+    "id": 523,
+    "name": "zebstrika",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
     "types": [
-      "rock"
+      "electric"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-10-16T22:01:26.013Z"
+    "totalStats": 497,
+    "grade": "R",
+    "pulledAt": "2026-10-17T00:19:56.062Z"
   },
   "pulls": [
+    {
+      "id": 523,
+      "name": "zebstrika",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 497,
+      "grade": "R",
+      "pulledAt": "2026-10-17T00:19:56.062Z"
+    },
     {
       "id": 526,
       "name": "gigalith",
@@ -116,17 +127,6 @@
       "totalStats": 334,
       "grade": "N",
       "pulledAt": "2026-10-15T18:36:46.234Z"
-    },
-    {
-      "id": 584,
-      "name": "vanilluxe",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/584.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-15T14:37:53.256Z"
     }
   ],
   "pokemon": {
@@ -1431,6 +1431,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T22:03:55.433Z",
       "lastPulledAt": "2026-09-16T22:03:55.433Z"
+    },
+    "523": {
+      "id": 523,
+      "name": "zebstrika",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 497,
+      "grade": "R",
+      "pulledAt": "2026-10-17T00:19:56.062Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T00:19:56.062Z",
+      "lastPulledAt": "2026-10-17T00:19:56.062Z"
     },
     "524": {
       "id": 524,
