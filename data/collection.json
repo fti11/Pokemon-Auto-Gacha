@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 197,
-  "updatedAt": "2026-10-17T00:19:56.062Z",
+  "totalPulls": 198,
+  "updatedAt": "2026-10-17T04:39:04.514Z",
   "lastPull": {
-    "id": 523,
-    "name": "zebstrika",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
+    "id": 215,
+    "name": "sneasel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
     "types": [
-      "electric"
+      "dark",
+      "ice"
     ],
-    "totalStats": 497,
+    "totalStats": 430,
     "grade": "R",
-    "pulledAt": "2026-10-17T00:19:56.062Z"
+    "pulledAt": "2026-10-17T04:39:04.514Z"
   },
   "pulls": [
+    {
+      "id": 215,
+      "name": "sneasel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-17T04:39:04.514Z"
+    },
     {
       "id": 523,
       "name": "zebstrika",
@@ -115,18 +128,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-15T21:43:11.681Z"
-    },
-    {
-      "id": 459,
-      "name": "snover",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/459.png",
-      "types": [
-        "grass",
-        "ice"
-      ],
-      "totalStats": 334,
-      "grade": "N",
-      "pulledAt": "2026-10-15T18:36:46.234Z"
     }
   ],
   "pokemon": {
@@ -763,6 +764,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T00:35:55.454Z",
       "lastPulledAt": "2026-09-20T00:35:55.454Z"
+    },
+    "215": {
+      "id": 215,
+      "name": "sneasel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-10-17T04:39:04.514Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T04:39:04.514Z",
+      "lastPulledAt": "2026-10-17T04:39:04.514Z"
     },
     "219": {
       "id": 219,
