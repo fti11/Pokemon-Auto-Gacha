@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 198,
-  "updatedAt": "2026-10-17T04:39:04.514Z",
+  "totalPulls": 199,
+  "updatedAt": "2026-10-17T08:47:04.620Z",
   "lastPull": {
-    "id": 215,
-    "name": "sneasel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "id": 161,
+    "name": "sentret",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
     "types": [
-      "dark",
-      "ice"
+      "normal"
     ],
-    "totalStats": 430,
-    "grade": "R",
-    "pulledAt": "2026-10-17T04:39:04.514Z"
+    "totalStats": 215,
+    "grade": "N",
+    "pulledAt": "2026-10-17T08:47:04.620Z"
   },
   "pulls": [
+    {
+      "id": 161,
+      "name": "sentret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 215,
+      "grade": "N",
+      "pulledAt": "2026-10-17T08:47:04.620Z"
+    },
     {
       "id": 215,
       "name": "sneasel",
@@ -116,18 +126,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-15T23:53:01.002Z"
-    },
-    {
-      "id": 184,
-      "name": "azumarill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
-      "types": [
-        "water",
-        "fairy"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-15T21:43:11.681Z"
     }
   ],
   "pokemon": {
@@ -607,6 +605,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T19:04:42.954Z",
       "lastPulledAt": "2026-09-22T19:04:42.954Z"
+    },
+    "161": {
+      "id": 161,
+      "name": "sentret",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 215,
+      "grade": "N",
+      "pulledAt": "2026-10-17T08:47:04.620Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T08:47:04.620Z",
+      "lastPulledAt": "2026-10-17T08:47:04.620Z"
     },
     "162": {
       "id": 162,
