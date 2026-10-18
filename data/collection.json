@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 207,
-  "updatedAt": "2026-10-18T06:31:53.545Z",
+  "totalPulls": 208,
+  "updatedAt": "2026-10-18T11:37:42.440Z",
   "lastPull": {
-    "id": 866,
-    "name": "mr-rime",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/866.png",
+    "id": 635,
+    "name": "hydreigon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
     "types": [
-      "ice",
-      "psychic"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-10-18T06:31:53.545Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-18T11:37:42.440Z"
   },
   "pulls": [
+    {
+      "id": 635,
+      "name": "hydreigon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-18T11:37:42.440Z"
+    },
     {
       "id": 866,
       "name": "mr-rime",
@@ -118,18 +130,6 @@
       "totalStats": 215,
       "grade": "N",
       "pulledAt": "2026-10-17T08:47:04.620Z"
-    },
-    {
-      "id": 215,
-      "name": "sneasel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
-      "types": [
-        "dark",
-        "ice"
-      ],
-      "totalStats": 430,
-      "grade": "R",
-      "pulledAt": "2026-10-17T04:39:04.514Z"
     }
   ],
   "pokemon": {
@@ -1845,10 +1845,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-20T23:32:57.991Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:32:57.991Z",
-      "lastPulledAt": "2026-09-20T23:32:57.991Z"
+      "lastPulledAt": "2026-10-18T11:37:42.440Z"
     },
     "637": {
       "id": 637,
