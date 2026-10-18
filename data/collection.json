@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 208,
-  "updatedAt": "2026-10-18T11:37:42.440Z",
+  "totalPulls": 209,
+  "updatedAt": "2026-10-18T14:46:56.642Z",
   "lastPull": {
-    "id": 635,
-    "name": "hydreigon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
+    "id": 365,
+    "name": "walrein",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
     "types": [
-      "dark",
-      "dragon"
+      "ice",
+      "water"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-18T11:37:42.440Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-18T14:46:56.642Z"
   },
   "pulls": [
+    {
+      "id": 365,
+      "name": "walrein",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T14:46:56.642Z"
+    },
     {
       "id": 635,
       "name": "hydreigon",
@@ -119,17 +131,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-10-17T12:27:03.600Z"
-    },
-    {
-      "id": 161,
-      "name": "sentret",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/161.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 215,
-      "grade": "N",
-      "pulledAt": "2026-10-17T08:47:04.620Z"
     }
   ],
   "pokemon": {
@@ -1093,6 +1094,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T23:57:45.898Z",
       "lastPulledAt": "2026-10-04T23:57:45.898Z"
+    },
+    "365": {
+      "id": 365,
+      "name": "walrein",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T14:46:56.642Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T14:46:56.642Z",
+      "lastPulledAt": "2026-10-18T14:46:56.642Z"
     },
     "371": {
       "id": 371,
