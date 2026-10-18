@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 205,
-  "updatedAt": "2026-10-17T23:43:03.127Z",
+  "totalPulls": 206,
+  "updatedAt": "2026-10-18T01:33:01.296Z",
   "lastPull": {
-    "id": 101,
-    "name": "electrode",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "id": 570,
+    "name": "zorua",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
     "types": [
-      "electric"
+      "dark"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-10-17T23:43:03.127Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-18T01:33:01.296Z"
   },
   "pulls": [
+    {
+      "id": 570,
+      "name": "zorua",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-18T01:33:01.296Z"
+    },
     {
       "id": 101,
       "name": "electrode",
@@ -117,17 +128,6 @@
       "totalStats": 497,
       "grade": "R",
       "pulledAt": "2026-10-17T00:19:56.062Z"
-    },
-    {
-      "id": 526,
-      "name": "gigalith",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-10-16T22:01:26.013Z"
     }
   ],
   "pokemon": {
@@ -1616,6 +1616,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T12:52:34.107Z",
       "lastPulledAt": "2026-09-24T12:52:34.107Z"
+    },
+    "570": {
+      "id": 570,
+      "name": "zorua",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-18T01:33:01.296Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T01:33:01.296Z",
+      "lastPulledAt": "2026-10-18T01:33:01.296Z"
     },
     "572": {
       "id": 572,
