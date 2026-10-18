@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 212,
-  "updatedAt": "2026-10-18T21:48:09.640Z",
+  "totalPulls": 213,
+  "updatedAt": "2026-10-18T23:42:28.056Z",
   "lastPull": {
-    "id": 229,
-    "name": "houndoom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+    "id": 270,
+    "name": "lotad",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
     "types": [
-      "dark",
-      "fire"
+      "water",
+      "grass"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-18T21:48:09.640Z"
+    "totalStats": 220,
+    "grade": "N",
+    "pulledAt": "2026-10-18T23:42:28.056Z"
   },
   "pulls": [
+    {
+      "id": 270,
+      "name": "lotad",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 220,
+      "grade": "N",
+      "pulledAt": "2026-10-18T23:42:28.056Z"
+    },
     {
       "id": 229,
       "name": "houndoom",
@@ -119,18 +131,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-10-17T21:57:41.852Z"
-    },
-    {
-      "id": 389,
-      "name": "torterra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
-      "types": [
-        "grass",
-        "ground"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-17T19:58:30.028Z"
     }
   ],
   "pokemon": {
@@ -953,6 +953,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T13:02:42.603Z",
       "lastPulledAt": "2026-09-27T13:02:42.603Z"
+    },
+    "270": {
+      "id": 270,
+      "name": "lotad",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/270.png",
+      "types": [
+        "water",
+        "grass"
+      ],
+      "totalStats": 220,
+      "grade": "N",
+      "pulledAt": "2026-10-18T23:42:28.056Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T23:42:28.056Z",
+      "lastPulledAt": "2026-10-18T23:42:28.056Z"
     },
     "284": {
       "id": 284,
