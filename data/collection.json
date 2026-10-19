@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 215,
-  "updatedAt": "2026-10-19T06:53:30.580Z",
+  "totalPulls": 216,
+  "updatedAt": "2026-10-19T14:08:21.511Z",
   "lastPull": {
-    "id": 772,
-    "name": "type-null",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
+    "id": 978,
+    "name": "tatsugiri-curly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
     "types": [
-      "normal"
+      "dragon",
+      "water"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-10-19T06:53:30.580Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-10-19T14:08:21.511Z"
   },
   "pulls": [
+    {
+      "id": 978,
+      "name": "tatsugiri-curly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-19T14:08:21.511Z"
+    },
     {
       "id": 772,
       "name": "type-null",
@@ -119,17 +132,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-10-18T06:31:53.545Z"
-    },
-    {
-      "id": 570,
-      "name": "zorua",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/570.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-18T01:33:01.296Z"
     }
   ],
   "pokemon": {
@@ -3090,6 +3092,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:52:36.439Z",
       "lastPulledAt": "2026-09-16T01:52:36.439Z"
+    },
+    "978": {
+      "id": 978,
+      "name": "tatsugiri-curly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-19T14:08:21.511Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T14:08:21.511Z",
+      "lastPulledAt": "2026-10-19T14:08:21.511Z"
     },
     "980": {
       "id": 980,
