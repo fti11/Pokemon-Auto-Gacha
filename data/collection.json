@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 217,
-  "updatedAt": "2026-10-19T19:50:48.823Z",
+  "totalPulls": 218,
+  "updatedAt": "2026-10-19T23:11:03.670Z",
   "lastPull": {
-    "id": 893,
-    "name": "zarude",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png",
+    "id": 630,
+    "name": "mandibuzz",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
     "types": [
       "dark",
-      "grass"
+      "flying"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-10-19T19:50:48.823Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-19T23:11:03.670Z"
   },
   "pulls": [
+    {
+      "id": 630,
+      "name": "mandibuzz",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T23:11:03.670Z"
+    },
     {
       "id": 893,
       "name": "zarude",
@@ -120,18 +132,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-18T14:46:56.642Z"
-    },
-    {
-      "id": 635,
-      "name": "hydreigon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/635.png",
-      "types": [
-        "dark",
-        "dragon"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-18T11:37:42.440Z"
     }
   ],
   "pokemon": {
@@ -1851,6 +1851,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T15:11:07.400Z",
       "lastPulledAt": "2026-10-02T15:11:07.400Z"
+    },
+    "630": {
+      "id": 630,
+      "name": "mandibuzz",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T23:11:03.670Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T23:11:03.670Z",
+      "lastPulledAt": "2026-10-19T23:11:03.670Z"
     },
     "631": {
       "id": 631,
