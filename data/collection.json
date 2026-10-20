@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 218,
-  "updatedAt": "2026-10-19T23:11:03.670Z",
+  "totalPulls": 219,
+  "updatedAt": "2026-10-20T01:50:51.289Z",
   "lastPull": {
-    "id": 630,
-    "name": "mandibuzz",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "id": 633,
+    "name": "deino",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
     "types": [
       "dark",
-      "flying"
+      "dragon"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-19T23:11:03.670Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-20T01:50:51.289Z"
   },
   "pulls": [
+    {
+      "id": 633,
+      "name": "deino",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-20T01:50:51.289Z"
+    },
     {
       "id": 630,
       "name": "mandibuzz",
@@ -120,18 +132,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-18T17:34:11.767Z"
-    },
-    {
-      "id": 365,
-      "name": "walrein",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png",
-      "types": [
-        "ice",
-        "water"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T14:46:56.642Z"
     }
   ],
   "pokemon": {
@@ -1894,10 +1894,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-16T11:36:02.508Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T11:36:02.508Z",
-      "lastPulledAt": "2026-09-27T07:10:26.908Z"
+      "lastPulledAt": "2026-10-20T01:50:51.289Z"
     },
     "634": {
       "id": 634,
