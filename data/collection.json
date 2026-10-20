@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 220,
-  "updatedAt": "2026-10-20T06:48:21.245Z",
+  "totalPulls": 221,
+  "updatedAt": "2026-10-20T12:17:55.218Z",
   "lastPull": {
-    "id": 975,
-    "name": "cetitan",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+    "id": 211,
+    "name": "qwilfish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
     "types": [
-      "ice"
+      "water",
+      "poison"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-10-20T06:48:21.245Z"
+    "totalStats": 440,
+    "grade": "R",
+    "pulledAt": "2026-10-20T12:17:55.218Z"
   },
   "pulls": [
+    {
+      "id": 211,
+      "name": "qwilfish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 440,
+      "grade": "R",
+      "pulledAt": "2026-10-20T12:17:55.218Z"
+    },
     {
       "id": 975,
       "name": "cetitan",
@@ -119,17 +132,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-18T21:48:09.640Z"
-    },
-    {
-      "id": 97,
-      "name": "hypno",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 483,
-      "grade": "R",
-      "pulledAt": "2026-10-18T19:36:16.740Z"
     }
   ],
   "pokemon": {
@@ -807,10 +809,10 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-09-20T00:35:55.454Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T00:35:55.454Z",
-      "lastPulledAt": "2026-09-20T00:35:55.454Z"
+      "lastPulledAt": "2026-10-20T12:17:55.218Z"
     },
     "215": {
       "id": 215,
