@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 223,
-  "updatedAt": "2026-10-20T20:36:02.336Z",
+  "totalPulls": 224,
+  "updatedAt": "2026-10-20T23:21:10.388Z",
   "lastPull": {
-    "id": 48,
-    "name": "venonat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "id": 6,
+    "name": "charizard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
     "types": [
-      "bug",
-      "poison"
+      "fire",
+      "flying"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-20T20:36:02.336Z"
+    "totalStats": 534,
+    "grade": "SR",
+    "pulledAt": "2026-10-20T23:21:10.388Z"
   },
   "pulls": [
+    {
+      "id": 6,
+      "name": "charizard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T23:21:10.388Z"
+    },
     {
       "id": 48,
       "name": "venonat",
@@ -119,21 +131,25 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-10-19T06:53:30.580Z"
-    },
-    {
-      "id": 93,
-      "name": "haunter",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
-      "types": [
-        "ghost",
-        "poison"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-19T01:45:18.944Z"
     }
   ],
   "pokemon": {
+    "6": {
+      "id": 6,
+      "name": "charizard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T23:21:10.388Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T23:21:10.388Z",
+      "lastPulledAt": "2026-10-20T23:21:10.388Z"
+    },
     "9": {
       "id": 9,
       "name": "blastoise",
