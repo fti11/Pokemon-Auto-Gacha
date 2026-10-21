@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 224,
-  "updatedAt": "2026-10-20T23:21:10.388Z",
+  "totalPulls": 225,
+  "updatedAt": "2026-10-21T01:45:13.303Z",
   "lastPull": {
-    "id": 6,
-    "name": "charizard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "id": 539,
+    "name": "sawk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png",
     "types": [
-      "fire",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 534,
-    "grade": "SR",
-    "pulledAt": "2026-10-20T23:21:10.388Z"
+    "totalStats": 465,
+    "grade": "R",
+    "pulledAt": "2026-10-21T01:45:13.303Z"
   },
   "pulls": [
+    {
+      "id": 539,
+      "name": "sawk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-21T01:45:13.303Z"
+    },
     {
       "id": 6,
       "name": "charizard",
@@ -120,17 +130,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-19T14:08:21.511Z"
-    },
-    {
-      "id": 772,
-      "name": "type-null",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T06:53:30.580Z"
     }
   ],
   "pokemon": {
@@ -1653,6 +1652,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T22:01:26.013Z",
       "lastPulledAt": "2026-10-16T22:01:26.013Z"
+    },
+    "539": {
+      "id": 539,
+      "name": "sawk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-10-21T01:45:13.303Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T01:45:13.303Z",
+      "lastPulledAt": "2026-10-21T01:45:13.303Z"
     },
     "556": {
       "id": 556,
