@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 227,
-  "updatedAt": "2026-10-21T12:17:39.836Z",
+  "totalPulls": 228,
+  "updatedAt": "2026-10-21T17:17:09.850Z",
   "lastPull": {
-    "id": 993,
-    "name": "iron-jugulis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+    "id": 164,
+    "name": "noctowl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
     "types": [
-      "dark",
+      "normal",
       "flying"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-10-21T12:17:39.836Z"
+    "totalStats": 452,
+    "grade": "R",
+    "pulledAt": "2026-10-21T17:17:09.850Z"
   },
   "pulls": [
+    {
+      "id": 164,
+      "name": "noctowl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-10-21T17:17:09.850Z"
+    },
     {
       "id": 993,
       "name": "iron-jugulis",
@@ -119,18 +131,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-20T01:50:51.289Z"
-    },
-    {
-      "id": 630,
-      "name": "mandibuzz",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T23:11:03.670Z"
     }
   ],
   "pokemon": {
@@ -714,10 +714,10 @@
       "totalStats": 452,
       "grade": "R",
       "pulledAt": "2026-10-05T19:25:54.525Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T19:25:54.525Z",
-      "lastPulledAt": "2026-10-05T19:25:54.525Z"
+      "lastPulledAt": "2026-10-21T17:17:09.850Z"
     },
     "165": {
       "id": 165,
