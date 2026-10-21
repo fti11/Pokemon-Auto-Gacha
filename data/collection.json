@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 229,
-  "updatedAt": "2026-10-21T20:39:17.106Z",
+  "totalPulls": 230,
+  "updatedAt": "2026-10-21T23:36:30.332Z",
   "lastPull": {
-    "id": 154,
-    "name": "meganium",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
+    "id": 125,
+    "name": "electabuzz",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
     "types": [
-      "grass"
+      "electric"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-21T20:39:17.106Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-10-21T23:36:30.332Z"
   },
   "pulls": [
+    {
+      "id": 125,
+      "name": "electabuzz",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-21T23:36:30.332Z"
+    },
     {
       "id": 154,
       "name": "meganium",
@@ -118,17 +129,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-20T12:17:55.218Z"
-    },
-    {
-      "id": 975,
-      "name": "cetitan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T06:48:21.245Z"
     }
   ],
   "pokemon": {
@@ -595,6 +595,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T01:08:31.332Z",
       "lastPulledAt": "2026-09-29T01:08:31.332Z"
+    },
+    "125": {
+      "id": 125,
+      "name": "electabuzz",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-21T23:36:30.332Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T23:36:30.332Z",
+      "lastPulledAt": "2026-10-21T23:36:30.332Z"
     },
     "126": {
       "id": 126,
