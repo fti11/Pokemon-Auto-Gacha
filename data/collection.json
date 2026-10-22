@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 231,
-  "updatedAt": "2026-10-22T01:47:11.863Z",
+  "totalPulls": 232,
+  "updatedAt": "2026-10-22T06:37:41.865Z",
   "lastPull": {
-    "id": 338,
-    "name": "solrock",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+    "id": 504,
+    "name": "patrat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
     "types": [
-      "rock",
-      "psychic"
+      "normal"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-10-22T01:47:11.863Z"
+    "totalStats": 255,
+    "grade": "N",
+    "pulledAt": "2026-10-22T06:37:41.865Z"
   },
   "pulls": [
+    {
+      "id": 504,
+      "name": "patrat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-10-22T06:37:41.865Z"
+    },
     {
       "id": 338,
       "name": "solrock",
@@ -119,17 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-20T20:36:02.336Z"
-    },
-    {
-      "id": 670,
-      "name": "floette",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 371,
-      "grade": "N",
-      "pulledAt": "2026-10-20T17:15:11.492Z"
     }
   ],
   "pokemon": {
@@ -1592,6 +1591,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:35:41.947Z",
       "lastPulledAt": "2026-09-16T01:35:41.947Z"
+    },
+    "504": {
+      "id": 504,
+      "name": "patrat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 255,
+      "grade": "N",
+      "pulledAt": "2026-10-22T06:37:41.865Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T06:37:41.865Z",
+      "lastPulledAt": "2026-10-22T06:37:41.865Z"
     },
     "511": {
       "id": 511,
