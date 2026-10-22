@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 234,
-  "updatedAt": "2026-10-22T17:23:33.260Z",
+  "totalPulls": 235,
+  "updatedAt": "2026-10-22T20:38:49.457Z",
   "lastPull": {
-    "id": 526,
-    "name": "gigalith",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
+    "id": 742,
+    "name": "cutiefly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
     "types": [
-      "rock"
+      "bug",
+      "fairy"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-10-22T17:23:33.260Z"
+    "totalStats": 304,
+    "grade": "N",
+    "pulledAt": "2026-10-22T20:38:49.457Z"
   },
   "pulls": [
+    {
+      "id": 742,
+      "name": "cutiefly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-10-22T20:38:49.457Z"
+    },
     {
       "id": 526,
       "name": "gigalith",
@@ -117,17 +130,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-21T06:35:48.708Z"
-    },
-    {
-      "id": 539,
-      "name": "sawk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/539.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-10-21T01:45:13.303Z"
     }
   ],
   "pokemon": {
@@ -2514,10 +2516,10 @@
       "totalStats": 304,
       "grade": "N",
       "pulledAt": "2026-10-11T17:46:15.971Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T17:46:15.971Z",
-      "lastPulledAt": "2026-10-11T17:46:15.971Z"
+      "lastPulledAt": "2026-10-22T20:38:49.457Z"
     },
     "745": {
       "id": 745,
