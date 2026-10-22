@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 232,
-  "updatedAt": "2026-10-22T06:37:41.865Z",
+  "totalPulls": 233,
+  "updatedAt": "2026-10-22T12:20:46.771Z",
   "lastPull": {
-    "id": 504,
-    "name": "patrat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/504.png",
+    "id": 724,
+    "name": "decidueye",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
     "types": [
-      "normal"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 255,
-    "grade": "N",
-    "pulledAt": "2026-10-22T06:37:41.865Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-22T12:20:46.771Z"
   },
   "pulls": [
+    {
+      "id": 724,
+      "name": "decidueye",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T12:20:46.771Z"
+    },
     {
       "id": 504,
       "name": "patrat",
@@ -117,18 +130,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-10-20T23:21:10.388Z"
-    },
-    {
-      "id": 48,
-      "name": "venonat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-20T20:36:02.336Z"
     }
   ],
   "pokemon": {
@@ -2438,10 +2439,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-13T10:26:53.656Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T10:26:53.656Z",
-      "lastPulledAt": "2026-10-13T10:26:53.656Z"
+      "lastPulledAt": "2026-10-22T12:20:46.771Z"
     },
     "726": {
       "id": 726,
