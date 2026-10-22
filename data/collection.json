@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 230,
-  "updatedAt": "2026-10-21T23:36:30.332Z",
+  "totalPulls": 231,
+  "updatedAt": "2026-10-22T01:47:11.863Z",
   "lastPull": {
-    "id": 125,
-    "name": "electabuzz",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "id": 338,
+    "name": "solrock",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
     "types": [
-      "electric"
+      "rock",
+      "psychic"
     ],
-    "totalStats": 490,
+    "totalStats": 460,
     "grade": "R",
-    "pulledAt": "2026-10-21T23:36:30.332Z"
+    "pulledAt": "2026-10-22T01:47:11.863Z"
   },
   "pulls": [
+    {
+      "id": 338,
+      "name": "solrock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-22T01:47:11.863Z"
+    },
     {
       "id": 125,
       "name": "electabuzz",
@@ -117,18 +130,6 @@
       "totalStats": 371,
       "grade": "N",
       "pulledAt": "2026-10-20T17:15:11.492Z"
-    },
-    {
-      "id": 211,
-      "name": "qwilfish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png",
-      "types": [
-        "water",
-        "poison"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-10-20T12:17:55.218Z"
     }
   ],
   "pokemon": {
@@ -1139,6 +1140,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T10:52:05.144Z",
       "lastPulledAt": "2026-10-05T10:52:05.144Z"
+    },
+    "338": {
+      "id": 338,
+      "name": "solrock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "totalStats": 460,
+      "grade": "R",
+      "pulledAt": "2026-10-22T01:47:11.863Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T01:47:11.863Z",
+      "lastPulledAt": "2026-10-22T01:47:11.863Z"
     },
     "341": {
       "id": 341,
