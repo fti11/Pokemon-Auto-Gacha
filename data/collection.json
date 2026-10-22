@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 233,
-  "updatedAt": "2026-10-22T12:20:46.771Z",
+  "totalPulls": 234,
+  "updatedAt": "2026-10-22T17:23:33.260Z",
   "lastPull": {
-    "id": 724,
-    "name": "decidueye",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
+    "id": 526,
+    "name": "gigalith",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
     "types": [
-      "grass",
-      "ghost"
+      "rock"
     ],
-    "totalStats": 530,
+    "totalStats": 515,
     "grade": "SR",
-    "pulledAt": "2026-10-22T12:20:46.771Z"
+    "pulledAt": "2026-10-22T17:23:33.260Z"
   },
   "pulls": [
+    {
+      "id": 526,
+      "name": "gigalith",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/526.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T17:23:33.260Z"
+    },
     {
       "id": 724,
       "name": "decidueye",
@@ -118,18 +128,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-10-21T01:45:13.303Z"
-    },
-    {
-      "id": 6,
-      "name": "charizard",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
-      "types": [
-        "fire",
-        "flying"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T23:21:10.388Z"
     }
   ],
   "pokemon": {
@@ -1709,10 +1707,10 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-16T22:01:26.013Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T22:01:26.013Z",
-      "lastPulledAt": "2026-10-16T22:01:26.013Z"
+      "lastPulledAt": "2026-10-22T17:23:33.260Z"
     },
     "539": {
       "id": 539,
