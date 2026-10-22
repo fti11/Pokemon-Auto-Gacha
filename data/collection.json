@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 235,
-  "updatedAt": "2026-10-22T20:38:49.457Z",
+  "totalPulls": 236,
+  "updatedAt": "2026-10-22T23:34:32.726Z",
   "lastPull": {
-    "id": 742,
-    "name": "cutiefly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
+    "id": 40,
+    "name": "wigglytuff",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
     "types": [
-      "bug",
+      "normal",
       "fairy"
     ],
-    "totalStats": 304,
-    "grade": "N",
-    "pulledAt": "2026-10-22T20:38:49.457Z"
+    "totalStats": 435,
+    "grade": "R",
+    "pulledAt": "2026-10-22T23:34:32.726Z"
   },
   "pulls": [
+    {
+      "id": 40,
+      "name": "wigglytuff",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "totalStats": 435,
+      "grade": "R",
+      "pulledAt": "2026-10-22T23:34:32.726Z"
+    },
     {
       "id": 742,
       "name": "cutiefly",
@@ -118,18 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-21T12:17:39.836Z"
-    },
-    {
-      "id": 643,
-      "name": "reshiram",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
-      "types": [
-        "dragon",
-        "fire"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-10-21T06:35:48.708Z"
     }
   ],
   "pokemon": {
@@ -315,10 +315,10 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-10-07T20:48:05.903Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T20:48:05.903Z",
-      "lastPulledAt": "2026-10-07T20:48:05.903Z"
+      "lastPulledAt": "2026-10-22T23:34:32.726Z"
     },
     "45": {
       "id": 45,
