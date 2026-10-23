@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 240,
-  "updatedAt": "2026-10-23T16:57:54.314Z",
+  "totalPulls": 241,
+  "updatedAt": "2026-10-23T20:11:10.866Z",
   "lastPull": {
-    "id": 544,
-    "name": "whirlipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+    "id": 970,
+    "name": "glimmora",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
     "types": [
-      "bug",
+      "rock",
       "poison"
     ],
-    "totalStats": 360,
-    "grade": "N",
-    "pulledAt": "2026-10-23T16:57:54.314Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-23T20:11:10.866Z"
   },
   "pulls": [
+    {
+      "id": 970,
+      "name": "glimmora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T20:11:10.866Z"
+    },
     {
       "id": 544,
       "name": "whirlipede",
@@ -119,18 +131,6 @@
       "totalStats": 255,
       "grade": "N",
       "pulledAt": "2026-10-22T06:37:41.865Z"
-    },
-    {
-      "id": 338,
-      "name": "solrock",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/338.png",
-      "types": [
-        "rock",
-        "psychic"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-22T01:47:11.863Z"
     }
   ],
   "pokemon": {
@@ -3309,6 +3309,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:46:31.063Z",
       "lastPulledAt": "2026-09-16T01:46:31.063Z"
+    },
+    "970": {
+      "id": 970,
+      "name": "glimmora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-23T20:11:10.866Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T20:11:10.866Z",
+      "lastPulledAt": "2026-10-23T20:11:10.866Z"
     },
     "973": {
       "id": 973,
