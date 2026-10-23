@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 237,
-  "updatedAt": "2026-10-23T01:51:38.313Z",
+  "totalPulls": 238,
+  "updatedAt": "2026-10-23T06:39:56.144Z",
   "lastPull": {
-    "id": 141,
-    "name": "kabutops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "id": 602,
+    "name": "tynamo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
     "types": [
-      "rock",
-      "water"
+      "electric"
     ],
-    "totalStats": 495,
-    "grade": "R",
-    "pulledAt": "2026-10-23T01:51:38.313Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-10-23T06:39:56.144Z"
   },
   "pulls": [
+    {
+      "id": 602,
+      "name": "tynamo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-23T06:39:56.144Z"
+    },
     {
       "id": 141,
       "name": "kabutops",
@@ -118,18 +128,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-21T20:39:17.106Z"
-    },
-    {
-      "id": 164,
-      "name": "noctowl",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 452,
-      "grade": "R",
-      "pulledAt": "2026-10-21T17:17:09.850Z"
     }
   ],
   "pokemon": {
@@ -1927,6 +1925,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T05:20:31.082Z",
       "lastPulledAt": "2026-09-20T05:20:31.082Z"
+    },
+    "602": {
+      "id": 602,
+      "name": "tynamo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-10-23T06:39:56.144Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T06:39:56.144Z",
+      "lastPulledAt": "2026-10-23T06:39:56.144Z"
     },
     "611": {
       "id": 611,
