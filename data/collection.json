@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 236,
-  "updatedAt": "2026-10-22T23:34:32.726Z",
+  "totalPulls": 237,
+  "updatedAt": "2026-10-23T01:51:38.313Z",
   "lastPull": {
-    "id": 40,
-    "name": "wigglytuff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "id": 141,
+    "name": "kabutops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
     "types": [
-      "normal",
-      "fairy"
+      "rock",
+      "water"
     ],
-    "totalStats": 435,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-22T23:34:32.726Z"
+    "pulledAt": "2026-10-23T01:51:38.313Z"
   },
   "pulls": [
+    {
+      "id": 141,
+      "name": "kabutops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-23T01:51:38.313Z"
+    },
     {
       "id": 40,
       "name": "wigglytuff",
@@ -118,18 +130,6 @@
       "totalStats": 452,
       "grade": "R",
       "pulledAt": "2026-10-21T17:17:09.850Z"
-    },
-    {
-      "id": 993,
-      "name": "iron-jugulis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-21T12:17:39.836Z"
     }
   ],
   "pokemon": {
@@ -641,6 +641,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:30:07.106Z",
       "lastPulledAt": "2026-09-17T18:30:07.106Z"
+    },
+    "141": {
+      "id": 141,
+      "name": "kabutops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-23T01:51:38.313Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T01:51:38.313Z",
+      "lastPulledAt": "2026-10-23T01:51:38.313Z"
     },
     "143": {
       "id": 143,
