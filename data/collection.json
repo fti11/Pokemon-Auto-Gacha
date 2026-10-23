@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 238,
-  "updatedAt": "2026-10-23T06:39:56.144Z",
+  "totalPulls": 239,
+  "updatedAt": "2026-10-23T12:04:41.723Z",
   "lastPull": {
-    "id": 602,
-    "name": "tynamo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+    "id": 636,
+    "name": "larvesta",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
     "types": [
-      "electric"
+      "bug",
+      "fire"
     ],
-    "totalStats": 275,
+    "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-10-23T06:39:56.144Z"
+    "pulledAt": "2026-10-23T12:04:41.723Z"
   },
   "pulls": [
+    {
+      "id": 636,
+      "name": "larvesta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-23T12:04:41.723Z"
+    },
     {
       "id": 602,
       "name": "tynamo",
@@ -117,17 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-21T23:36:30.332Z"
-    },
-    {
-      "id": 154,
-      "name": "meganium",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/154.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-21T20:39:17.106Z"
     }
   ],
   "pokemon": {
@@ -2065,6 +2067,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T23:32:57.991Z",
       "lastPulledAt": "2026-10-18T11:37:42.440Z"
+    },
+    "636": {
+      "id": 636,
+      "name": "larvesta",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-23T12:04:41.723Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T12:04:41.723Z",
+      "lastPulledAt": "2026-10-23T12:04:41.723Z"
     },
     "637": {
       "id": 637,
