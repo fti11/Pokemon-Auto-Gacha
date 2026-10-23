@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 239,
-  "updatedAt": "2026-10-23T12:04:41.723Z",
+  "totalPulls": 240,
+  "updatedAt": "2026-10-23T16:57:54.314Z",
   "lastPull": {
-    "id": 636,
-    "name": "larvesta",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
+    "id": 544,
+    "name": "whirlipede",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
     "types": [
       "bug",
-      "fire"
+      "poison"
     ],
     "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-10-23T12:04:41.723Z"
+    "pulledAt": "2026-10-23T16:57:54.314Z"
   },
   "pulls": [
+    {
+      "id": 544,
+      "name": "whirlipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-23T16:57:54.314Z"
+    },
     {
       "id": 636,
       "name": "larvesta",
@@ -119,17 +131,6 @@
       "totalStats": 460,
       "grade": "R",
       "pulledAt": "2026-10-22T01:47:11.863Z"
-    },
-    {
-      "id": 125,
-      "name": "electabuzz",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-21T23:36:30.332Z"
     }
   ],
   "pokemon": {
@@ -1744,6 +1745,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T01:45:13.303Z",
       "lastPulledAt": "2026-10-21T01:45:13.303Z"
+    },
+    "544": {
+      "id": 544,
+      "name": "whirlipede",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-23T16:57:54.314Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T16:57:54.314Z",
+      "lastPulledAt": "2026-10-23T16:57:54.314Z"
     },
     "556": {
       "id": 556,
