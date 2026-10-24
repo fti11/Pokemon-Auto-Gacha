@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 246,
-  "updatedAt": "2026-10-24T14:38:15.625Z",
+  "totalPulls": 247,
+  "updatedAt": "2026-10-24T17:33:53.678Z",
   "lastPull": {
-    "id": 147,
-    "name": "dratini",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "id": 130,
+    "name": "gyarados",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
     "types": [
-      "dragon"
+      "water",
+      "flying"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-10-24T14:38:15.625Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-10-24T17:33:53.678Z"
   },
   "pulls": [
+    {
+      "id": 130,
+      "name": "gyarados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T17:33:53.678Z"
+    },
     {
       "id": 147,
       "name": "dratini",
@@ -116,18 +129,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-10-23T06:39:56.144Z"
-    },
-    {
-      "id": 141,
-      "name": "kabutops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
-      "types": [
-        "rock",
-        "water"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-23T01:51:38.313Z"
     }
   ],
   "pokemon": {
@@ -639,6 +640,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T18:30:07.106Z",
       "lastPulledAt": "2026-09-17T18:30:07.106Z"
+    },
+    "130": {
+      "id": 130,
+      "name": "gyarados",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T17:33:53.678Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T17:33:53.678Z",
+      "lastPulledAt": "2026-10-24T17:33:53.678Z"
     },
     "141": {
       "id": 141,
