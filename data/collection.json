@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 247,
-  "updatedAt": "2026-10-24T17:33:53.678Z",
+  "totalPulls": 248,
+  "updatedAt": "2026-10-24T19:43:38.667Z",
   "lastPull": {
-    "id": 130,
-    "name": "gyarados",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "id": 984,
+    "name": "great-tusk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
     "types": [
-      "water",
-      "flying"
+      "ground",
+      "fighting"
     ],
-    "totalStats": 540,
+    "totalStats": 570,
     "grade": "SR",
-    "pulledAt": "2026-10-24T17:33:53.678Z"
+    "pulledAt": "2026-10-24T19:43:38.667Z"
   },
   "pulls": [
+    {
+      "id": 984,
+      "name": "great-tusk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+      "types": [
+        "ground",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T19:43:38.667Z"
+    },
     {
       "id": 130,
       "name": "gyarados",
@@ -118,17 +130,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-23T12:04:41.723Z"
-    },
-    {
-      "id": 602,
-      "name": "tynamo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-10-23T06:39:56.144Z"
     }
   ],
   "pokemon": {
@@ -3475,10 +3476,10 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-24T20:44:52.107Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T20:44:52.107Z",
-      "lastPulledAt": "2026-09-24T20:44:52.107Z"
+      "lastPulledAt": "2026-10-24T19:43:38.667Z"
     },
     "988": {
       "id": 988,
