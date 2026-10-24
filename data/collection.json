@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 244,
-  "updatedAt": "2026-10-24T06:23:33.387Z",
+  "totalPulls": 245,
+  "updatedAt": "2026-10-24T11:19:55.451Z",
   "lastPull": {
-    "id": 932,
-    "name": "nacli",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+    "id": 377,
+    "name": "regirock",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
     "types": [
       "rock"
     ],
-    "totalStats": 280,
-    "grade": "N",
-    "pulledAt": "2026-10-24T06:23:33.387Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-24T11:19:55.451Z"
   },
   "pulls": [
+    {
+      "id": 377,
+      "name": "regirock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T11:19:55.451Z"
+    },
     {
       "id": 932,
       "name": "nacli",
@@ -118,18 +129,6 @@
       "totalStats": 435,
       "grade": "R",
       "pulledAt": "2026-10-22T23:34:32.726Z"
-    },
-    {
-      "id": 742,
-      "name": "cutiefly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
-      "types": [
-        "bug",
-        "fairy"
-      ],
-      "totalStats": 304,
-      "grade": "N",
-      "pulledAt": "2026-10-22T20:38:49.457Z"
     }
   ],
   "pokemon": {
@@ -1312,6 +1311,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T23:25:01.967Z",
       "lastPulledAt": "2026-09-25T23:25:01.967Z"
+    },
+    "377": {
+      "id": 377,
+      "name": "regirock",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T11:19:55.451Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T11:19:55.451Z",
+      "lastPulledAt": "2026-10-24T11:19:55.451Z"
     },
     "380": {
       "id": 380,
