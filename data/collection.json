@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 248,
-  "updatedAt": "2026-10-24T19:43:38.667Z",
+  "totalPulls": 249,
+  "updatedAt": "2026-10-24T21:55:37.152Z",
   "lastPull": {
-    "id": 984,
-    "name": "great-tusk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+    "id": 244,
+    "name": "entei",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
     "types": [
-      "ground",
-      "fighting"
+      "fire"
     ],
-    "totalStats": 570,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-10-24T19:43:38.667Z"
+    "pulledAt": "2026-10-24T21:55:37.152Z"
   },
   "pulls": [
+    {
+      "id": 244,
+      "name": "entei",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T21:55:37.152Z"
+    },
     {
       "id": 984,
       "name": "great-tusk",
@@ -118,18 +128,6 @@
       "totalStats": 360,
       "grade": "N",
       "pulledAt": "2026-10-23T16:57:54.314Z"
-    },
-    {
-      "id": 636,
-      "name": "larvesta",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png",
-      "types": [
-        "bug",
-        "fire"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-23T12:04:41.723Z"
     }
   ],
   "pokemon": {
@@ -1061,6 +1059,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T19:52:13.676Z",
       "lastPulledAt": "2026-10-01T19:52:13.676Z"
+    },
+    "244": {
+      "id": 244,
+      "name": "entei",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T21:55:37.152Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T21:55:37.152Z",
+      "lastPulledAt": "2026-10-24T21:55:37.152Z"
     },
     "249": {
       "id": 249,
