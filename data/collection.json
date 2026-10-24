@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 249,
-  "updatedAt": "2026-10-24T21:55:37.152Z",
+  "totalPulls": 250,
+  "updatedAt": "2026-10-24T23:51:27.034Z",
   "lastPull": {
-    "id": 244,
-    "name": "entei",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png",
+    "id": 212,
+    "name": "scizor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
     "types": [
-      "fire"
+      "bug",
+      "steel"
     ],
-    "totalStats": 580,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-10-24T21:55:37.152Z"
+    "pulledAt": "2026-10-24T23:51:27.034Z"
   },
   "pulls": [
+    {
+      "id": 212,
+      "name": "scizor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T23:51:27.034Z"
+    },
     {
       "id": 244,
       "name": "entei",
@@ -116,18 +129,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-23T20:11:10.866Z"
-    },
-    {
-      "id": 544,
-      "name": "whirlipede",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/544.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-23T16:57:54.314Z"
     }
   ],
   "pokemon": {
@@ -933,6 +934,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T00:35:55.454Z",
       "lastPulledAt": "2026-10-20T12:17:55.218Z"
+    },
+    "212": {
+      "id": 212,
+      "name": "scizor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T23:51:27.034Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T23:51:27.034Z",
+      "lastPulledAt": "2026-10-24T23:51:27.034Z"
     },
     "213": {
       "id": 213,
