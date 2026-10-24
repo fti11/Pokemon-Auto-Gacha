@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 242,
-  "updatedAt": "2026-10-23T23:09:53.594Z",
+  "totalPulls": 243,
+  "updatedAt": "2026-10-24T01:32:27.200Z",
   "lastPull": {
-    "id": 213,
-    "name": "shuckle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/213.png",
+    "id": 153,
+    "name": "bayleef",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
     "types": [
-      "bug",
-      "rock"
+      "grass"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-23T23:09:53.594Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-10-24T01:32:27.200Z"
   },
   "pulls": [
+    {
+      "id": 153,
+      "name": "bayleef",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-24T01:32:27.200Z"
+    },
     {
       "id": 213,
       "name": "shuckle",
@@ -120,18 +130,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-22T17:23:33.260Z"
-    },
-    {
-      "id": 724,
-      "name": "decidueye",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/724.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-22T12:20:46.771Z"
     }
   ],
   "pokemon": {
@@ -674,6 +672,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T13:54:57.956Z",
       "lastPulledAt": "2026-10-06T13:54:57.956Z"
+    },
+    "153": {
+      "id": 153,
+      "name": "bayleef",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-24T01:32:27.200Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T01:32:27.200Z",
+      "lastPulledAt": "2026-10-24T01:32:27.200Z"
     },
     "154": {
       "id": 154,
