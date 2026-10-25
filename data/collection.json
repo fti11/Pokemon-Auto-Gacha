@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 250,
-  "updatedAt": "2026-10-24T23:51:27.034Z",
+  "totalPulls": 251,
+  "updatedAt": "2026-10-25T02:03:55.882Z",
   "lastPull": {
-    "id": 212,
-    "name": "scizor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+    "id": 63,
+    "name": "abra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
     "types": [
-      "bug",
-      "steel"
+      "psychic"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-24T23:51:27.034Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-25T02:03:55.882Z"
   },
   "pulls": [
+    {
+      "id": 63,
+      "name": "abra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-25T02:03:55.882Z"
+    },
     {
       "id": 212,
       "name": "scizor",
@@ -117,18 +127,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-10-23T23:09:53.594Z"
-    },
-    {
-      "id": 970,
-      "name": "glimmora",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
-      "types": [
-        "rock",
-        "poison"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T20:11:10.866Z"
     }
   ],
   "pokemon": {
@@ -407,10 +405,10 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-06T06:59:15.630Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T06:59:15.630Z",
-      "lastPulledAt": "2026-10-06T06:59:15.630Z"
+      "lastPulledAt": "2026-10-25T02:03:55.882Z"
     },
     "65": {
       "id": 65,
