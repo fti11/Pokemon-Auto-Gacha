@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 256,
-  "updatedAt": "2026-10-25T21:52:55.197Z",
+  "totalPulls": 257,
+  "updatedAt": "2026-10-25T23:39:28.361Z",
   "lastPull": {
-    "id": 918,
-    "name": "spidops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+    "id": 245,
+    "name": "suicune",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
     "types": [
-      "bug"
+      "water"
     ],
-    "totalStats": 404,
-    "grade": "R",
-    "pulledAt": "2026-10-25T21:52:55.197Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-10-25T23:39:28.361Z"
   },
   "pulls": [
+    {
+      "id": 245,
+      "name": "suicune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T23:39:28.361Z"
+    },
     {
       "id": 918,
       "name": "spidops",
@@ -118,18 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-24T19:43:38.667Z"
-    },
-    {
-      "id": 130,
-      "name": "gyarados",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T17:33:53.678Z"
     }
   ],
   "pokemon": {
@@ -1092,6 +1091,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T21:55:37.152Z",
       "lastPulledAt": "2026-10-24T21:55:37.152Z"
+    },
+    "245": {
+      "id": 245,
+      "name": "suicune",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-10-25T23:39:28.361Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T23:39:28.361Z",
+      "lastPulledAt": "2026-10-25T23:39:28.361Z"
     },
     "249": {
       "id": 249,
