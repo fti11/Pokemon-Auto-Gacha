@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 255,
-  "updatedAt": "2026-10-25T19:19:06.651Z",
+  "totalPulls": 256,
+  "updatedAt": "2026-10-25T21:52:55.197Z",
   "lastPull": {
-    "id": 215,
-    "name": "sneasel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png",
+    "id": 918,
+    "name": "spidops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
     "types": [
-      "dark",
-      "ice"
+      "bug"
     ],
-    "totalStats": 430,
+    "totalStats": 404,
     "grade": "R",
-    "pulledAt": "2026-10-25T19:19:06.651Z"
+    "pulledAt": "2026-10-25T21:52:55.197Z"
   },
   "pulls": [
+    {
+      "id": 918,
+      "name": "spidops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 404,
+      "grade": "R",
+      "pulledAt": "2026-10-25T21:52:55.197Z"
+    },
     {
       "id": 215,
       "name": "sneasel",
@@ -120,17 +130,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-10-24T17:33:53.678Z"
-    },
-    {
-      "id": 147,
-      "name": "dratini",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-24T14:38:15.625Z"
     }
   ],
   "pokemon": {
@@ -3189,6 +3188,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T20:59:07.908Z",
       "lastPulledAt": "2026-09-18T20:59:07.908Z"
+    },
+    "918": {
+      "id": 918,
+      "name": "spidops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 404,
+      "grade": "R",
+      "pulledAt": "2026-10-25T21:52:55.197Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T21:52:55.197Z",
+      "lastPulledAt": "2026-10-25T21:52:55.197Z"
     },
     "919": {
       "id": 919,
