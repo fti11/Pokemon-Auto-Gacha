@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 260,
-  "updatedAt": "2026-10-26T14:07:48.426Z",
+  "totalPulls": 261,
+  "updatedAt": "2026-10-26T19:52:22.062Z",
   "lastPull": {
-    "id": 318,
-    "name": "carvanha",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+    "id": 197,
+    "name": "umbreon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
     "types": [
-      "water",
       "dark"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-10-26T14:07:48.426Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-26T19:52:22.062Z"
   },
   "pulls": [
+    {
+      "id": 197,
+      "name": "umbreon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T19:52:22.062Z"
+    },
     {
       "id": 318,
       "name": "carvanha",
@@ -119,17 +129,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-25T07:31:40.366Z"
-    },
-    {
-      "id": 63,
-      "name": "abra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-25T02:03:55.882Z"
     }
   ],
   "pokemon": {
@@ -935,6 +934,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T23:10:37.007Z",
       "lastPulledAt": "2026-09-27T23:10:37.007Z"
+    },
+    "197": {
+      "id": 197,
+      "name": "umbreon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-26T19:52:22.062Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T19:52:22.062Z",
+      "lastPulledAt": "2026-10-26T19:52:22.062Z"
     },
     "211": {
       "id": 211,
