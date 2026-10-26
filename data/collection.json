@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 257,
-  "updatedAt": "2026-10-25T23:39:28.361Z",
+  "totalPulls": 258,
+  "updatedAt": "2026-10-26T01:40:21.861Z",
   "lastPull": {
-    "id": 245,
-    "name": "suicune",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/245.png",
+    "id": 418,
+    "name": "buizel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
     "types": [
       "water"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T23:39:28.361Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-10-26T01:40:21.861Z"
   },
   "pulls": [
+    {
+      "id": 418,
+      "name": "buizel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-26T01:40:21.861Z"
+    },
     {
       "id": 245,
       "name": "suicune",
@@ -117,18 +128,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-10-24T21:55:37.152Z"
-    },
-    {
-      "id": 984,
-      "name": "great-tusk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
-      "types": [
-        "ground",
-        "fighting"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T19:43:38.667Z"
     }
   ],
   "pokemon": {
@@ -1577,6 +1576,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T01:32:10.781Z",
       "lastPulledAt": "2026-10-01T01:32:10.781Z"
+    },
+    "418": {
+      "id": 418,
+      "name": "buizel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-10-26T01:40:21.861Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T01:40:21.861Z",
+      "lastPulledAt": "2026-10-26T01:40:21.861Z"
     },
     "431": {
       "id": 431,
