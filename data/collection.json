@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 259,
-  "updatedAt": "2026-10-26T07:00:21.485Z",
+  "totalPulls": 260,
+  "updatedAt": "2026-10-26T14:07:48.426Z",
   "lastPull": {
-    "id": 82,
-    "name": "magneton",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+    "id": 318,
+    "name": "carvanha",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
     "types": [
-      "electric",
-      "steel"
+      "water",
+      "dark"
     ],
-    "totalStats": 465,
-    "grade": "R",
-    "pulledAt": "2026-10-26T07:00:21.485Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-26T14:07:48.426Z"
   },
   "pulls": [
+    {
+      "id": 318,
+      "name": "carvanha",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-26T14:07:48.426Z"
+    },
     {
       "id": 82,
       "name": "magneton",
@@ -118,18 +130,6 @@
       "totalStats": 310,
       "grade": "N",
       "pulledAt": "2026-10-25T02:03:55.882Z"
-    },
-    {
-      "id": 212,
-      "name": "scizor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T23:51:27.034Z"
     }
   ],
   "pokemon": {
@@ -1265,6 +1265,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T05:16:13.276Z",
       "lastPulledAt": "2026-10-15T05:16:13.276Z"
+    },
+    "318": {
+      "id": 318,
+      "name": "carvanha",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-26T14:07:48.426Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T14:07:48.426Z",
+      "lastPulledAt": "2026-10-26T14:07:48.426Z"
     },
     "325": {
       "id": 325,
