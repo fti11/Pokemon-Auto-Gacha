@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 262,
-  "updatedAt": "2026-10-26T23:25:38.220Z",
+  "totalPulls": 263,
+  "updatedAt": "2026-10-27T02:12:59.642Z",
   "lastPull": {
-    "id": 454,
-    "name": "toxicroak",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/454.png",
+    "id": 424,
+    "name": "ambipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
     "types": [
-      "poison",
-      "fighting"
+      "normal"
     ],
-    "totalStats": 490,
+    "totalStats": 482,
     "grade": "R",
-    "pulledAt": "2026-10-26T23:25:38.220Z"
+    "pulledAt": "2026-10-27T02:12:59.642Z"
   },
   "pulls": [
+    {
+      "id": 424,
+      "name": "ambipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-10-27T02:12:59.642Z"
+    },
     {
       "id": 454,
       "name": "toxicroak",
@@ -118,18 +128,6 @@
       "totalStats": 484,
       "grade": "R",
       "pulledAt": "2026-10-25T16:49:41.467Z"
-    },
-    {
-      "id": 34,
-      "name": "nidoking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
-      "types": [
-        "poison",
-        "ground"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-10-25T12:44:05.644Z"
     }
   ],
   "pokemon": {
@@ -1640,6 +1638,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T01:40:21.861Z",
       "lastPulledAt": "2026-10-26T01:40:21.861Z"
+    },
+    "424": {
+      "id": 424,
+      "name": "ambipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-10-27T02:12:59.642Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T02:12:59.642Z",
+      "lastPulledAt": "2026-10-27T02:12:59.642Z"
     },
     "431": {
       "id": 431,
