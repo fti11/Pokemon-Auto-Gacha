@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 263,
-  "updatedAt": "2026-10-27T02:12:59.642Z",
+  "totalPulls": 264,
+  "updatedAt": "2026-10-27T07:53:20.187Z",
   "lastPull": {
-    "id": 424,
-    "name": "ambipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+    "id": 628,
+    "name": "braviary",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png",
     "types": [
-      "normal"
+      "normal",
+      "flying"
     ],
-    "totalStats": 482,
-    "grade": "R",
-    "pulledAt": "2026-10-27T02:12:59.642Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-27T07:53:20.187Z"
   },
   "pulls": [
+    {
+      "id": 628,
+      "name": "braviary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-27T07:53:20.187Z"
+    },
     {
       "id": 424,
       "name": "ambipom",
@@ -116,18 +129,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-10-25T19:19:06.651Z"
-    },
-    {
-      "id": 632,
-      "name": "durant",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/632.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 484,
-      "grade": "R",
-      "pulledAt": "2026-10-25T16:49:41.467Z"
     }
   ],
   "pokemon": {
@@ -2234,6 +2235,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T15:11:07.400Z",
       "lastPulledAt": "2026-10-02T15:11:07.400Z"
+    },
+    "628": {
+      "id": 628,
+      "name": "braviary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-27T07:53:20.187Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T07:53:20.187Z",
+      "lastPulledAt": "2026-10-27T07:53:20.187Z"
     },
     "630": {
       "id": 630,
