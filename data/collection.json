@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 269,
-  "updatedAt": "2026-10-28T07:39:56.851Z",
+  "totalPulls": 270,
+  "updatedAt": "2026-10-28T14:29:06.909Z",
   "lastPull": {
-    "id": 604,
-    "name": "eelektross",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/604.png",
+    "id": 169,
+    "name": "crobat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
     "types": [
-      "electric"
+      "poison",
+      "flying"
     ],
-    "totalStats": 515,
+    "totalStats": 535,
     "grade": "SR",
-    "pulledAt": "2026-10-28T07:39:56.851Z"
+    "pulledAt": "2026-10-28T14:29:06.909Z"
   },
   "pulls": [
+    {
+      "id": 169,
+      "name": "crobat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T14:29:06.909Z"
+    },
     {
       "id": 604,
       "name": "eelektross",
@@ -117,18 +130,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-26T19:52:22.062Z"
-    },
-    {
-      "id": 318,
-      "name": "carvanha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-26T14:07:48.426Z"
     }
   ],
   "pokemon": {
@@ -855,6 +856,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-09T17:12:09.075Z",
       "lastPulledAt": "2026-10-09T17:12:09.075Z"
+    },
+    "169": {
+      "id": 169,
+      "name": "crobat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-28T14:29:06.909Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T14:29:06.909Z",
+      "lastPulledAt": "2026-10-28T14:29:06.909Z"
     },
     "170": {
       "id": 170,
