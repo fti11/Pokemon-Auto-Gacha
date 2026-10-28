@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 267,
-  "updatedAt": "2026-10-27T22:51:32.126Z",
+  "totalPulls": 268,
+  "updatedAt": "2026-10-28T01:52:52.148Z",
   "lastPull": {
-    "id": 400,
-    "name": "bibarel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/400.png",
+    "id": 66,
+    "name": "machop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
     "types": [
-      "normal",
-      "water"
+      "fighting"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-27T22:51:32.126Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-28T01:52:52.148Z"
   },
   "pulls": [
+    {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-28T01:52:52.148Z"
+    },
     {
       "id": 400,
       "name": "bibarel",
@@ -120,17 +130,6 @@
       "totalStats": 465,
       "grade": "R",
       "pulledAt": "2026-10-26T07:00:21.485Z"
-    },
-    {
-      "id": 418,
-      "name": "buizel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/418.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-10-26T01:40:21.861Z"
     }
   ],
   "pokemon": {
@@ -428,6 +427,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T14:13:43.186Z",
       "lastPulledAt": "2026-09-16T14:13:43.186Z"
+    },
+    "66": {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-28T01:52:52.148Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-28T01:52:52.148Z",
+      "lastPulledAt": "2026-10-28T01:52:52.148Z"
     },
     "82": {
       "id": 82,
