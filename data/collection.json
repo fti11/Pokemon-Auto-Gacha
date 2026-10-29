@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 273,
-  "updatedAt": "2026-10-29T02:46:24.134Z",
+  "totalPulls": 274,
+  "updatedAt": "2026-10-29T08:56:54.418Z",
   "lastPull": {
-    "id": 587,
-    "name": "emolga",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
+    "id": 951,
+    "name": "capsakid",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
     "types": [
-      "electric",
-      "flying"
+      "grass"
     ],
-    "totalStats": 428,
-    "grade": "R",
-    "pulledAt": "2026-10-29T02:46:24.134Z"
+    "totalStats": 304,
+    "grade": "N",
+    "pulledAt": "2026-10-29T08:56:54.418Z"
   },
   "pulls": [
+    {
+      "id": 951,
+      "name": "capsakid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-10-29T08:56:54.418Z"
+    },
     {
       "id": 587,
       "name": "emolga",
@@ -119,18 +129,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-27T13:42:08.039Z"
-    },
-    {
-      "id": 628,
-      "name": "braviary",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/628.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-27T07:53:20.187Z"
     }
   ],
   "pokemon": {
@@ -3638,6 +3636,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T23:53:01.002Z",
       "lastPulledAt": "2026-10-15T23:53:01.002Z"
+    },
+    "951": {
+      "id": 951,
+      "name": "capsakid",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-10-29T08:56:54.418Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-29T08:56:54.418Z",
+      "lastPulledAt": "2026-10-29T08:56:54.418Z"
     },
     "957": {
       "id": 957,
