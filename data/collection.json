@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 277,
-  "updatedAt": "2026-10-30T00:19:44.682Z",
+  "totalPulls": 278,
+  "updatedAt": "2026-10-30T05:59:32.159Z",
   "lastPull": {
-    "id": 324,
-    "name": "torkoal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/324.png",
+    "id": 241,
+    "name": "miltank",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
     "types": [
-      "fire"
+      "normal"
     ],
-    "totalStats": 470,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-10-30T00:19:44.682Z"
+    "pulledAt": "2026-10-30T05:59:32.159Z"
   },
   "pulls": [
+    {
+      "id": 241,
+      "name": "miltank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-30T05:59:32.159Z"
+    },
     {
       "id": 324,
       "name": "torkoal",
@@ -115,17 +126,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-10-28T07:39:56.851Z"
-    },
-    {
-      "id": 66,
-      "name": "machop",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-28T01:52:52.148Z"
     }
   ],
   "pokemon": {
@@ -1165,6 +1165,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T19:52:13.676Z",
       "lastPulledAt": "2026-10-01T19:52:13.676Z"
+    },
+    "241": {
+      "id": 241,
+      "name": "miltank",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-10-30T05:59:32.159Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-30T05:59:32.159Z",
+      "lastPulledAt": "2026-10-30T05:59:32.159Z"
     },
     "244": {
       "id": 244,
