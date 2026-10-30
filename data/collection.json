@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 279,
-  "updatedAt": "2026-10-30T12:15:07.276Z",
+  "totalPulls": 280,
+  "updatedAt": "2026-10-30T18:05:47.309Z",
   "lastPull": {
-    "id": 825,
-    "name": "dottler",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/825.png",
+    "id": 342,
+    "name": "crawdaunt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
     "types": [
-      "bug",
-      "psychic"
+      "water",
+      "dark"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-10-30T12:15:07.276Z"
+    "totalStats": 468,
+    "grade": "R",
+    "pulledAt": "2026-10-30T18:05:47.309Z"
   },
   "pulls": [
+    {
+      "id": 342,
+      "name": "crawdaunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 468,
+      "grade": "R",
+      "pulledAt": "2026-10-30T18:05:47.309Z"
+    },
     {
       "id": 825,
       "name": "dottler",
@@ -116,18 +128,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-10-28T19:44:35.299Z"
-    },
-    {
-      "id": 169,
-      "name": "crobat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
-      "types": [
-        "poison",
-        "flying"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-28T14:29:06.909Z"
     }
   ],
   "pokemon": {
@@ -1459,10 +1459,10 @@
       "totalStats": 468,
       "grade": "R",
       "pulledAt": "2026-09-16T01:43:36.489Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:36.489Z",
-      "lastPulledAt": "2026-09-16T01:43:36.489Z"
+      "lastPulledAt": "2026-10-30T18:05:47.309Z"
     },
     "343": {
       "id": 343,
