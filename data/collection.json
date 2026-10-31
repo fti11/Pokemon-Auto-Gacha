@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 283,
-  "updatedAt": "2026-10-31T07:27:37.254Z",
+  "totalPulls": 284,
+  "updatedAt": "2026-10-31T13:45:54.765Z",
   "lastPull": {
-    "id": 50,
-    "name": "diglett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "id": 842,
+    "name": "appletun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
     "types": [
-      "ground"
+      "grass",
+      "dragon"
     ],
-    "totalStats": 265,
-    "grade": "N",
-    "pulledAt": "2026-10-31T07:27:37.254Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-31T13:45:54.765Z"
   },
   "pulls": [
+    {
+      "id": 842,
+      "name": "appletun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-31T13:45:54.765Z"
+    },
     {
       "id": 50,
       "name": "diglett",
@@ -116,17 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-29T15:46:18.738Z"
-    },
-    {
-      "id": 951,
-      "name": "capsakid",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 304,
-      "grade": "N",
-      "pulledAt": "2026-10-29T08:56:54.418Z"
     }
   ],
   "pokemon": {
@@ -3304,10 +3306,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-23T04:36:46.891Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T04:36:46.891Z",
-      "lastPulledAt": "2026-09-23T04:36:46.891Z"
+      "lastPulledAt": "2026-10-31T13:45:54.765Z"
     },
     "843": {
       "id": 843,
