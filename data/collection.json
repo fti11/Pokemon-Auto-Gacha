@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 284,
-  "updatedAt": "2026-10-31T13:45:54.765Z",
+  "totalPulls": 285,
+  "updatedAt": "2026-10-31T17:56:19.751Z",
   "lastPull": {
-    "id": 842,
-    "name": "appletun",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
+    "id": 52,
+    "name": "meowth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
     "types": [
-      "grass",
-      "dragon"
+      "normal"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-31T13:45:54.765Z"
+    "totalStats": 290,
+    "grade": "N",
+    "pulledAt": "2026-10-31T17:56:19.751Z"
   },
   "pulls": [
+    {
+      "id": 52,
+      "name": "meowth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-31T17:56:19.751Z"
+    },
     {
       "id": 842,
       "name": "appletun",
@@ -118,17 +128,6 @@
       "totalStats": 371,
       "grade": "N",
       "pulledAt": "2026-10-29T20:40:02.528Z"
-    },
-    {
-      "id": 110,
-      "name": "weezing",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-29T15:46:18.738Z"
     }
   ],
   "pokemon": {
@@ -376,10 +375,10 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-29T18:50:30.846Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T18:50:30.846Z",
-      "lastPulledAt": "2026-09-29T18:50:30.846Z"
+      "lastPulledAt": "2026-10-31T17:56:19.751Z"
     },
     "54": {
       "id": 54,
