@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 282,
-  "updatedAt": "2026-10-31T01:36:01.105Z",
+  "totalPulls": 283,
+  "updatedAt": "2026-10-31T07:27:37.254Z",
   "lastPull": {
-    "id": 441,
-    "name": "chatot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+    "id": 50,
+    "name": "diglett",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
     "types": [
-      "normal",
-      "flying"
+      "ground"
     ],
-    "totalStats": 411,
-    "grade": "R",
-    "pulledAt": "2026-10-31T01:36:01.105Z"
+    "totalStats": 265,
+    "grade": "N",
+    "pulledAt": "2026-10-31T07:27:37.254Z"
   },
   "pulls": [
+    {
+      "id": 50,
+      "name": "diglett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-31T07:27:37.254Z"
+    },
     {
       "id": 441,
       "name": "chatot",
@@ -117,18 +127,6 @@
       "totalStats": 304,
       "grade": "N",
       "pulledAt": "2026-10-29T08:56:54.418Z"
-    },
-    {
-      "id": 587,
-      "name": "emolga",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/587.png",
-      "types": [
-        "electric",
-        "flying"
-      ],
-      "totalStats": 428,
-      "grade": "R",
-      "pulledAt": "2026-10-29T02:46:24.134Z"
     }
   ],
   "pokemon": {
@@ -350,6 +348,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T20:36:02.336Z",
       "lastPulledAt": "2026-10-20T20:36:02.336Z"
+    },
+    "50": {
+      "id": 50,
+      "name": "diglett",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-31T07:27:37.254Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T07:27:37.254Z",
+      "lastPulledAt": "2026-10-31T07:27:37.254Z"
     },
     "52": {
       "id": 52,
