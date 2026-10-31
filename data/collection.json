@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 281,
-  "updatedAt": "2026-10-30T22:13:14.049Z",
+  "totalPulls": 282,
+  "updatedAt": "2026-10-31T01:36:01.105Z",
   "lastPull": {
-    "id": 183,
-    "name": "marill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "id": 441,
+    "name": "chatot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
     "types": [
-      "water",
-      "fairy"
+      "normal",
+      "flying"
     ],
-    "totalStats": 250,
-    "grade": "N",
-    "pulledAt": "2026-10-30T22:13:14.049Z"
+    "totalStats": 411,
+    "grade": "R",
+    "pulledAt": "2026-10-31T01:36:01.105Z"
   },
   "pulls": [
+    {
+      "id": 441,
+      "name": "chatot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/441.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 411,
+      "grade": "R",
+      "pulledAt": "2026-10-31T01:36:01.105Z"
+    },
     {
       "id": 183,
       "name": "marill",
@@ -117,17 +129,6 @@
       "totalStats": 428,
       "grade": "R",
       "pulledAt": "2026-10-29T02:46:24.134Z"
-    },
-    {
-      "id": 190,
-      "name": "aipom",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 360,
-      "grade": "N",
-      "pulledAt": "2026-10-28T23:35:07.355Z"
     }
   ],
   "pokemon": {
@@ -1819,10 +1820,10 @@
       "totalStats": 411,
       "grade": "R",
       "pulledAt": "2026-09-16T01:58:08.115Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:58:08.115Z",
-      "lastPulledAt": "2026-09-16T01:58:08.115Z"
+      "lastPulledAt": "2026-10-31T01:36:01.105Z"
     },
     "449": {
       "id": 449,
