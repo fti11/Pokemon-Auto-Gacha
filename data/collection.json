@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 289,
-  "updatedAt": "2026-11-01T09:41:54.560Z",
+  "totalPulls": 290,
+  "updatedAt": "2026-11-01T16:24:47.090Z",
   "lastPull": {
-    "id": 726,
-    "name": "torracat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
+    "id": 9,
+    "name": "blastoise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
     "types": [
-      "fire"
+      "water"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-11-01T09:41:54.560Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-01T16:24:47.090Z"
   },
   "pulls": [
+    {
+      "id": 9,
+      "name": "blastoise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-01T16:24:47.090Z"
+    },
     {
       "id": 726,
       "name": "torracat",
@@ -117,18 +128,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-10-30T22:13:14.049Z"
-    },
-    {
-      "id": 342,
-      "name": "crawdaunt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/342.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 468,
-      "grade": "R",
-      "pulledAt": "2026-10-30T18:05:47.309Z"
     }
   ],
   "pokemon": {
@@ -158,10 +157,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-23T18:28:23.580Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T18:28:23.580Z",
-      "lastPulledAt": "2026-09-23T18:28:23.580Z"
+      "lastPulledAt": "2026-11-01T16:24:47.090Z"
     },
     "11": {
       "id": 11,
