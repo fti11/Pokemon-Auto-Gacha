@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 293,
-  "updatedAt": "2026-11-02T03:04:01.405Z",
+  "totalPulls": 294,
+  "updatedAt": "2026-11-02T10:53:14.971Z",
   "lastPull": {
-    "id": 18,
-    "name": "pidgeot",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "id": 432,
+    "name": "purugly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
     "types": [
-      "normal",
-      "flying"
+      "normal"
     ],
-    "totalStats": 479,
+    "totalStats": 452,
     "grade": "R",
-    "pulledAt": "2026-11-02T03:04:01.405Z"
+    "pulledAt": "2026-11-02T10:53:14.971Z"
   },
   "pulls": [
+    {
+      "id": 432,
+      "name": "purugly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-11-02T10:53:14.971Z"
+    },
     {
       "id": 18,
       "name": "pidgeot",
@@ -116,18 +126,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-31T17:56:19.751Z"
-    },
-    {
-      "id": 842,
-      "name": "appletun",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/842.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-31T13:45:54.765Z"
     }
   ],
   "pokemon": {
@@ -1883,6 +1881,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:01:42.944Z",
       "lastPulledAt": "2026-09-18T23:01:42.944Z"
+    },
+    "432": {
+      "id": 432,
+      "name": "purugly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-11-02T10:53:14.971Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T10:53:14.971Z",
+      "lastPulledAt": "2026-11-02T10:53:14.971Z"
     },
     "434": {
       "id": 434,
