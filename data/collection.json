@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 292,
-  "updatedAt": "2026-11-01T23:52:35.359Z",
+  "totalPulls": 293,
+  "updatedAt": "2026-11-02T03:04:01.405Z",
   "lastPull": {
-    "id": 201,
-    "name": "unown",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
+    "id": 18,
+    "name": "pidgeot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
     "types": [
-      "psychic"
+      "normal",
+      "flying"
     ],
-    "totalStats": 336,
-    "grade": "N",
-    "pulledAt": "2026-11-01T23:52:35.359Z"
+    "totalStats": 479,
+    "grade": "R",
+    "pulledAt": "2026-11-02T03:04:01.405Z"
   },
   "pulls": [
+    {
+      "id": 18,
+      "name": "pidgeot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-11-02T03:04:01.405Z"
+    },
     {
       "id": 201,
       "name": "unown",
@@ -115,17 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-31T13:45:54.765Z"
-    },
-    {
-      "id": 50,
-      "name": "diglett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-10-31T07:27:37.254Z"
     }
   ],
   "pokemon": {
@@ -206,6 +208,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T22:39:16.781Z",
       "lastPulledAt": "2026-09-30T22:39:16.781Z"
+    },
+    "18": {
+      "id": 18,
+      "name": "pidgeot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 479,
+      "grade": "R",
+      "pulledAt": "2026-11-02T03:04:01.405Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T03:04:01.405Z",
+      "lastPulledAt": "2026-11-02T03:04:01.405Z"
     },
     "19": {
       "id": 19,
