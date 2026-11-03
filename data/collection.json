@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 298,
-  "updatedAt": "2026-11-03T17:32:03.243Z",
+  "totalPulls": 299,
+  "updatedAt": "2026-11-03T22:29:21.085Z",
   "lastPull": {
-    "id": 27,
-    "name": "sandshrew",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "id": 981,
+    "name": "farigiraf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
     "types": [
-      "ground"
+      "normal",
+      "psychic"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-03T17:32:03.243Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-11-03T22:29:21.085Z"
   },
   "pulls": [
+    {
+      "id": 981,
+      "name": "farigiraf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T22:29:21.085Z"
+    },
     {
       "id": 27,
       "name": "sandshrew",
@@ -114,17 +127,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-01T16:24:47.090Z"
-    },
-    {
-      "id": 726,
-      "name": "torracat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/726.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-11-01T09:41:54.560Z"
     }
   ],
   "pokemon": {
@@ -4062,6 +4064,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:30:14.168Z",
       "lastPulledAt": "2026-09-16T01:30:14.168Z"
+    },
+    "981": {
+      "id": 981,
+      "name": "farigiraf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T22:29:21.085Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T22:29:21.085Z",
+      "lastPulledAt": "2026-11-03T22:29:21.085Z"
     },
     "984": {
       "id": 984,
