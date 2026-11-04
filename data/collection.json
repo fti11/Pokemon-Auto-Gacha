@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 300,
-  "updatedAt": "2026-11-04T02:33:34.998Z",
+  "totalPulls": 301,
+  "updatedAt": "2026-11-04T09:47:17.303Z",
   "lastPull": {
-    "id": 785,
-    "name": "tapu-koko",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "id": 579,
+    "name": "reuniclus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
     "types": [
-      "electric",
-      "fairy"
+      "psychic"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-04T02:33:34.998Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-04T09:47:17.303Z"
   },
   "pulls": [
+    {
+      "id": 579,
+      "name": "reuniclus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-04T09:47:17.303Z"
+    },
     {
       "id": 785,
       "name": "tapu-koko",
@@ -117,17 +127,6 @@
       "totalStats": 336,
       "grade": "N",
       "pulledAt": "2026-11-01T23:52:35.359Z"
-    },
-    {
-      "id": 109,
-      "name": "koffing",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-11-01T20:39:13.426Z"
     }
   ],
   "pokemon": {
@@ -2434,6 +2433,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T13:23:45.452Z",
       "lastPulledAt": "2026-10-03T13:23:45.452Z"
+    },
+    "579": {
+      "id": 579,
+      "name": "reuniclus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-04T09:47:17.303Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T09:47:17.303Z",
+      "lastPulledAt": "2026-11-04T09:47:17.303Z"
     },
     "584": {
       "id": 584,
