@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 301,
-  "updatedAt": "2026-11-04T09:47:17.303Z",
+  "totalPulls": 302,
+  "updatedAt": "2026-11-04T17:45:34.518Z",
   "lastPull": {
-    "id": 579,
-    "name": "reuniclus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png",
+    "id": 60,
+    "name": "poliwag",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
     "types": [
-      "psychic"
+      "water"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-04T09:47:17.303Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-04T17:45:34.518Z"
   },
   "pulls": [
+    {
+      "id": 60,
+      "name": "poliwag",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-04T17:45:34.518Z"
+    },
     {
       "id": 579,
       "name": "reuniclus",
@@ -116,17 +127,6 @@
       "totalStats": 479,
       "grade": "R",
       "pulledAt": "2026-11-02T03:04:01.405Z"
-    },
-    {
-      "id": 201,
-      "name": "unown",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 336,
-      "grade": "N",
-      "pulledAt": "2026-11-01T23:52:35.359Z"
     }
   ],
   "pokemon": {
@@ -439,6 +439,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T22:49:25.235Z",
       "lastPulledAt": "2026-10-03T22:49:25.235Z"
+    },
+    "60": {
+      "id": 60,
+      "name": "poliwag",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-04T17:45:34.518Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T17:45:34.518Z",
+      "lastPulledAt": "2026-11-04T17:45:34.518Z"
     },
     "62": {
       "id": 62,
