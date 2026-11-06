@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 309,
-  "updatedAt": "2026-11-06T10:54:29.035Z",
+  "totalPulls": 310,
+  "updatedAt": "2026-11-06T17:43:41.503Z",
   "lastPull": {
-    "id": 79,
-    "name": "slowpoke",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "id": 329,
+    "name": "vibrava",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
     "types": [
-      "water",
-      "psychic"
+      "ground",
+      "dragon"
     ],
-    "totalStats": 315,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-11-06T10:54:29.035Z"
+    "pulledAt": "2026-11-06T17:43:41.503Z"
   },
   "pulls": [
+    {
+      "id": 329,
+      "name": "vibrava",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-06T17:43:41.503Z"
+    },
     {
       "id": 79,
       "name": "slowpoke",
@@ -117,18 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-04T09:47:17.303Z"
-    },
-    {
-      "id": 785,
-      "name": "tapu-koko",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
-      "types": [
-        "electric",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-04T02:33:34.998Z"
     }
   ],
   "pokemon": {
@@ -1584,6 +1584,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T19:28:02.978Z",
       "lastPulledAt": "2026-10-14T19:28:02.978Z"
+    },
+    "329": {
+      "id": 329,
+      "name": "vibrava",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-06T17:43:41.503Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T17:43:41.503Z",
+      "lastPulledAt": "2026-11-06T17:43:41.503Z"
     },
     "332": {
       "id": 332,
