@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 307,
-  "updatedAt": "2026-11-05T22:58:48.528Z",
+  "totalPulls": 308,
+  "updatedAt": "2026-11-06T03:10:39.087Z",
   "lastPull": {
-    "id": 116,
-    "name": "horsea",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+    "id": 23,
+    "name": "ekans",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
     "types": [
-      "water"
+      "poison"
     ],
-    "totalStats": 295,
+    "totalStats": 288,
     "grade": "N",
-    "pulledAt": "2026-11-05T22:58:48.528Z"
+    "pulledAt": "2026-11-06T03:10:39.087Z"
   },
   "pulls": [
+    {
+      "id": 23,
+      "name": "ekans",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-06T03:10:39.087Z"
+    },
     {
       "id": 116,
       "name": "horsea",
@@ -117,17 +128,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-11-03T22:29:21.085Z"
-    },
-    {
-      "id": 27,
-      "name": "sandshrew",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-03T17:32:03.243Z"
     }
   ],
   "pokemon": {
@@ -255,6 +255,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T01:49:49.877Z",
       "lastPulledAt": "2026-09-27T01:49:49.877Z"
+    },
+    "23": {
+      "id": 23,
+      "name": "ekans",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+      "types": [
+        "poison"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-11-06T03:10:39.087Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T03:10:39.087Z",
+      "lastPulledAt": "2026-11-06T03:10:39.087Z"
     },
     "27": {
       "id": 27,
