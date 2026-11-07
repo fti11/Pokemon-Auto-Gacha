@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 314,
-  "updatedAt": "2026-11-07T15:06:49.238Z",
+  "totalPulls": 315,
+  "updatedAt": "2026-11-07T19:22:07.706Z",
   "lastPull": {
-    "id": 436,
-    "name": "bronzor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/436.png",
+    "id": 915,
+    "name": "lechonk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
     "types": [
-      "steel",
-      "psychic"
+      "normal"
     ],
-    "totalStats": 300,
+    "totalStats": 254,
     "grade": "N",
-    "pulledAt": "2026-11-07T15:06:49.238Z"
+    "pulledAt": "2026-11-07T19:22:07.706Z"
   },
   "pulls": [
+    {
+      "id": 915,
+      "name": "lechonk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 254,
+      "grade": "N",
+      "pulledAt": "2026-11-07T19:22:07.706Z"
+    },
     {
       "id": 436,
       "name": "bronzor",
@@ -119,17 +129,6 @@
       "totalStats": 423,
       "grade": "R",
       "pulledAt": "2026-11-05T17:51:38.406Z"
-    },
-    {
-      "id": 360,
-      "name": "wynaut",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/360.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-11-05T09:59:17.701Z"
     }
   ],
   "pokemon": {
@@ -3885,6 +3884,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T20:59:07.908Z",
       "lastPulledAt": "2026-09-18T20:59:07.908Z"
+    },
+    "915": {
+      "id": 915,
+      "name": "lechonk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 254,
+      "grade": "N",
+      "pulledAt": "2026-11-07T19:22:07.706Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T19:22:07.706Z",
+      "lastPulledAt": "2026-11-07T19:22:07.706Z"
     },
     "918": {
       "id": 918,
