@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 312,
-  "updatedAt": "2026-11-07T02:05:05.171Z",
+  "totalPulls": 313,
+  "updatedAt": "2026-11-07T08:39:49.510Z",
   "lastPull": {
-    "id": 278,
-    "name": "wingull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "id": 492,
+    "name": "shaymin-land",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
     "types": [
-      "water",
-      "flying"
+      "grass"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-11-07T02:05:05.171Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-07T08:39:49.510Z"
   },
   "pulls": [
+    {
+      "id": 492,
+      "name": "shaymin-land",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-07T08:39:49.510Z"
+    },
     {
       "id": 278,
       "name": "wingull",
@@ -119,18 +129,6 @@
       "totalStats": 690,
       "grade": "SSR",
       "pulledAt": "2026-11-05T02:52:36.525Z"
-    },
-    {
-      "id": 487,
-      "name": "giratina-altered",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png",
-      "types": [
-        "ghost",
-        "dragon"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-04T22:49:49.786Z"
     }
   ],
   "pokemon": {
@@ -2253,10 +2251,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-21T22:33:27.566Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T22:33:27.566Z",
-      "lastPulledAt": "2026-09-21T22:33:27.566Z"
+      "lastPulledAt": "2026-11-07T08:39:49.510Z"
     },
     "493": {
       "id": 493,
