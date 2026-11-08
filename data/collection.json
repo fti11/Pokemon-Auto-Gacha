@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-08T15:15:14.845Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-08T19:42:02.102Z",
   "lastPull": {
-    "id": 567,
-    "name": "archeops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
+    "id": 16,
+    "name": "pidgey",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
     "types": [
-      "rock",
+      "normal",
       "flying"
     ],
-    "totalStats": 567,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T15:15:14.845Z"
+    "totalStats": 251,
+    "grade": "N",
+    "pulledAt": "2026-11-08T19:42:02.102Z"
   },
   "pulls": [
+    {
+      "id": 16,
+      "name": "pidgey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 251,
+      "grade": "N",
+      "pulledAt": "2026-11-08T19:42:02.102Z"
+    },
     {
       "id": 567,
       "name": "archeops",
@@ -119,18 +131,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-06T22:24:38.621Z"
-    },
-    {
-      "id": 329,
-      "name": "vibrava",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png",
-      "types": [
-        "ground",
-        "dragon"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-11-06T17:43:41.503Z"
     }
   ],
   "pokemon": {
@@ -211,6 +211,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T22:39:16.781Z",
       "lastPulledAt": "2026-09-30T22:39:16.781Z"
+    },
+    "16": {
+      "id": 16,
+      "name": "pidgey",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 251,
+      "grade": "N",
+      "pulledAt": "2026-11-08T19:42:02.102Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T19:42:02.102Z",
+      "lastPulledAt": "2026-11-08T19:42:02.102Z"
     },
     "18": {
       "id": 18,
