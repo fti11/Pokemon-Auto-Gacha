@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 316,
-  "updatedAt": "2026-11-07T22:50:39.042Z",
+  "totalPulls": 317,
+  "updatedAt": "2026-11-08T01:55:37.258Z",
   "lastPull": {
-    "id": 811,
-    "name": "thwackey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/811.png",
+    "id": 841,
+    "name": "flapple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
     "types": [
-      "grass"
+      "grass",
+      "dragon"
     ],
-    "totalStats": 420,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-11-07T22:50:39.042Z"
+    "pulledAt": "2026-11-08T01:55:37.258Z"
   },
   "pulls": [
+    {
+      "id": 841,
+      "name": "flapple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-08T01:55:37.258Z"
+    },
     {
       "id": 811,
       "name": "thwackey",
@@ -117,17 +130,6 @@
       "totalStats": 288,
       "grade": "N",
       "pulledAt": "2026-11-06T03:10:39.087Z"
-    },
-    {
-      "id": 116,
-      "name": "horsea",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-11-05T22:58:48.528Z"
     }
   ],
   "pokemon": {
@@ -3632,6 +3634,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T15:56:06.344Z",
       "lastPulledAt": "2026-09-28T15:56:06.344Z"
+    },
+    "841": {
+      "id": 841,
+      "name": "flapple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/841.png",
+      "types": [
+        "grass",
+        "dragon"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-08T01:55:37.258Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T01:55:37.258Z",
+      "lastPulledAt": "2026-11-08T01:55:37.258Z"
     },
     "842": {
       "id": 842,
