@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 321,
-  "updatedAt": "2026-11-08T23:10:09.477Z",
+  "totalPulls": 322,
+  "updatedAt": "2026-11-09T02:37:55.641Z",
   "lastPull": {
-    "id": 242,
-    "name": "blissey",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/242.png",
+    "id": 599,
+    "name": "klink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
     "types": [
-      "normal"
+      "steel"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T23:10:09.477Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-09T02:37:55.641Z"
   },
   "pulls": [
+    {
+      "id": 599,
+      "name": "klink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-09T02:37:55.641Z"
+    },
     {
       "id": 242,
       "name": "blissey",
@@ -117,18 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-07T08:39:49.510Z"
-    },
-    {
-      "id": 278,
-      "name": "wingull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 270,
-      "grade": "N",
-      "pulledAt": "2026-11-07T02:05:05.171Z"
     }
   ],
   "pokemon": {
@@ -2743,10 +2742,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-20T05:20:31.082Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T05:20:31.082Z",
-      "lastPulledAt": "2026-09-20T05:20:31.082Z"
+      "lastPulledAt": "2026-11-09T02:37:55.641Z"
     },
     "602": {
       "id": 602,
