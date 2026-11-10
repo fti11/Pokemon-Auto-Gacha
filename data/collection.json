@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 324,
-  "updatedAt": "2026-11-09T20:47:32.045Z",
+  "totalPulls": 325,
+  "updatedAt": "2026-11-10T02:57:15.522Z",
   "lastPull": {
-    "id": 30,
-    "name": "nidorina",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "id": 918,
+    "name": "spidops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
     "types": [
-      "poison"
+      "bug"
     ],
-    "totalStats": 365,
-    "grade": "N",
-    "pulledAt": "2026-11-09T20:47:32.045Z"
+    "totalStats": 404,
+    "grade": "R",
+    "pulledAt": "2026-11-10T02:57:15.522Z"
   },
   "pulls": [
+    {
+      "id": 918,
+      "name": "spidops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 404,
+      "grade": "R",
+      "pulledAt": "2026-11-10T02:57:15.522Z"
+    },
     {
       "id": 30,
       "name": "nidorina",
@@ -116,17 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-11-07T22:50:39.042Z"
-    },
-    {
-      "id": 915,
-      "name": "lechonk",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 254,
-      "grade": "N",
-      "pulledAt": "2026-11-07T19:22:07.706Z"
     }
   ],
   "pokemon": {
@@ -4032,10 +4032,10 @@
       "totalStats": 404,
       "grade": "R",
       "pulledAt": "2026-10-25T21:52:55.197Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T21:52:55.197Z",
-      "lastPulledAt": "2026-10-25T21:52:55.197Z"
+      "lastPulledAt": "2026-11-10T02:57:15.522Z"
     },
     "919": {
       "id": 919,
