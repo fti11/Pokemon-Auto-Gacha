@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 327,
-  "updatedAt": "2026-11-10T18:17:23.278Z",
+  "totalPulls": 328,
+  "updatedAt": "2026-11-10T23:26:37.264Z",
   "lastPull": {
-    "id": 948,
-    "name": "toedscool",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+    "id": 48,
+    "name": "venonat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
     "types": [
-      "ground",
-      "grass"
+      "bug",
+      "poison"
     ],
-    "totalStats": 335,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-11-10T18:17:23.278Z"
+    "pulledAt": "2026-11-10T23:26:37.264Z"
   },
   "pulls": [
+    {
+      "id": 48,
+      "name": "venonat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-10T23:26:37.264Z"
+    },
     {
       "id": 948,
       "name": "toedscool",
@@ -116,18 +128,6 @@
       "totalStats": 567,
       "grade": "SR",
       "pulledAt": "2026-11-08T15:15:14.845Z"
-    },
-    {
-      "id": 95,
-      "name": "onix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-11-08T08:16:18.579Z"
     }
   ],
   "pokemon": {
@@ -437,10 +437,10 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-20T20:36:02.336Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T20:36:02.336Z",
-      "lastPulledAt": "2026-10-20T20:36:02.336Z"
+      "lastPulledAt": "2026-11-10T23:26:37.264Z"
     },
     "50": {
       "id": 50,
