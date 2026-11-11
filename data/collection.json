@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 331,
-  "updatedAt": "2026-11-11T17:36:55.814Z",
+  "totalPulls": 332,
+  "updatedAt": "2026-11-11T23:41:03.338Z",
   "lastPull": {
-    "id": 527,
-    "name": "woobat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/527.png",
+    "id": 142,
+    "name": "aerodactyl",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
     "types": [
-      "psychic",
+      "rock",
       "flying"
     ],
-    "totalStats": 323,
-    "grade": "N",
-    "pulledAt": "2026-11-11T17:36:55.814Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-11-11T23:41:03.338Z"
   },
   "pulls": [
+    {
+      "id": 142,
+      "name": "aerodactyl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T23:41:03.338Z"
+    },
     {
       "id": 527,
       "name": "woobat",
@@ -118,17 +130,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-11-09T10:17:17.836Z"
-    },
-    {
-      "id": 599,
-      "name": "klink",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-09T02:37:55.641Z"
     }
   ],
   "pokemon": {
@@ -902,6 +903,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T01:51:38.313Z",
       "lastPulledAt": "2026-10-23T01:51:38.313Z"
+    },
+    "142": {
+      "id": 142,
+      "name": "aerodactyl",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T23:41:03.338Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T23:41:03.338Z",
+      "lastPulledAt": "2026-11-11T23:41:03.338Z"
     },
     "143": {
       "id": 143,
