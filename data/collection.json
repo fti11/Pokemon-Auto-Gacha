@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 328,
-  "updatedAt": "2026-11-10T23:26:37.264Z",
+  "totalPulls": 329,
+  "updatedAt": "2026-11-11T02:53:05.412Z",
   "lastPull": {
-    "id": 48,
-    "name": "venonat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "id": 851,
+    "name": "centiskorch",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
     "types": [
-      "bug",
-      "poison"
+      "fire",
+      "bug"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-11-10T23:26:37.264Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-11-11T02:53:05.412Z"
   },
   "pulls": [
+    {
+      "id": 851,
+      "name": "centiskorch",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T02:53:05.412Z"
+    },
     {
       "id": 48,
       "name": "venonat",
@@ -116,18 +128,6 @@
       "totalStats": 251,
       "grade": "N",
       "pulledAt": "2026-11-08T19:42:02.102Z"
-    },
-    {
-      "id": 567,
-      "name": "archeops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/567.png",
-      "types": [
-        "rock",
-        "flying"
-      ],
-      "totalStats": 567,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T15:15:14.845Z"
     }
   ],
   "pokemon": {
@@ -3818,6 +3818,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T08:10:51.134Z",
       "lastPulledAt": "2026-10-03T08:10:51.134Z"
+    },
+    "851": {
+      "id": 851,
+      "name": "centiskorch",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-11T02:53:05.412Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T02:53:05.412Z",
+      "lastPulledAt": "2026-11-11T02:53:05.412Z"
     },
     "860": {
       "id": 860,
