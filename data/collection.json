@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 333,
-  "updatedAt": "2026-11-12T04:18:23.772Z",
+  "totalPulls": 334,
+  "updatedAt": "2026-11-12T12:51:29.563Z",
   "lastPull": {
-    "id": 353,
-    "name": "shuppet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+    "id": 81,
+    "name": "magnemite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
     "types": [
-      "ghost"
+      "electric",
+      "steel"
     ],
-    "totalStats": 295,
+    "totalStats": 325,
     "grade": "N",
-    "pulledAt": "2026-11-12T04:18:23.772Z"
+    "pulledAt": "2026-11-12T12:51:29.563Z"
   },
   "pulls": [
+    {
+      "id": 81,
+      "name": "magnemite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-11-12T12:51:29.563Z"
+    },
     {
       "id": 353,
       "name": "shuppet",
@@ -118,17 +131,6 @@
       "totalStats": 404,
       "grade": "R",
       "pulledAt": "2026-11-10T02:57:15.522Z"
-    },
-    {
-      "id": 30,
-      "name": "nidorina",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-11-09T20:47:32.045Z"
     }
   ],
   "pokemon": {
@@ -579,6 +581,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-06T10:54:29.035Z",
       "lastPulledAt": "2026-11-06T10:54:29.035Z"
+    },
+    "81": {
+      "id": 81,
+      "name": "magnemite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 325,
+      "grade": "N",
+      "pulledAt": "2026-11-12T12:51:29.563Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T12:51:29.563Z",
+      "lastPulledAt": "2026-11-12T12:51:29.563Z"
     },
     "82": {
       "id": 82,
