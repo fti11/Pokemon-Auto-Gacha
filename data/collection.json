@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 334,
-  "updatedAt": "2026-11-12T12:51:29.563Z",
+  "totalPulls": 335,
+  "updatedAt": "2026-11-12T20:31:30.277Z",
   "lastPull": {
-    "id": 81,
-    "name": "magnemite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "id": 246,
+    "name": "larvitar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
     "types": [
-      "electric",
-      "steel"
+      "rock",
+      "ground"
     ],
-    "totalStats": 325,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-11-12T12:51:29.563Z"
+    "pulledAt": "2026-11-12T20:31:30.277Z"
   },
   "pulls": [
+    {
+      "id": 246,
+      "name": "larvitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-12T20:31:30.277Z"
+    },
     {
       "id": 81,
       "name": "magnemite",
@@ -120,17 +132,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-11-10T10:40:47.126Z"
-    },
-    {
-      "id": 918,
-      "name": "spidops",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 404,
-      "grade": "R",
-      "pulledAt": "2026-11-10T02:57:15.522Z"
     }
   ],
   "pokemon": {
@@ -1523,6 +1524,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T23:39:28.361Z",
       "lastPulledAt": "2026-10-25T23:39:28.361Z"
+    },
+    "246": {
+      "id": 246,
+      "name": "larvitar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-12T20:31:30.277Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T20:31:30.277Z",
+      "lastPulledAt": "2026-11-12T20:31:30.277Z"
     },
     "249": {
       "id": 249,
