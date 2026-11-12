@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 332,
-  "updatedAt": "2026-11-11T23:41:03.338Z",
+  "totalPulls": 333,
+  "updatedAt": "2026-11-12T04:18:23.772Z",
   "lastPull": {
-    "id": 142,
-    "name": "aerodactyl",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "id": 353,
+    "name": "shuppet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
     "types": [
-      "rock",
-      "flying"
+      "ghost"
     ],
-    "totalStats": 515,
-    "grade": "SR",
-    "pulledAt": "2026-11-11T23:41:03.338Z"
+    "totalStats": 295,
+    "grade": "N",
+    "pulledAt": "2026-11-12T04:18:23.772Z"
   },
   "pulls": [
+    {
+      "id": 353,
+      "name": "shuppet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 295,
+      "grade": "N",
+      "pulledAt": "2026-11-12T04:18:23.772Z"
+    },
     {
       "id": 142,
       "name": "aerodactyl",
@@ -119,17 +129,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-11-09T20:47:32.045Z"
-    },
-    {
-      "id": 362,
-      "name": "glalie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/362.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-09T10:17:17.836Z"
     }
   ],
   "pokemon": {
@@ -1832,10 +1831,10 @@
       "totalStats": 295,
       "grade": "N",
       "pulledAt": "2026-10-04T23:57:45.898Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T23:57:45.898Z",
-      "lastPulledAt": "2026-10-04T23:57:45.898Z"
+      "lastPulledAt": "2026-11-12T04:18:23.772Z"
     },
     "360": {
       "id": 360,
