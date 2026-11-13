@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 336,
-  "updatedAt": "2026-11-13T01:25:50.214Z",
+  "totalPulls": 337,
+  "updatedAt": "2026-11-13T08:17:56.569Z",
   "lastPull": {
-    "id": 295,
-    "name": "exploud",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+    "id": 312,
+    "name": "minun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
     "types": [
-      "normal"
+      "electric"
     ],
-    "totalStats": 490,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-11-13T01:25:50.214Z"
+    "pulledAt": "2026-11-13T08:17:56.569Z"
   },
   "pulls": [
+    {
+      "id": 312,
+      "name": "minun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-13T08:17:56.569Z"
+    },
     {
       "id": 295,
       "name": "exploud",
@@ -119,18 +130,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-10T23:26:37.264Z"
-    },
-    {
-      "id": 948,
-      "name": "toedscool",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
-      "types": [
-        "ground",
-        "grass"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-11-10T18:17:23.278Z"
     }
   ],
   "pokemon": {
@@ -1712,6 +1711,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T05:16:13.276Z",
       "lastPulledAt": "2026-10-15T05:16:13.276Z"
+    },
+    "312": {
+      "id": 312,
+      "name": "minun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-13T08:17:56.569Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T08:17:56.569Z",
+      "lastPulledAt": "2026-11-13T08:17:56.569Z"
     },
     "318": {
       "id": 318,
