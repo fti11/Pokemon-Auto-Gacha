@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 337,
-  "updatedAt": "2026-11-13T08:17:56.569Z",
+  "totalPulls": 338,
+  "updatedAt": "2026-11-13T16:29:51.285Z",
   "lastPull": {
-    "id": 312,
-    "name": "minun",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
+    "id": 827,
+    "name": "nickit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
     "types": [
-      "electric"
+      "dark"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-13T08:17:56.569Z"
+    "totalStats": 245,
+    "grade": "N",
+    "pulledAt": "2026-11-13T16:29:51.285Z"
   },
   "pulls": [
+    {
+      "id": 827,
+      "name": "nickit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-11-13T16:29:51.285Z"
+    },
     {
       "id": 312,
       "name": "minun",
@@ -118,18 +129,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-11T02:53:05.412Z"
-    },
-    {
-      "id": 48,
-      "name": "venonat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-10T23:26:37.264Z"
     }
   ],
   "pokemon": {
@@ -3807,6 +3806,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T12:15:07.276Z",
       "lastPulledAt": "2026-10-30T12:15:07.276Z"
+    },
+    "827": {
+      "id": 827,
+      "name": "nickit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-11-13T16:29:51.285Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T16:29:51.285Z",
+      "lastPulledAt": "2026-11-13T16:29:51.285Z"
     },
     "829": {
       "id": 829,
