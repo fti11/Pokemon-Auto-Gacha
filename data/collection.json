@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 335,
-  "updatedAt": "2026-11-12T20:31:30.277Z",
+  "totalPulls": 336,
+  "updatedAt": "2026-11-13T01:25:50.214Z",
   "lastPull": {
-    "id": 246,
-    "name": "larvitar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "id": 295,
+    "name": "exploud",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
     "types": [
-      "rock",
-      "ground"
+      "normal"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-12T20:31:30.277Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-13T01:25:50.214Z"
   },
   "pulls": [
+    {
+      "id": 295,
+      "name": "exploud",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-13T01:25:50.214Z"
+    },
     {
       "id": 246,
       "name": "larvitar",
@@ -121,17 +131,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-11-10T18:17:23.278Z"
-    },
-    {
-      "id": 172,
-      "name": "pichu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 205,
-      "grade": "N",
-      "pulledAt": "2026-11-10T10:40:47.126Z"
     }
   ],
   "pokemon": {
@@ -1651,6 +1650,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T13:26:37.792Z",
       "lastPulledAt": "2026-09-19T13:26:37.792Z"
+    },
+    "295": {
+      "id": 295,
+      "name": "exploud",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-13T01:25:50.214Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T01:25:50.214Z",
+      "lastPulledAt": "2026-11-13T01:25:50.214Z"
     },
     "301": {
       "id": 301,
