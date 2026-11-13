@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 338,
-  "updatedAt": "2026-11-13T16:29:51.285Z",
+  "totalPulls": 339,
+  "updatedAt": "2026-11-13T22:04:47.685Z",
   "lastPull": {
-    "id": 827,
-    "name": "nickit",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
+    "id": 318,
+    "name": "carvanha",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
     "types": [
+      "water",
       "dark"
     ],
-    "totalStats": 245,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-11-13T16:29:51.285Z"
+    "pulledAt": "2026-11-13T22:04:47.685Z"
   },
   "pulls": [
+    {
+      "id": 318,
+      "name": "carvanha",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-13T22:04:47.685Z"
+    },
     {
       "id": 827,
       "name": "nickit",
@@ -117,18 +130,6 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-11-11T09:57:11.383Z"
-    },
-    {
-      "id": 851,
-      "name": "centiskorch",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
-      "types": [
-        "fire",
-        "bug"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-11T02:53:05.412Z"
     }
   ],
   "pokemon": {
@@ -1737,10 +1738,10 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-26T14:07:48.426Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T14:07:48.426Z",
-      "lastPulledAt": "2026-10-26T14:07:48.426Z"
+      "lastPulledAt": "2026-11-13T22:04:47.685Z"
     },
     "324": {
       "id": 324,
