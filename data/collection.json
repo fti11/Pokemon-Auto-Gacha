@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 339,
-  "updatedAt": "2026-11-13T22:04:47.685Z",
+  "totalPulls": 340,
+  "updatedAt": "2026-11-14T02:16:17.777Z",
   "lastPull": {
-    "id": 318,
-    "name": "carvanha",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
+    "id": 330,
+    "name": "flygon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
     "types": [
-      "water",
-      "dark"
+      "ground",
+      "dragon"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-11-13T22:04:47.685Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-11-14T02:16:17.777Z"
   },
   "pulls": [
+    {
+      "id": 330,
+      "name": "flygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T02:16:17.777Z"
+    },
     {
       "id": 318,
       "name": "carvanha",
@@ -118,18 +130,6 @@
       "totalStats": 323,
       "grade": "N",
       "pulledAt": "2026-11-11T17:36:55.814Z"
-    },
-    {
-      "id": 425,
-      "name": "drifloon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/425.png",
-      "types": [
-        "ghost",
-        "flying"
-      ],
-      "totalStats": 348,
-      "grade": "N",
-      "pulledAt": "2026-11-11T09:57:11.383Z"
     }
   ],
   "pokemon": {
@@ -1788,6 +1788,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-06T17:43:41.503Z",
       "lastPulledAt": "2026-11-06T17:43:41.503Z"
+    },
+    "330": {
+      "id": 330,
+      "name": "flygon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+      "types": [
+        "ground",
+        "dragon"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T02:16:17.777Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T02:16:17.777Z",
+      "lastPulledAt": "2026-11-14T02:16:17.777Z"
     },
     "332": {
       "id": 332,
