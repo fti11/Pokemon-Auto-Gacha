@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 342,
-  "updatedAt": "2026-11-14T15:37:16.606Z",
+  "totalPulls": 343,
+  "updatedAt": "2026-11-14T20:03:28.678Z",
   "lastPull": {
-    "id": 38,
-    "name": "ninetales",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "id": 136,
+    "name": "flareon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
     "types": [
       "fire"
     ],
-    "totalStats": 505,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-11-14T15:37:16.606Z"
+    "pulledAt": "2026-11-14T20:03:28.678Z"
   },
   "pulls": [
+    {
+      "id": 136,
+      "name": "flareon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T20:03:28.678Z"
+    },
     {
       "id": 38,
       "name": "ninetales",
@@ -117,17 +128,6 @@
       "totalStats": 325,
       "grade": "N",
       "pulledAt": "2026-11-12T12:51:29.563Z"
-    },
-    {
-      "id": 353,
-      "name": "shuppet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-11-12T04:18:23.772Z"
     }
   ],
   "pokemon": {
@@ -901,6 +901,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T17:33:53.678Z",
       "lastPulledAt": "2026-10-24T17:33:53.678Z"
+    },
+    "136": {
+      "id": 136,
+      "name": "flareon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-14T20:03:28.678Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T20:03:28.678Z",
+      "lastPulledAt": "2026-11-14T20:03:28.678Z"
     },
     "141": {
       "id": 141,
