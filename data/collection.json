@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 346,
-  "updatedAt": "2026-11-15T10:44:23.587Z",
+  "totalPulls": 347,
+  "updatedAt": "2026-11-15T17:25:01.686Z",
   "lastPull": {
-    "id": 721,
-    "name": "volcanion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+    "id": 216,
+    "name": "teddiursa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
     "types": [
-      "fire",
-      "water"
+      "normal"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-15T10:44:23.587Z"
+    "totalStats": 330,
+    "grade": "N",
+    "pulledAt": "2026-11-15T17:25:01.686Z"
   },
   "pulls": [
+    {
+      "id": 216,
+      "name": "teddiursa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-15T17:25:01.686Z"
+    },
     {
       "id": 721,
       "name": "volcanion",
@@ -117,17 +127,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-11-13T16:29:51.285Z"
-    },
-    {
-      "id": 312,
-      "name": "minun",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/312.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-13T08:17:56.569Z"
     }
   ],
   "pokemon": {
@@ -1366,6 +1365,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T04:39:04.514Z",
       "lastPulledAt": "2026-10-25T19:19:06.651Z"
+    },
+    "216": {
+      "id": 216,
+      "name": "teddiursa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 330,
+      "grade": "N",
+      "pulledAt": "2026-11-15T17:25:01.686Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T17:25:01.686Z",
+      "lastPulledAt": "2026-11-15T17:25:01.686Z"
     },
     "219": {
       "id": 219,
