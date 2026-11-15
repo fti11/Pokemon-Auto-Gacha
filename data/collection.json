@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 347,
-  "updatedAt": "2026-11-15T17:25:01.686Z",
+  "totalPulls": 348,
+  "updatedAt": "2026-11-15T21:55:22.447Z",
   "lastPull": {
-    "id": 216,
-    "name": "teddiursa",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+    "id": 369,
+    "name": "relicanth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
     "types": [
-      "normal"
+      "water",
+      "rock"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-15T17:25:01.686Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-15T21:55:22.447Z"
   },
   "pulls": [
+    {
+      "id": 369,
+      "name": "relicanth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-15T21:55:22.447Z"
+    },
     {
       "id": 216,
       "name": "teddiursa",
@@ -116,17 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-13T22:04:47.685Z"
-    },
-    {
-      "id": 827,
-      "name": "nickit",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
-      "types": [
-        "dark"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-11-13T16:29:51.285Z"
     }
   ],
   "pokemon": {
@@ -2003,6 +2005,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T14:46:56.642Z",
       "lastPulledAt": "2026-10-18T14:46:56.642Z"
+    },
+    "369": {
+      "id": 369,
+      "name": "relicanth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-15T21:55:22.447Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T21:55:22.447Z",
+      "lastPulledAt": "2026-11-15T21:55:22.447Z"
     },
     "371": {
       "id": 371,
