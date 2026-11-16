@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 348,
-  "updatedAt": "2026-11-15T21:55:22.447Z",
+  "totalPulls": 349,
+  "updatedAt": "2026-11-16T01:28:13.912Z",
   "lastPull": {
-    "id": 369,
-    "name": "relicanth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/369.png",
+    "id": 1024,
+    "name": "terapagos",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
     "types": [
-      "water",
-      "rock"
+      "normal"
     ],
-    "totalStats": 485,
+    "totalStats": 450,
     "grade": "R",
-    "pulledAt": "2026-11-15T21:55:22.447Z"
+    "pulledAt": "2026-11-16T01:28:13.912Z"
   },
   "pulls": [
+    {
+      "id": 1024,
+      "name": "terapagos",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-16T01:28:13.912Z"
+    },
     {
       "id": 369,
       "name": "relicanth",
@@ -117,18 +127,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-11-14T02:16:17.777Z"
-    },
-    {
-      "id": 318,
-      "name": "carvanha",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png",
-      "types": [
-        "water",
-        "dark"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-13T22:04:47.685Z"
     }
   ],
   "pokemon": {
@@ -4875,10 +4873,10 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-09-20T21:40:38.070Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:40:38.070Z",
-      "lastPulledAt": "2026-09-20T21:40:38.070Z"
+      "lastPulledAt": "2026-11-16T01:28:13.912Z"
     }
   },
   "typeTotals": {
