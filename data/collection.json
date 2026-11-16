@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 349,
-  "updatedAt": "2026-11-16T01:28:13.912Z",
+  "totalPulls": 350,
+  "updatedAt": "2026-11-16T08:16:47.667Z",
   "lastPull": {
-    "id": 1024,
-    "name": "terapagos",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+    "id": 314,
+    "name": "illumise",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
     "types": [
-      "normal"
+      "bug"
     ],
-    "totalStats": 450,
+    "totalStats": 430,
     "grade": "R",
-    "pulledAt": "2026-11-16T01:28:13.912Z"
+    "pulledAt": "2026-11-16T08:16:47.667Z"
   },
   "pulls": [
+    {
+      "id": 314,
+      "name": "illumise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-16T08:16:47.667Z"
+    },
     {
       "id": 1024,
       "name": "terapagos",
@@ -115,18 +126,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-14T08:59:50.559Z"
-    },
-    {
-      "id": 330,
-      "name": "flygon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
-      "types": [
-        "ground",
-        "dragon"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T02:16:17.777Z"
     }
   ],
   "pokemon": {
@@ -1769,6 +1768,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-13T08:17:56.569Z",
       "lastPulledAt": "2026-11-13T08:17:56.569Z"
+    },
+    "314": {
+      "id": 314,
+      "name": "illumise",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 430,
+      "grade": "R",
+      "pulledAt": "2026-11-16T08:16:47.667Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T08:16:47.667Z",
+      "lastPulledAt": "2026-11-16T08:16:47.667Z"
     },
     "318": {
       "id": 318,
