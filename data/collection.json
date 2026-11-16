@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 350,
-  "updatedAt": "2026-11-16T08:16:47.667Z",
+  "totalPulls": 351,
+  "updatedAt": "2026-11-16T18:36:50.541Z",
   "lastPull": {
-    "id": 314,
-    "name": "illumise",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/314.png",
+    "id": 901,
+    "name": "ursaluna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
     "types": [
-      "bug"
+      "ground",
+      "normal"
     ],
-    "totalStats": 430,
-    "grade": "R",
-    "pulledAt": "2026-11-16T08:16:47.667Z"
+    "totalStats": 550,
+    "grade": "SR",
+    "pulledAt": "2026-11-16T18:36:50.541Z"
   },
   "pulls": [
+    {
+      "id": 901,
+      "name": "ursaluna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T18:36:50.541Z"
+    },
     {
       "id": 314,
       "name": "illumise",
@@ -114,18 +127,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-14T15:37:16.606Z"
-    },
-    {
-      "id": 247,
-      "name": "pupitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-11-14T08:59:50.559Z"
     }
   ],
   "pokemon": {
@@ -4207,6 +4208,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-19T19:50:48.823Z",
       "lastPulledAt": "2026-10-19T19:50:48.823Z"
+    },
+    "901": {
+      "id": 901,
+      "name": "ursaluna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "totalStats": 550,
+      "grade": "SR",
+      "pulledAt": "2026-11-16T18:36:50.541Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T18:36:50.541Z",
+      "lastPulledAt": "2026-11-16T18:36:50.541Z"
     },
     "904": {
       "id": 904,
