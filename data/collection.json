@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 352,
-  "updatedAt": "2026-11-17T02:02:04.105Z",
+  "totalPulls": 353,
+  "updatedAt": "2026-11-17T10:33:24.732Z",
   "lastPull": {
-    "id": 659,
-    "name": "bunnelby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+    "id": 120,
+    "name": "staryu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 237,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-11-17T02:02:04.105Z"
+    "pulledAt": "2026-11-17T10:33:24.732Z"
   },
   "pulls": [
+    {
+      "id": 120,
+      "name": "staryu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-17T10:33:24.732Z"
+    },
     {
       "id": 659,
       "name": "bunnelby",
@@ -115,17 +126,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-11-14T23:50:01.307Z"
-    },
-    {
-      "id": 136,
-      "name": "flareon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T20:03:28.678Z"
     }
   ],
   "pokemon": {
@@ -834,10 +834,10 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-09-29T01:08:31.332Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T01:08:31.332Z",
-      "lastPulledAt": "2026-09-29T01:08:31.332Z"
+      "lastPulledAt": "2026-11-17T10:33:24.732Z"
     },
     "125": {
       "id": 125,
