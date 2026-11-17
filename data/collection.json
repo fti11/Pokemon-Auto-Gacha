@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 351,
-  "updatedAt": "2026-11-16T18:36:50.541Z",
+  "totalPulls": 352,
+  "updatedAt": "2026-11-17T02:02:04.105Z",
   "lastPull": {
-    "id": 901,
-    "name": "ursaluna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
+    "id": 659,
+    "name": "bunnelby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
     "types": [
-      "ground",
       "normal"
     ],
-    "totalStats": 550,
-    "grade": "SR",
-    "pulledAt": "2026-11-16T18:36:50.541Z"
+    "totalStats": 237,
+    "grade": "N",
+    "pulledAt": "2026-11-17T02:02:04.105Z"
   },
   "pulls": [
+    {
+      "id": 659,
+      "name": "bunnelby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-11-17T02:02:04.105Z"
+    },
     {
       "id": 901,
       "name": "ursaluna",
@@ -116,17 +126,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-14T20:03:28.678Z"
-    },
-    {
-      "id": 38,
-      "name": "ninetales",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-14T15:37:16.606Z"
     }
   ],
   "pokemon": {
@@ -3290,6 +3289,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T00:53:12.579Z",
       "lastPulledAt": "2026-10-06T00:53:12.579Z"
+    },
+    "659": {
+      "id": 659,
+      "name": "bunnelby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-11-17T02:02:04.105Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T02:02:04.105Z",
+      "lastPulledAt": "2026-11-17T02:02:04.105Z"
     },
     "663": {
       "id": 663,
