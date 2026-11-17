@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 353,
-  "updatedAt": "2026-11-17T10:33:24.732Z",
+  "totalPulls": 354,
+  "updatedAt": "2026-11-17T19:19:31.212Z",
   "lastPull": {
-    "id": 120,
-    "name": "staryu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+    "id": 59,
+    "name": "arcanine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
     "types": [
-      "water"
+      "fire"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-11-17T10:33:24.732Z"
+    "totalStats": 555,
+    "grade": "SR",
+    "pulledAt": "2026-11-17T19:19:31.212Z"
   },
   "pulls": [
+    {
+      "id": 59,
+      "name": "arcanine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T19:19:31.212Z"
+    },
     {
       "id": 120,
       "name": "staryu",
@@ -115,17 +126,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-15T03:10:03.679Z"
-    },
-    {
-      "id": 180,
-      "name": "flaaffy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-11-14T23:50:01.307Z"
     }
   ],
   "pokemon": {
@@ -484,6 +484,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T22:49:25.235Z",
       "lastPulledAt": "2026-10-03T22:49:25.235Z"
+    },
+    "59": {
+      "id": 59,
+      "name": "arcanine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T19:19:31.212Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-17T19:19:31.212Z",
+      "lastPulledAt": "2026-11-17T19:19:31.212Z"
     },
     "60": {
       "id": 60,
