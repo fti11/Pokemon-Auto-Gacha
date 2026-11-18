@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 354,
-  "updatedAt": "2026-11-17T19:19:31.212Z",
+  "totalPulls": 355,
+  "updatedAt": "2026-11-18T01:40:08.907Z",
   "lastPull": {
-    "id": 59,
-    "name": "arcanine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "id": 38,
+    "name": "ninetales",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
     "types": [
       "fire"
     ],
-    "totalStats": 555,
+    "totalStats": 505,
     "grade": "SR",
-    "pulledAt": "2026-11-17T19:19:31.212Z"
+    "pulledAt": "2026-11-18T01:40:08.907Z"
   },
   "pulls": [
+    {
+      "id": 38,
+      "name": "ninetales",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 505,
+      "grade": "SR",
+      "pulledAt": "2026-11-18T01:40:08.907Z"
+    },
     {
       "id": 59,
       "name": "arcanine",
@@ -115,17 +126,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-15T10:44:23.587Z"
-    },
-    {
-      "id": 750,
-      "name": "mudsdale",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/750.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-15T03:10:03.679Z"
     }
   ],
   "pokemon": {
@@ -371,10 +371,10 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-09-18T18:19:57.897Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T18:19:57.897Z",
-      "lastPulledAt": "2026-11-14T15:37:16.606Z"
+      "lastPulledAt": "2026-11-18T01:40:08.907Z"
     },
     "39": {
       "id": 39,
