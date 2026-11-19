@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 360,
-  "updatedAt": "2026-11-19T13:48:28.125Z",
+  "totalPulls": 361,
+  "updatedAt": "2026-11-19T21:51:18.803Z",
   "lastPull": {
-    "id": 70,
-    "name": "weepinbell",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "id": 585,
+    "name": "deerling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
     "types": [
-      "grass",
-      "poison"
+      "normal",
+      "grass"
     ],
-    "totalStats": 390,
+    "totalStats": 335,
     "grade": "N",
-    "pulledAt": "2026-11-19T13:48:28.125Z"
+    "pulledAt": "2026-11-19T21:51:18.803Z"
   },
   "pulls": [
+    {
+      "id": 585,
+      "name": "deerling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+      "types": [
+        "normal",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-11-19T21:51:18.803Z"
+    },
     {
       "id": 70,
       "name": "weepinbell",
@@ -117,18 +129,6 @@
       "totalStats": 237,
       "grade": "N",
       "pulledAt": "2026-11-17T02:02:04.105Z"
-    },
-    {
-      "id": 901,
-      "name": "ursaluna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/901.png",
-      "types": [
-        "ground",
-        "normal"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-11-16T18:36:50.541Z"
     }
   ],
   "pokemon": {
@@ -2963,6 +2963,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T14:37:53.256Z",
       "lastPulledAt": "2026-10-15T14:37:53.256Z"
+    },
+    "585": {
+      "id": 585,
+      "name": "deerling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+      "types": [
+        "normal",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-11-19T21:51:18.803Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T21:51:18.803Z",
+      "lastPulledAt": "2026-11-19T21:51:18.803Z"
     },
     "586": {
       "id": 586,
