@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 358,
-  "updatedAt": "2026-11-18T23:47:46.218Z",
+  "totalPulls": 359,
+  "updatedAt": "2026-11-19T04:34:01.953Z",
   "lastPull": {
-    "id": 804,
-    "name": "naganadel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+    "id": 858,
+    "name": "hatterene",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
     "types": [
-      "poison",
-      "dragon"
+      "psychic",
+      "fairy"
     ],
-    "totalStats": 540,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-11-18T23:47:46.218Z"
+    "pulledAt": "2026-11-19T04:34:01.953Z"
   },
   "pulls": [
+    {
+      "id": 858,
+      "name": "hatterene",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-19T04:34:01.953Z"
+    },
     {
       "id": 804,
       "name": "naganadel",
@@ -116,17 +128,6 @@
       "totalStats": 430,
       "grade": "R",
       "pulledAt": "2026-11-16T08:16:47.667Z"
-    },
-    {
-      "id": 1024,
-      "name": "terapagos",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-11-16T01:28:13.912Z"
     }
   ],
   "pokemon": {
@@ -4128,6 +4129,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-11T02:53:05.412Z",
       "lastPulledAt": "2026-11-11T02:53:05.412Z"
+    },
+    "858": {
+      "id": 858,
+      "name": "hatterene",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-19T04:34:01.953Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T04:34:01.953Z",
+      "lastPulledAt": "2026-11-19T04:34:01.953Z"
     },
     "860": {
       "id": 860,
