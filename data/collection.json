@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 363,
-  "updatedAt": "2026-11-20T10:32:29.905Z",
+  "totalPulls": 364,
+  "updatedAt": "2026-11-20T18:46:34.423Z",
   "lastPull": {
-    "id": 159,
-    "name": "croconaw",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
+    "id": 713,
+    "name": "avalugg",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
     "types": [
-      "water"
+      "ice"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-20T10:32:29.905Z"
+    "totalStats": 514,
+    "grade": "SR",
+    "pulledAt": "2026-11-20T18:46:34.423Z"
   },
   "pulls": [
+    {
+      "id": 713,
+      "name": "avalugg",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 514,
+      "grade": "SR",
+      "pulledAt": "2026-11-20T18:46:34.423Z"
+    },
     {
       "id": 159,
       "name": "croconaw",
@@ -118,17 +129,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-18T01:40:08.907Z"
-    },
-    {
-      "id": 59,
-      "name": "arcanine",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-11-17T19:19:31.212Z"
     }
   ],
   "pokemon": {
@@ -3614,10 +3614,10 @@
       "totalStats": 514,
       "grade": "SR",
       "pulledAt": "2026-09-27T20:24:58.433Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T20:24:58.433Z",
-      "lastPulledAt": "2026-09-27T20:24:58.433Z"
+      "lastPulledAt": "2026-11-20T18:46:34.423Z"
     },
     "714": {
       "id": 714,
