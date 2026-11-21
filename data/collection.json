@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 365,
-  "updatedAt": "2026-11-21T00:19:03.020Z",
+  "totalPulls": 366,
+  "updatedAt": "2026-11-21T07:21:46.777Z",
   "lastPull": {
-    "id": 1014,
-    "name": "okidogi",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+    "id": 970,
+    "name": "glimmora",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
     "types": [
-      "poison",
-      "fighting"
+      "rock",
+      "poison"
     ],
-    "totalStats": 555,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-11-21T00:19:03.020Z"
+    "pulledAt": "2026-11-21T07:21:46.777Z"
   },
   "pulls": [
+    {
+      "id": 970,
+      "name": "glimmora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T07:21:46.777Z"
+    },
     {
       "id": 1014,
       "name": "okidogi",
@@ -119,18 +131,6 @@
       "totalStats": 487,
       "grade": "R",
       "pulledAt": "2026-11-18T17:57:26.818Z"
-    },
-    {
-      "id": 993,
-      "name": "iron-jugulis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-18T09:05:39.836Z"
     }
   ],
   "pokemon": {
@@ -4748,10 +4748,10 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-23T20:11:10.866Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-23T20:11:10.866Z",
-      "lastPulledAt": "2026-10-23T20:11:10.866Z"
+      "lastPulledAt": "2026-11-21T07:21:46.777Z"
     },
     "973": {
       "id": 973,
