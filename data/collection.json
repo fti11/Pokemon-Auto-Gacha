@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 367,
-  "updatedAt": "2026-11-21T15:28:36.909Z",
+  "totalPulls": 368,
+  "updatedAt": "2026-11-21T20:58:32.517Z",
   "lastPull": {
-    "id": 12,
-    "name": "butterfree",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "id": 21,
+    "name": "spearow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
     "types": [
-      "bug",
+      "normal",
       "flying"
     ],
-    "totalStats": 395,
+    "totalStats": 262,
     "grade": "N",
-    "pulledAt": "2026-11-21T15:28:36.909Z"
+    "pulledAt": "2026-11-21T20:58:32.517Z"
   },
   "pulls": [
+    {
+      "id": 21,
+      "name": "spearow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 262,
+      "grade": "N",
+      "pulledAt": "2026-11-21T20:58:32.517Z"
+    },
     {
       "id": 12,
       "name": "butterfree",
@@ -120,18 +132,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-19T04:34:01.953Z"
-    },
-    {
-      "id": 804,
-      "name": "naganadel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
-      "types": [
-        "poison",
-        "dragon"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-11-18T23:47:46.218Z"
     }
   ],
   "pokemon": {
@@ -287,10 +287,10 @@
       "totalStats": 262,
       "grade": "N",
       "pulledAt": "2026-09-27T01:49:49.877Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T01:49:49.877Z",
-      "lastPulledAt": "2026-09-27T01:49:49.877Z"
+      "lastPulledAt": "2026-11-21T20:58:32.517Z"
     },
     "23": {
       "id": 23,
