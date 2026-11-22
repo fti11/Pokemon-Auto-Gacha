@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 371,
-  "updatedAt": "2026-11-22T15:38:40.873Z",
+  "totalPulls": 372,
+  "updatedAt": "2026-11-22T21:14:06.351Z",
   "lastPull": {
-    "id": 905,
-    "name": "enamorus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
+    "id": 717,
+    "name": "yveltal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
     "types": [
-      "fairy",
+      "dark",
       "flying"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-22T15:38:40.873Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-22T21:14:06.351Z"
   },
   "pulls": [
+    {
+      "id": 717,
+      "name": "yveltal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-22T21:14:06.351Z"
+    },
     {
       "id": 905,
       "name": "enamorus-incarnate",
@@ -118,18 +130,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-20T10:32:29.905Z"
-    },
-    {
-      "id": 983,
-      "name": "kingambit",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
-      "types": [
-        "dark",
-        "steel"
-      ],
-      "totalStats": 550,
-      "grade": "SR",
-      "pulledAt": "2026-11-20T02:43:33.137Z"
     }
   ],
   "pokemon": {
@@ -3651,6 +3651,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T05:29:56.161Z",
       "lastPulledAt": "2026-10-14T05:29:56.161Z"
+    },
+    "717": {
+      "id": 717,
+      "name": "yveltal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-22T21:14:06.351Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T21:14:06.351Z",
+      "lastPulledAt": "2026-11-22T21:14:06.351Z"
     },
     "720": {
       "id": 720,
