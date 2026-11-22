@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 369,
-  "updatedAt": "2026-11-22T00:56:06.010Z",
+  "totalPulls": 370,
+  "updatedAt": "2026-11-22T07:38:25.383Z",
   "lastPull": {
-    "id": 753,
-    "name": "fomantis",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+    "id": 599,
+    "name": "klink",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
     "types": [
-      "grass"
+      "steel"
     ],
-    "totalStats": 250,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-11-22T00:56:06.010Z"
+    "pulledAt": "2026-11-22T07:38:25.383Z"
   },
   "pulls": [
+    {
+      "id": 599,
+      "name": "klink",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-22T07:38:25.383Z"
+    },
     {
       "id": 753,
       "name": "fomantis",
@@ -118,18 +129,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-11-19T21:51:18.803Z"
-    },
-    {
-      "id": 70,
-      "name": "weepinbell",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-11-19T13:48:28.125Z"
     }
   ],
   "pokemon": {
@@ -3070,10 +3069,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-20T05:20:31.082Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T05:20:31.082Z",
-      "lastPulledAt": "2026-11-09T02:37:55.641Z"
+      "lastPulledAt": "2026-11-22T07:38:25.383Z"
     },
     "602": {
       "id": 602,
