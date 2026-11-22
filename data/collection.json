@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 368,
-  "updatedAt": "2026-11-21T20:58:32.517Z",
+  "totalPulls": 369,
+  "updatedAt": "2026-11-22T00:56:06.010Z",
   "lastPull": {
-    "id": 21,
-    "name": "spearow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+    "id": 753,
+    "name": "fomantis",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
     "types": [
-      "normal",
-      "flying"
+      "grass"
     ],
-    "totalStats": 262,
+    "totalStats": 250,
     "grade": "N",
-    "pulledAt": "2026-11-21T20:58:32.517Z"
+    "pulledAt": "2026-11-22T00:56:06.010Z"
   },
   "pulls": [
+    {
+      "id": 753,
+      "name": "fomantis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-11-22T00:56:06.010Z"
+    },
     {
       "id": 21,
       "name": "spearow",
@@ -120,18 +130,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-11-19T13:48:28.125Z"
-    },
-    {
-      "id": 858,
-      "name": "hatterene",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/858.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-19T04:34:01.953Z"
     }
   ],
   "pokemon": {
@@ -3840,6 +3838,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-15T03:10:03.679Z",
       "lastPulledAt": "2026-11-15T03:10:03.679Z"
+    },
+    "753": {
+      "id": 753,
+      "name": "fomantis",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 250,
+      "grade": "N",
+      "pulledAt": "2026-11-22T00:56:06.010Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T00:56:06.010Z",
+      "lastPulledAt": "2026-11-22T00:56:06.010Z"
     },
     "772": {
       "id": 772,
