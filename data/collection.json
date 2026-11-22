@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 370,
-  "updatedAt": "2026-11-22T07:38:25.383Z",
+  "totalPulls": 371,
+  "updatedAt": "2026-11-22T15:38:40.873Z",
   "lastPull": {
-    "id": 599,
-    "name": "klink",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
+    "id": 905,
+    "name": "enamorus-incarnate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
     "types": [
-      "steel"
+      "fairy",
+      "flying"
     ],
-    "totalStats": 300,
-    "grade": "N",
-    "pulledAt": "2026-11-22T07:38:25.383Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-22T15:38:40.873Z"
   },
   "pulls": [
+    {
+      "id": 905,
+      "name": "enamorus-incarnate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T15:38:40.873Z"
+    },
     {
       "id": 599,
       "name": "klink",
@@ -117,18 +130,6 @@
       "totalStats": 550,
       "grade": "SR",
       "pulledAt": "2026-11-20T02:43:33.137Z"
-    },
-    {
-      "id": 585,
-      "name": "deerling",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
-      "types": [
-        "normal",
-        "grass"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-11-19T21:51:18.803Z"
     }
   ],
   "pokemon": {
@@ -4394,10 +4395,10 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-09-23T09:30:12.469Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T09:30:12.469Z",
-      "lastPulledAt": "2026-09-23T09:30:12.469Z"
+      "lastPulledAt": "2026-11-22T15:38:40.873Z"
     },
     "907": {
       "id": 907,
