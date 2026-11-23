@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 373,
-  "updatedAt": "2026-11-23T01:44:51.756Z",
+  "totalPulls": 374,
+  "updatedAt": "2026-11-23T09:49:54.533Z",
   "lastPull": {
-    "id": 529,
-    "name": "drilbur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+    "id": 799,
+    "name": "guzzlord",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
     "types": [
-      "ground"
+      "dark",
+      "dragon"
     ],
-    "totalStats": 328,
-    "grade": "N",
-    "pulledAt": "2026-11-23T01:44:51.756Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-23T09:49:54.533Z"
   },
   "pulls": [
+    {
+      "id": 799,
+      "name": "guzzlord",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T09:49:54.533Z"
+    },
     {
       "id": 529,
       "name": "drilbur",
@@ -118,17 +131,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-11-21T00:19:03.020Z"
-    },
-    {
-      "id": 713,
-      "name": "avalugg",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 514,
-      "grade": "SR",
-      "pulledAt": "2026-11-20T18:46:34.423Z"
     }
   ],
   "pokemon": {
@@ -3946,6 +3948,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T17:00:54.516Z",
       "lastPulledAt": "2026-10-12T06:15:52.670Z"
+    },
+    "799": {
+      "id": 799,
+      "name": "guzzlord",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-23T09:49:54.533Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T09:49:54.533Z",
+      "lastPulledAt": "2026-11-23T09:49:54.533Z"
     },
     "802": {
       "id": 802,
