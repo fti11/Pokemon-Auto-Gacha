@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 374,
-  "updatedAt": "2026-11-23T09:49:54.533Z",
+  "totalPulls": 375,
+  "updatedAt": "2026-11-23T21:43:59.142Z",
   "lastPull": {
-    "id": 799,
-    "name": "guzzlord",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
+    "id": 737,
+    "name": "charjabug",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
     "types": [
-      "dark",
-      "dragon"
+      "bug",
+      "electric"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-23T09:49:54.533Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-11-23T21:43:59.142Z"
   },
   "pulls": [
+    {
+      "id": 737,
+      "name": "charjabug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-23T21:43:59.142Z"
+    },
     {
       "id": 799,
       "name": "guzzlord",
@@ -119,18 +131,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-11-21T07:21:46.777Z"
-    },
-    {
-      "id": 1014,
-      "name": "okidogi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
-      "types": [
-        "poison",
-        "fighting"
-      ],
-      "totalStats": 555,
-      "grade": "SR",
-      "pulledAt": "2026-11-21T00:19:03.020Z"
     }
   ],
   "pokemon": {
@@ -3808,6 +3808,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T23:30:16.727Z",
       "lastPulledAt": "2026-10-02T23:30:16.727Z"
+    },
+    "737": {
+      "id": 737,
+      "name": "charjabug",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-23T21:43:59.142Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T21:43:59.142Z",
+      "lastPulledAt": "2026-11-23T21:43:59.142Z"
     },
     "742": {
       "id": 742,
