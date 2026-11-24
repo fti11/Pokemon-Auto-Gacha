@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 375,
-  "updatedAt": "2026-11-23T21:43:59.142Z",
+  "totalPulls": 376,
+  "updatedAt": "2026-11-24T05:33:47.903Z",
   "lastPull": {
-    "id": 737,
-    "name": "charjabug",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
+    "id": 428,
+    "name": "lopunny",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
     "types": [
-      "bug",
-      "electric"
+      "normal"
     ],
-    "totalStats": 400,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-11-23T21:43:59.142Z"
+    "pulledAt": "2026-11-24T05:33:47.903Z"
   },
   "pulls": [
+    {
+      "id": 428,
+      "name": "lopunny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-24T05:33:47.903Z"
+    },
     {
       "id": 737,
       "name": "charjabug",
@@ -119,18 +129,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-11-21T15:28:36.909Z"
-    },
-    {
-      "id": 970,
-      "name": "glimmora",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
-      "types": [
-        "rock",
-        "poison"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-21T07:21:46.777Z"
     }
   ],
   "pokemon": {
@@ -2366,6 +2364,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-11T09:57:11.383Z",
       "lastPulledAt": "2026-11-11T09:57:11.383Z"
+    },
+    "428": {
+      "id": 428,
+      "name": "lopunny",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-11-24T05:33:47.903Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T05:33:47.903Z",
+      "lastPulledAt": "2026-11-24T05:33:47.903Z"
     },
     "431": {
       "id": 431,
