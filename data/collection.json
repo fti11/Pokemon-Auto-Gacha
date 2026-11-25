@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 377,
-  "updatedAt": "2026-11-24T16:17:14.390Z",
+  "totalPulls": 378,
+  "updatedAt": "2026-11-25T00:48:40.642Z",
   "lastPull": {
-    "id": 169,
-    "name": "crobat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+    "id": 481,
+    "name": "mesprit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
     "types": [
-      "poison",
-      "flying"
+      "psychic"
     ],
-    "totalStats": 535,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-11-24T16:17:14.390Z"
+    "pulledAt": "2026-11-25T00:48:40.642Z"
   },
   "pulls": [
+    {
+      "id": 481,
+      "name": "mesprit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-25T00:48:40.642Z"
+    },
     {
       "id": 169,
       "name": "crobat",
@@ -118,18 +128,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-11-22T00:56:06.010Z"
-    },
-    {
-      "id": 21,
-      "name": "spearow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 262,
-      "grade": "N",
-      "pulledAt": "2026-11-21T20:58:32.517Z"
     }
   ],
   "pokemon": {
@@ -2535,6 +2533,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-15T18:36:46.234Z",
       "lastPulledAt": "2026-10-15T18:36:46.234Z"
+    },
+    "481": {
+      "id": 481,
+      "name": "mesprit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-25T00:48:40.642Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T00:48:40.642Z",
+      "lastPulledAt": "2026-11-25T00:48:40.642Z"
     },
     "484": {
       "id": 484,
