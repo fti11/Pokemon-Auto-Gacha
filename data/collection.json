@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 379,
-  "updatedAt": "2026-11-25T09:15:39.209Z",
+  "totalPulls": 380,
+  "updatedAt": "2026-11-25T19:18:23.067Z",
   "lastPull": {
-    "id": 631,
-    "name": "heatmor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+    "id": 73,
+    "name": "tentacruel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
     "types": [
-      "fire"
+      "water",
+      "poison"
     ],
-    "totalStats": 484,
-    "grade": "R",
-    "pulledAt": "2026-11-25T09:15:39.209Z"
+    "totalStats": 515,
+    "grade": "SR",
+    "pulledAt": "2026-11-25T19:18:23.067Z"
   },
   "pulls": [
+    {
+      "id": 73,
+      "name": "tentacruel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-11-25T19:18:23.067Z"
+    },
     {
       "id": 631,
       "name": "heatmor",
@@ -117,17 +130,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-22T15:38:40.873Z"
-    },
-    {
-      "id": 599,
-      "name": "klink",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/599.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-22T07:38:25.383Z"
     }
   ],
   "pokemon": {
@@ -609,6 +611,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-19T13:48:28.125Z",
       "lastPulledAt": "2026-11-19T13:48:28.125Z"
+    },
+    "73": {
+      "id": 73,
+      "name": "tentacruel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-11-25T19:18:23.067Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T19:18:23.067Z",
+      "lastPulledAt": "2026-11-25T19:18:23.067Z"
     },
     "79": {
       "id": 79,
