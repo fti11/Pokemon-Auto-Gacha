@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 378,
-  "updatedAt": "2026-11-25T00:48:40.642Z",
+  "totalPulls": 379,
+  "updatedAt": "2026-11-25T09:15:39.209Z",
   "lastPull": {
-    "id": 481,
-    "name": "mesprit",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
+    "id": 631,
+    "name": "heatmor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
     "types": [
-      "psychic"
+      "fire"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-25T00:48:40.642Z"
+    "totalStats": 484,
+    "grade": "R",
+    "pulledAt": "2026-11-25T09:15:39.209Z"
   },
   "pulls": [
+    {
+      "id": 631,
+      "name": "heatmor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 484,
+      "grade": "R",
+      "pulledAt": "2026-11-25T09:15:39.209Z"
+    },
     {
       "id": 481,
       "name": "mesprit",
@@ -117,17 +128,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-11-22T07:38:25.383Z"
-    },
-    {
-      "id": 753,
-      "name": "fomantis",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-11-22T00:56:06.010Z"
     }
   ],
   "pokemon": {
@@ -3236,10 +3236,10 @@
       "totalStats": 484,
       "grade": "R",
       "pulledAt": "2026-10-02T19:57:30.946Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T19:57:30.946Z",
-      "lastPulledAt": "2026-10-02T19:57:30.946Z"
+      "lastPulledAt": "2026-11-25T09:15:39.209Z"
     },
     "632": {
       "id": 632,
