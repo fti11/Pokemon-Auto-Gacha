@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 383,
-  "updatedAt": "2026-11-26T19:55:52.686Z",
+  "totalPulls": 384,
+  "updatedAt": "2026-11-27T02:32:57.419Z",
   "lastPull": {
-    "id": 785,
-    "name": "tapu-koko",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+    "id": 455,
+    "name": "carnivine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png",
     "types": [
-      "electric",
-      "fairy"
+      "grass"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-26T19:55:52.686Z"
+    "totalStats": 454,
+    "grade": "R",
+    "pulledAt": "2026-11-27T02:32:57.419Z"
   },
   "pulls": [
+    {
+      "id": 455,
+      "name": "carnivine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 454,
+      "grade": "R",
+      "pulledAt": "2026-11-27T02:32:57.419Z"
+    },
     {
       "id": 785,
       "name": "tapu-koko",
@@ -117,18 +127,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-11-23T21:43:59.142Z"
-    },
-    {
-      "id": 799,
-      "name": "guzzlord",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/799.png",
-      "types": [
-        "dark",
-        "dragon"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-11-23T09:49:54.533Z"
     }
   ],
   "pokemon": {
@@ -2534,6 +2532,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T23:25:38.220Z",
       "lastPulledAt": "2026-10-26T23:25:38.220Z"
+    },
+    "455": {
+      "id": 455,
+      "name": "carnivine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 454,
+      "grade": "R",
+      "pulledAt": "2026-11-27T02:32:57.419Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T02:32:57.419Z",
+      "lastPulledAt": "2026-11-27T02:32:57.419Z"
     },
     "456": {
       "id": 456,
