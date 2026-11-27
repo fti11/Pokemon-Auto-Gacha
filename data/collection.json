@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 385,
-  "updatedAt": "2026-11-27T11:20:43.786Z",
+  "totalPulls": 386,
+  "updatedAt": "2026-11-27T20:05:05.769Z",
   "lastPull": {
-    "id": 779,
-    "name": "bruxish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+    "id": 712,
+    "name": "bergmite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
     "types": [
-      "water",
-      "psychic"
+      "ice"
     ],
-    "totalStats": 475,
-    "grade": "R",
-    "pulledAt": "2026-11-27T11:20:43.786Z"
+    "totalStats": 304,
+    "grade": "N",
+    "pulledAt": "2026-11-27T20:05:05.769Z"
   },
   "pulls": [
+    {
+      "id": 712,
+      "name": "bergmite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-11-27T20:05:05.769Z"
+    },
     {
       "id": 779,
       "name": "bruxish",
@@ -117,17 +127,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-11-24T16:17:14.390Z"
-    },
-    {
-      "id": 428,
-      "name": "lopunny",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-11-24T05:33:47.903Z"
     }
   ],
   "pokemon": {
@@ -3724,6 +3723,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T17:37:06.998Z",
       "lastPulledAt": "2026-09-24T17:37:06.998Z"
+    },
+    "712": {
+      "id": 712,
+      "name": "bergmite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/712.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 304,
+      "grade": "N",
+      "pulledAt": "2026-11-27T20:05:05.769Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T20:05:05.769Z",
+      "lastPulledAt": "2026-11-27T20:05:05.769Z"
     },
     "713": {
       "id": 713,
