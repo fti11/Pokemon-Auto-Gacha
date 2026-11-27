@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 384,
-  "updatedAt": "2026-11-27T02:32:57.419Z",
+  "totalPulls": 385,
+  "updatedAt": "2026-11-27T11:20:43.786Z",
   "lastPull": {
-    "id": 455,
-    "name": "carnivine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/455.png",
+    "id": 779,
+    "name": "bruxish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
     "types": [
-      "grass"
+      "water",
+      "psychic"
     ],
-    "totalStats": 454,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-11-27T02:32:57.419Z"
+    "pulledAt": "2026-11-27T11:20:43.786Z"
   },
   "pulls": [
+    {
+      "id": 779,
+      "name": "bruxish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-27T11:20:43.786Z"
+    },
     {
       "id": 455,
       "name": "carnivine",
@@ -115,18 +128,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-11-24T05:33:47.903Z"
-    },
-    {
-      "id": 737,
-      "name": "charjabug",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
-      "types": [
-        "bug",
-        "electric"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-11-23T21:43:59.142Z"
     }
   ],
   "pokemon": {
@@ -4019,6 +4020,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T12:27:03.600Z",
       "lastPulledAt": "2026-10-17T12:27:03.600Z"
+    },
+    "779": {
+      "id": 779,
+      "name": "bruxish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/779.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-27T11:20:43.786Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T11:20:43.786Z",
+      "lastPulledAt": "2026-11-27T11:20:43.786Z"
     },
     "785": {
       "id": 785,
