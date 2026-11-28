@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 387,
-  "updatedAt": "2026-11-28T02:36:18.598Z",
+  "totalPulls": 388,
+  "updatedAt": "2026-11-28T10:49:12.291Z",
   "lastPull": {
-    "id": 171,
-    "name": "lanturn",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/171.png",
+    "id": 731,
+    "name": "pikipek",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
     "types": [
-      "water",
-      "electric"
+      "normal",
+      "flying"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-11-28T02:36:18.598Z"
+    "totalStats": 265,
+    "grade": "N",
+    "pulledAt": "2026-11-28T10:49:12.291Z"
   },
   "pulls": [
+    {
+      "id": 731,
+      "name": "pikipek",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-11-28T10:49:12.291Z"
+    },
     {
       "id": 171,
       "name": "lanturn",
@@ -117,17 +129,6 @@
       "totalStats": 484,
       "grade": "R",
       "pulledAt": "2026-11-25T09:15:39.209Z"
-    },
-    {
-      "id": 481,
-      "name": "mesprit",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-25T00:48:40.642Z"
     }
   ],
   "pokemon": {
@@ -3896,6 +3897,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T12:38:53.283Z",
       "lastPulledAt": "2026-10-11T12:38:53.283Z"
+    },
+    "731": {
+      "id": 731,
+      "name": "pikipek",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-11-28T10:49:12.291Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-28T10:49:12.291Z",
+      "lastPulledAt": "2026-11-28T10:49:12.291Z"
     },
     "732": {
       "id": 732,
